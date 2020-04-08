@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<div>
+    <div >
+        <div>
+            <h1>
+
+                            ROBO.AI : Answer Format
+            </h1>
+        </div>
+
+        <div id="content" >
+
+            <div id="main-content" >
+                <h2 ><span>Public Answer Format</span>
+                </h2>
+                <p>These are the types of answers that the ROBO.AI API will render.</p>
+                <div >
+                    <table border="1" class="wrapped confluenceTable">
+                        <colgroup>
+                            <col style="width: 116.0px;"/>
+                            <col style="width: 304.0px;"/>
+                            <col style="width: 329.0px;"/>
+                            <col style="width: 468.0px;"/>
+                        </colgroup>
+                        <tbody>
+                        <tr>
+                            <th >Message Type</th>
+                            <th colspan="1" >Description</th>
+                            <th >Syntax</th>
+                            <th >Example</th>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >text</td>
+                            <td colspan="1" >To display a simple text answer</td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;text&quot;, </pre>
+                                <pre>&quot;text&quot;: &lt;text&gt;</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;text&quot;, </pre>
+                                <pre>&quot;text&quot;: &quot;example text message&quot;</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >html</td>
+                            <td colspan="1" ><span>To display an html text answer</span></td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;html&quot;, </pre>
+                                <pre>&quot;text&quot;: &lt;html&gt;</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;html&quot;, </pre>
+                                <pre>&quot;text&quot;: &quot;&lt;p&gt;a paragraph&lt;/p&gt;&quot;</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >cms</td>
+                            <td colspan="1" >To display a message from the CMS</td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;cms&quot;, </pre>
+                                <pre>&quot;<span style="color: rgb(0,0,0);text-decoration: none;">cmsId</span>&quot; : &lt;id&gt;,<br/>&quot;parameters&quot;: [&quot;param1&quot;, &quot;param2&quot;]</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <pre>{<br/>&quot;type&quot;:&quot;cms&quot;, <br/><br/>&quot;cmsId&quot; : &quot;cms-answerid&quot;,<br/><br/>&quot;parameters&quot;: [&quot;param1&quot;, &quot;param2&quot;]<br/>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td >multichoice</td>
+                            <td colspan="1" >To show options to the user (buttons or chips)</td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;multichoice&quot;, </pre>
+                                <pre>&quot;options&quot;: [ </pre>
+                                <pre>  {&quot;label&quot;:&lt;label&gt;,&quot;value&quot;:&lt;value&gt;},</pre>
+                                <pre>  {&quot;label&quot;:&lt;label&gt;,&quot;value&quot;:&lt;value&gt;}</pre>
+                                <pre>]</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;multichoice&quot;, </pre>
+                                <pre>  &quot;options&quot;: [ </pre>
+                                <pre>      {&quot;label&quot;:&quot;ja&quot;,&quot;value&quot;:&quot;ja&quot;},</pre>
+                                <pre>      {&quot;label&quot;:&quot;nein&quot;,&quot;value&quot;:&quot;nein&quot;}</pre>
+                                <pre>   ]</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >hints</td>
+                            <td colspan="1" >To show topic hints</td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;hints&quot;, </pre>
+                                <pre>&quot;options&quot;: [ </pre>
+                                <pre>  {&quot;label&quot;:&lt;label&gt;,&quot;value&quot;:&lt;value&gt;},</pre>
+                                <pre>  {&quot;label&quot;:&lt;label&gt;,&quot;value&quot;:&lt;value&gt;}</pre>
+                                <pre>]</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;hints&quot;, </pre>
+                                <pre>  &quot;options&quot;: [ </pre>
+                                <pre>      {&quot;label&quot;:&quot;EQ Ready Check&quot;,&quot;value&quot;:&quot;EQ Ready Check&quot;},</pre>
+                                <pre>      {&quot;label&quot;:&quot;EQ Reichweite&quot;,&quot;value&quot;:&quot;EQ Reichweite&quot;}</pre>
+                                <pre>   ]</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td >image</td>
+                            <td colspan="1" >To embed an image</td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;image&quot;, </pre>
+                                <pre>&quot;title&quot;: &lt;title&gt;,</pre>
+                                <pre>&quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &lt;thumbnail-filename&gt;, </pre>
+                                <pre>&quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&lt;image-filename&gt;</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;image&quot;, </pre>
+                                <pre>  &quot;title&quot;: &quot;cool picture title&quot;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &quot;thumb.jpg&quot;, </pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&quot;picture.jpg&quot;</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >
+                                <pre>carousel</pre>
+                            </td>
+                            <td colspan="1" >To embed a carousel</td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;carousel&quot;, </pre>
+                                <pre>&quot;options&quot;: [<br/>{&quot;title&quot;: &lt;title&gt;,</pre>
+                                <pre>&quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &lt;thumbnail-filename&gt;, </pre>
+                                <pre>&quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&lt;image-filename&gt;}]</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;carousel&quot;, </pre>
+                                <pre>  &quot;options&quot;: [<br/><br/>  {&quot;title&quot;: &quot;smart fortwo&quot;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &quot;fortwo.jpg&quot;, </pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&quot;fortwo.jpg&quot;},</pre>
+                                <pre>  {&quot;title&quot;: &quot;smart forfour&quot;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &quot;forfour.jpg&quot;, </pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&quot;forfour.jpg&quot;}]</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td >video</td>
+                            <td colspan="1" >To embed an attached video</td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;video&quot;, </pre>
+                                <pre>  &quot;title&quot;: &lt;title&gt;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &lt;thumbnail-filename&gt;, </pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&lt;video-filename&gt;</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;video&quot;, </pre>
+                                <pre>  &quot;title&quot;: &quot;cool video title&quot;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &quot;video-thumb.jpg&quot;,      </pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">url</span>&quot;:&quot;video.mp4&quot;</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td >youtube</td>
+                            <td colspan="1" >To embed a youtube video</td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;youtube&quot;, </pre>
+                                <pre>  &quot;title&quot;: &lt;title&gt;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &lt;thumbnail-filename&gt;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">youtubeId</span>&quot;: &lt;youtube-id&gt;</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>  &quot;type&quot;:&quot;youtube&quot;,</pre>
+                                <pre>  &quot;title&quot;: &quot;cool video tittle&quot;,</pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">thumbnailURL</span>&quot;: &quot;youtube-video.jpg&quot;, </pre>
+                                <pre>  &quot;<span style="color: rgb(0,0,0);text-decoration: none;">youtubeId</span>&quot;:&quot;A8-hshCnNGU&quot;</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td >links</td>
+                            <td colspan="1" >To show links</td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;links&quot;, </pre>
+                                <pre>&quot;links&quot;: [ </pre>
+                                <pre>  {&quot;title&quot;:&lt;label&gt;,&quot;url&quot;:&lt;value&gt;},</pre>
+                                <pre>  {&quot;title&quot;:&lt;label&gt;,&quot;url&quot;:&lt;value&gt;}</pre>
+                                <pre>]</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;links&quot;, </pre>
+                                <pre>&quot;links&quot;: [ </pre>
+                                <pre>  {&quot;title&quot;:&quot;link title&quot;,&quot;url&quot;:&quot;http://url.com&quot;},</pre>
+                                <pre>  {&quot;title&quot;:&quot;link title&quot;,&quot;url&quot;:&quot;http://url.com&quot;}</pre>
+                                <pre>]</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >command</td>
+                            <td colspan="1" >To send a command to the client</td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;command&quot;, <br/>&quot;name&quot;: &lt;title&gt;,</pre>
+                                <pre>&quot;params&quot;: [ </pre>
+                                <pre>  {&quot;key&quot;:&lt;key&gt;,&quot;value&quot;:&lt;value&gt;},</pre>
+                                <pre>  {&quot;key&quot;:&lt;key&gt;,&quot;value&quot;:&lt;value&gt;}</pre>
+                                <pre>]</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;command&quot;, <br/>&quot;name&quot;: &quot;open-url&quot;,</pre>
+                                <pre>&quot;params&quot;: [ </pre>
+                                <pre>  {&quot;key&quot;:&quot;url&quot;,&quot;value&quot;:&quot;http://google.com&quot;}</pre>
+                                <pre>]</pre>
+                                <pre>}</pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" >ssml</td>
+                            <td colspan="1" >An answer in SSML format for voice bots.</td>
+                            <td colspan="1" >
+                                <pre>{</pre>
+                                <pre>&quot;type&quot;:&quot;ssml&quot;, </pre>
+                                <pre>&quot;<code><span >ssml</span></code>&quot;: &lt;ssml&gt;</pre>
+                                <pre>}</pre>
+                            </td>
+                            <td colspan="1" >
+                                <div >
+                                    <div ><code><span class="p"
+                                    >{</span><span
+                                    >
+    </span><span >&quot;type&quot;</span><span class="p"
+                                    >:</span><span
+                                    > </span><span class="s2"
+                                                   style="">&quot;ssml&quot;</span><span
+                                            >,</span><span class="w"
+                                    >
+    </span><span >&quot;ssml&quot;</span><span class="p"
+                                    >:</span><span
+                                    > </span><span class="s2"
+                                                   style="">&quot;&lt;speak&gt;
+        Here is a number read 
+        as a cardinal number: 
+        &lt;say-as interpret-as='cardinal'&gt;12345&lt;/say-as&gt;. 
+        Here is a word spelled out: 
+        &lt;say-as interpret-as='spell-out'&gt;hello&lt;/say-as&gt;. 
+    &lt;/speak&gt;&quot;</span><span>
+</span><span >}</span><span>
+</span></code></pre>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+</div>
+</body>
+</html>

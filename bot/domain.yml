@@ -1,0 +1,162 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - text
+  - ssml
+  - html
+  - multichoice
+  - hints
+  - image
+  - carousel
+  - video
+  - youtube
+  - links
+  - command
+
+responses:
+  utter_greet:
+    - custom:
+        answers:
+          - type: text
+            text: "Howdy"
+          - type: ssml
+            text: "<speak>Howdy</speak>"
+
+  utter_cheer_up:
+    - custom:
+        answers:
+          - type: text
+            text: "Here is something to cheer you up:"
+          - type: ssml
+            text: "<speak>Here is something to cheer you up:</speak>"
+          - type: image
+            title: "Baby tiger"
+            thumbnailURL: "https://i.imgur.com/nGF1K8f.jpg"
+            url: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+    - custom:
+        answers:
+          - type: text
+            text: "Did that help you?"
+          - type: ssml
+            text: "<speak>Did that help you?</speak>"
+
+  utter_happy:
+    - custom:
+        answers:
+          - type: text
+            text: "Great, carry on!"
+          - type: ssml
+            text: "<speak>Great, carry on!</speak>"
+
+  utter_goodbye:
+    - custom:
+        answers:
+          - type: text
+            text: "Bye"
+          - type: ssml
+            text: "<speak>Bye</speak>"
+
+  utter_iamabot:
+    - custom:
+        answers:
+          - type: text
+            text: "I am a bot, powered by Rasa."
+          - type: ssml
+            text: "<speak>I am a bot, powered by Rasa.</speak>"
+
+  utter_text:
+    - custom:
+        answers:
+          - type: text
+            text: "Text Answer"
+
+
+  utter_ssml:
+    - custom:
+        answers:
+          - type: ssml
+            text: "<speak>SSML Content</speak>"
+
+  utter_html:
+    - custom:
+        answers:
+          - type: html
+            text: "<p>HTML Content</p>"
+
+  utter_multichoice:
+    - custom:
+        answers:
+          - type: multichoice
+            options:
+              - label: "yes"
+                value: "yes"
+              - label: "no"
+                value: "no"
+
+
+  utter_hints:
+    - custom:
+        answers:
+          - type: hints
+            options:
+              - label: "hint1"
+                value: "hint1"
+              - label: "hint2"
+                value: "hint2"
+
+  utter_image:
+    - custom:
+        answers:
+          - type: image
+            title: "Baby tiger"
+            thumbnailURL: "https://i.imgur.com/nGF1K8f.jpg"
+            url: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_video:
+    - custom:
+        answers:
+          - type: video
+            title: "Baby tiger"
+            thumbnailURL: "https://i.imgur.com/nGF1K8f.jpg"
+            url: "https://i.imgur.com/nGF1K8f.mp4"
+
+  utter_youtube:
+    - custom:
+        answers:
+          - type: youtube
+            title: "Baby tiger"
+            thumbnailURL: "https://i.imgur.com/nGF1K8f.jpg"
+            youtubeId: "fsdfsdgfgd"
+
+  utter_links:
+    - custom:
+        answers:
+          - type: links
+            links:
+              - title: "title"
+                url: "hint1"
+              - title: "title2"
+                url: "hint2"
+
+  utter_command:
+    - custom:
+        answers:
+          - type: command
+            name: "open-url"
+            params:
+              - key: "url"
+                value: "google.com"
+
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
