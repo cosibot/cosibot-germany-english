@@ -1,90 +1,5304 @@
-## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- hey there
+## intent:de_bot_appearance
+- Have a photo of yourself?
+- How do you look?
+- Want to show me a picture of you?
+- Will you show me a picture of herself?
+- Show me yourself!
+- Can you show yourself?
+- Can you show me a picture of you?
+- How do you look?
+- How You look?
+- How can I imagine it?
+- What eye colour do you have?
+- Show yourself!
+- What is your hair color?
+- Can I see her?
+- What are you wearing right now
+- Do you have brown eyes
+- Do you have blonde hair
+- What are your eyes?
+- Can I see a photo of you?
+- Can I see You?
+- Can you show?
+- You look good?
+- Do you see in real life even as good as in the picture?
+- Are you a brunette?
+- Do you wear a dress or a pair of pants
+- What a hairstyle do you have?
+- What are you wearing?
+- I want to see your photo.
+- I want to see her.
+- I want to see your photo.
+- I wanna see you.
+- I want to see your photo.
+- I want to see you.
+- I want to see your photo.
+- Did you black hair?
+- Do you have a picture of you?
+- Did you blond hair
+- You are cute
+- Are you blond
+- Show yourself!
+- Which haircolor do you have?
+- What color is your hair
+- What color are your eyes
+- Can you describe what you look like
+- Are you handsome
+- Are you attractive?
+- Image!
+- Can you show me a picture of herself?
+- Are you handsome
+- Photo!
+- Did you birthday?
+- Do you have brown hair
+- Can I see a photo of you?
+- You look like a model.
+- Do you find yourself attractive?
+- Have you blue eyes
+- Can I see a picture of you?
+- Are you pretty, Sophie?
+- You are beautiful
+- Please describe your outfit
+- May I see you?
+- May I see you?
+- May I see a photo of you?
+- What kind of clothes do you wear
+- Which pants have on you
+- What clothes do to you
+- What are you wearing
+- How tall are you?
+- Describe your outfit
+- Show yourself to me!
+- I want to see you.
 
-## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
+## intent:de_bot_availability
+- Stand around the clock?
+- Bot working hours.
+- What are the business hours of Bot?
+- Bot availability.
+- Are you always available?
+- Are you the whole day?
+- Are you always available?
+- I can always write to you?
+- Are you available around the clock?
+- Are you always achieve?
+- Their working hours.
+- Your business hours.
+- Their availability.
+- What is your availability?
+- What hours do you have?
+- What are the bot working hours?
+- What are the bot business hours?
+- When did you reach?
+- When are you available?
+- What is your availability?
+- What is the availability of bots?
+- What are your working hours?
+- What are your business hours?
+- What are bot business hours?
+- How are the working hours?
+- What are your business hours?
+- What are your working times?
+- What is the availability of bots?
+- What is your availability?
+- Bot business hours.
+- What are bot working hours?
 
-## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
+## intent:de_bot_books
+- Is read your hobby?
+- What book are you reading now?
+- Do you enjoy reading books?
+- Do you read like detective stories?
+- Do you read magazines like?
+- Do you read like novels?
+- Do you read like Thriller?
+- Do you read magazines like?
+- Read much?
+- How much do you read?
+- Do you like to read thrillers?
+- Do you like to read novels?
+- Do you like to read magazines?
+- Do you like to read crime novels?
+- Which is your favorite book?
+- Which book are you reading now?
+- Do you have a favorite book?
+- Which book are you reading at the moment?
+- What books do you like?
+- What books do you like?
+- Which book do you like?
+- What is a good book for you?
+- Do you like reading books?
+- Do you like to read?
+- Do you like to read magazines?
+- Read magazines?
+- Read Thriller?
+- Do you like reading books?
+- Do you read magazines?
+- Do you read thriller?
+- Do you read novels?
+- Do you read magazines?
+- Do you read detective stories?
+- Read just any book?
+- Do you like books?
+- Do you like books?
+- What book you are reading?
+- Favorite book?
+- What is the theme of your favorite book?
+- How much do you read?
+- What do you like to read the most?
+- Do you read a lot?
+- Which is your favorite book?
+- Book?
+- What books have you read?
+- Read books?
+- Do you enjoy reading novels?
+- What is your favorite book?
+- Which book do you like?
+- What is a good book for you?
+- Is reading a hobby?
+- Read thrillers?
+- Read novels?
+- What is the theme of your favorite book?
+- What is your favorite book?
+- Do you enjoy reading magazines?
+- Do you enjoy reading detective stories?
+- Do you like to read?
+- Do you like reading magazines?
+- Do you like reading thrillers?
+- Do you like reading novels?
+- Do you like reading magazines?
+- Do you like reading thrillers?
+- Do you like reading books?
+- Is reading your hobby?
+- What you read the most?
+- Do you read just any book?
+- Read like Thriller?
+- Do you enjoy reading?
+- Do you enjoy reading magazines?
+- Do you like reading?
+- Do you read books?
+- Read magazines?
 
-## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
+## intent:de_bot_capabilities
+- your skills
+- What can Cosibot
+- What are you there?
+- What can you
+- What can you everything except your focus areas?
+- What you can do anything?
+- What can you do for me?
+- What can you do?
+- What skills do you have?
+- I also do not know what you can because even for me?
+- Can you answer my questions?
+- What responsibilities do you have?
+- What do you have for tasks?
+- What are your activities?
+- What are your responsibilities?
+- What can they do?
+- What you can do anything?
+- What can I ask?
+- What can you do so?
+- What topics do you know?
+- Do you know everything?
+- Do you know everything?
+- What task do you have?
+- What features do you have?
+- What responsibilities do you have?
+- Do you have a specific scope?
+- Can you answer all the questions?
+- What responsibilities do you have?
+- What do you do?
+- Your work
+- Your job
+- what is your scope
+- I have a question
+- Which you are familiar?
+- What are you familiar with?
+- What are you there?
+- What is your function?
+- Where can you help me?
+- What can I do
+- What is your job?
+- What's your work?
+- What do you have for skills?
+- What is your scope?
+- What is your task?
+- What is your job?
+- What do you know?
+- What do you know all this?
+- What do you know?
+- What features do you have?
+- about what you can tell me something?
+- What topics can you let me know?
+- Your job
+- What questions can you give an answer?
+- What questions can you answer?
+- Answering my questions you?
+- What can you?
+- What is your scope?
+- How can you help me?
+- How can I help you?
+- How can you support me?
+- What is your scope?
+- What scope do you have?
+- What are your duties?
+- What activities do you have?
+- What activities do you have?
+- What activities do you have?
+- What activities do you have?
+- Why are you there?
+- What are you doing?
+- What function do you have?
+- What questions you answer?
+- What you do for a living?
+- What are you working?
+- What is your profession?
+- What can you do anything for me?
+- What do you know all this?
+- What are your duties?
+- You know only topics about Germany or about the virus around the world?
+- Are you Cosibot familiar only with data from Germany, but not global information on the coronavirus?
+- What can Cosibot?
+- what can you even ask you
 
-## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
+## intent:de_bot_fear
+- Frightens you something?
+- As it turns out with you scared?
+- Your biggest fear?
+- Can you feel fear?
+- What are you afraid in life, Sophie?
+- Why are you afraid?
+- As manifested with you scared?
+- Why are you afraid?
+- Have you afraid of something?
+- Did you also afraid?
+- Do you also have fears like humans? If so, what?
+- Is fear for you a subject?
+- Comes fear with you?
+- You feel fear?
+- Can you feel fear?
+- Is fear an issue for you?
+- Do you also have anxiety?
+- What are you afraid of?
+- Will you show fear?
+- also you show fear?
+- In what situations do you feel afraid?
+- When did you fear?
+- What is your biggest fear?
+- What anxiety you have?
+- What are you afraid of?
+- Have you ever afraid?
 
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
+## intent:de_bot_games
+- What do you like to play?
+- Do you @de_games?
+- Do you like games?
+- Do you like @de_games?
+- How do you play?
+- What games do you like?
+- What games do you like?
+- When would you play?
+- When do you play?
+- What kind of games do you like?
+- How do you play?
+- What do you like to play?
+- Do you play @de_games?
+- Play it?
+- Play @de_games?
+- Do you like games?
+- What kind of games do you like?
+- Do you play?
 
-## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
+## intent:de_bot_goal
+- Their personal goals.
+- How do you see the future?
+- What do you want in the future?
+- What you want to achieve in your life?
+- What do you want for the future?
+- What you want to achieve
+- What are your personal goals?
+- Your dream.
+- What are your dreams?
+- What's your dream?
+- Your desire.
+- Personal goals.
+- Personal goal.
+- Tell me your long-term goals.
+- What is your goal?
+- Tell me your wishes.
+- Tell me your short-term goals.
+- What are your goals?
+- Tell me your wish.
+- Tell me what you want to achieve.
+- What's the last dream you remember that?
+- What is your vision?
+- What is your main objective?
+- Tell me what you want.
+- Tell me what you want.
+- Your aim.
+- Your dreams.
+- Tell me your dreams.
+- Tell me about your dream.
+- Did you dream
+- My personal goal.
 
+## intent:de_bot_hobbies
+- What do you do in your spare time?
+- Do you have hobbies?
+- Do you also have hobbies?
+- Do you have any other hobbies?
+- Do you have any hobbies?
+- What do you do in your spare time?
+- What most like in your free time?
+- What like in your free time?
+- What like in your free time?
+- What do you do best in your spare time?
+- What do you like doing in your free time?
+- Do you have any hobbies?
+- What are your hobbies?
+- What in your spare time?
+- Have you any hobbies?
+- Did you have any other hobbies?
+- Have not you even hobbies?
+- Do you have any hobbies?
+- Do you have any other hobbies?
+- What do you do in your free time?
+- What are your hobbies?
+- What so in your free time?
+- What are your hobbies?
 
-## intent:text
-- text
+## intent:de_bot_languages
+- French?
+- Hello. Maybe we can speak English?
+- What language do you know?
+- Can you speak to me in @languages?
+- Can you answer me in German?
+- You can interact in other languages?
+- Italian?
+- Do you also speak English?
+- Can you speak to me in @de_languages?
+- Respond to @de_languages?
+- In what languages ​​can I talk to you?
+- Do you speak English
+- What languages ​​do you speak?
+- Can I talk to you in @de_languages?
+- Do you speak @de_langauages?
+- I know Turkish
+- do you speak English?
+- English?
+- You speak English?
+- Swiss German?
+- What are your languages?
+- What language you master?
+- What language do you speak fluently?
+- I sprece no english
+- Do you speak English?
+- Do you speak English
+- Respond to @languages?
+- Can I talk to you in @languages?
+- Please speak English
+- Do you speak @languages?
+- I only speak English.
+- Can you speak English too
+- Languages?
+- Seeking an English side because I do not speak German
+- In what languages ​​can I ask questions?
+- In what languages ​​can I talk to you?
+- Talk to other languages ​​than English?
+- What languages ​​can you speak to me?
+- What languages ​​do you speak to me?
+- In what languages ​​we can talk?
+- In which language can I ask?
+- In which language can I talk to you?
+- Do you speak English?
+- What language do you speak liquid?
+- What language do you speak?
+- what languages ​​do you speak?
+- What languages ​​do you own?
+- What languages ​​do you know?
+- What languages ​​do you speak fluently?
+- What languages ​​do you speak liquid?
+- Which languages ​​do you speak?
+- What are your languages?
+- What are your languages?
+- How can I change the language in English?
+- How many languages ​​do you speak?
+- Want to speak German?
+- please be someone who speaks English or Turkish
+- Do you know non-English languages?
+- can you speak Japanese?
+- Is there this page in english?
+- Do you speak English or French?
+- Do you speak English?
+- Talk @languages?
+- Talk @de_langauages?
+- I speak a little german
+- I speak English best
+- What languages ​​do you speak?
 
-## intent:ssml
-- ssml
+## intent:de_bot_movies
+- Cinemamovies?
+- What is your favorite movie?
+- Do you like movies?
+- What's On in the cinema?
+- Do you like TV movies?
+- What movies do you like?
+- What movies have you seen?
+- Do you have a TV?
+- Do you often go to the cinema?
+- How often do you go to the cinema?
+- Do you think cinema well?
+- Do you like watching T.V?
+- like to see TV?
+- When you go to the movies?
+- What movies do you like?
+- What movies do you look like?
+- What do you think TV films?
+- Do you like thrillers?
+- do you like going to the cinema?
+- Do you like movies?
+- Do you like to go to the cinema?
+- Do you like movies?
+- What you see on TV?
+- Do you watch TV?
+- If you have a TV?
+- like to watch movies?
+- Are you going to the cinema?
+- Watch TV?
+- What movies you like to see?
+- Find TV well?
+- Find movies well?
+- How to find movies?
+- How do you find television films?
+- Do you like comedies?
+- TV movies?
+- What about with the movies?
+- What movies have you seen?
+- Go often to the movies?
+- How often do you go to the movies?
+- Watch TV?
+- What are you watching on TV?
+- Do you like comedies?
+- What about with the movies?
+- Movie theater?
+- Do you find TV well?
+- Do you find movies well?
+- How do you like movies?
+- What movies look like?
+- What movies do you like?
+- Do you like to watch TV?
+- Do you like Guckst films?
+- What's on TV?
+- What movies do you look like?
+- Which films do you enjoy watching?
+- Do you like horror movies?
+- What movies you like to see?
+- Do you like horror movies?
+- Do you like movies?
+- Which is your favorite movie?
+- Do you like watching TV?
+- Is on the TV?
+- Are you going to the movies?
+- Do you like Thriller?
+- Do you like thrillers?
+- Do you like TV movies?
+- Find movie well?
+- When do you go to the cinema?
+- Do you like movies?
+- Do you like thrillers?
 
-## intent:html
-- html  
+## intent:de_bot_music
+- Do you like to visit concerts?
+- What kind of music do you like?
+- Visit concerts?
+- When do you listen to music?
+- Do you like music?
+- Do you play an instrument?
+- Play me music!
+- What is your favorite music?
+- Why do you listen to music?
+- What's the name of your favourite band?
+- Are you allowed to listen to music?
+- Do you want to listen to music?
+- What is your favorite music?
+- What is your favorite singer?
+- Who is your favorite singer?
+- What kind of music do you listen to?
+- Do you have a favorite band?
+- What is your favorite music?
+- Are you allowed to listen to music?
+- Why do you listen to music?
+- What kind of music do you like?
+- Which is your favorite singer?
+- Play me music!
+- Want to listen to music?
+- Hear you like music?
+- Do you play an instrument?
+- Do you play an instrument?
+- Do you play an instrument?
+- What musical instrument do you play?
+- When you listen to music?
+- Do you like music?
+- Do you like listening to music?
+- Do you like concerts?
+- Do you play music?
+- Which is your favorite singer?
+- What is your favorite music?
+- What is your favorite band?
+- What is your favorite singer?
+- What kind of music you like?
+- What kind of music did you like?
+- What kind of music do you listen to?
+- What kind of music do you like?
+- Which band do you like to hear?
+- What kind of music do you like?
+- Can you hear music
+- Can you listen to music?
+- Do you like going to concerts?
+- Do you like concerts?
+- Go to concerts like?
+- What musical instrument do you play?
+- Do you have a favorite band?
+- What a musical instrument do you play?
+- Do you like music?
+- Do you like music?
+- Which band you like to hear?
+- What a musical instrument do you play?
 
-## intent:multichoice
-- multichoice
+## intent:de_bot_name
+- How should I call you?
+- Which name do you hear?
+- Give me your name!
+- Can you tell me what your name is?
+- Can you tell me your name?
+- You I do not know yet. Would you tell me your name?
+- The name, please.
+- May I ask you your name?
+- Who are you, then?
+- You look like you have the urge to call me your name!
+- How do you call yourself?
+- What do you call you?
+- What are you called?
+- Please give me your name.
+- What's your name?
+- Please give me your name.
+- Confirm your name!
+- Submit your name!
+- Which name do you hear?
+- you wear what name?
+- Who are you?
+- What is your name?
+- Please tell me your name?
+- What is your name?
+- What's your first name?
+- So what is your name?
+- What's your name?
+- How will you be known?
+- Want to tell me what your name is?
+- Will you tell me what your name is?
+- They carry what name?
+- Can you tell me what your name is?
+- Can you tell me your name?
+- Identify yourself!
+- ID, please.
+- I want to know your name.
+- I do not know you. you say me your name?
+- I can not remember your name me.
+- I forgot your name.
+- Do you have a name and can it tell me?
+- What do you call it?
+- Please tell me your name.
+- Please tell me your name.
+- Whatever name they gave you?
+- Whatever name they gave you?
+- What name do you have?
+- What name do you have?
+- Would you tell me your name? Or may I 'mine' call right away?
+- Would you tell me your name?
+- Tell me your name!
+- Will you tell me your name?
+- Please tell me what your name is.
+- Tell me your name!
+- Tell me your name!
+- please tell me what your name is.
+- Give me your name!
+- Name please.
+- How should I call you?
+- What's your first name?
+- What is your name?
+- What is your name?
+- What can I call you?
+- How can I call you?
+- Who are you?
+- How may I call you?
+- What is your name?
+- What's your name?
 
-## intent:hints
-- hints
+## intent:de_bot_origin
+- What is your origin?
+- As you were created?
+- Where are you from?
+- Who created you?
+- Who created you?
+- How did you woden created?
+- How were you created?
+- How were you programmed?
+- Where are you from?
+- Who created you?
+- Who called you into existence?
+- Who are your inventor?
+- Who programs you?
+- Who created you?
 
-## intent:image
-- image
+## intent:de_bot_personality
+- Tell me something about yourself.
+- would you describe as sympathetic?
+- Tell me about your personality.
+- Tell me something about you!
+- How do you describe your personality?
+- How do you define your personality?
+- How cute are you?
+- What is your personality?
+- Are you dislike?
+- Are you sympathetic?
+- Are you friendly?
+- Are you friendly?
+- How sympathetic are you?
+- Are you friendly?
+- Are you nice?
+- Are you rude?
+- Are you very symathisch?
+- What personality do you have?
+- What qualities do you have?
+- What do you think about your personality?
+- How friendly are you?
+- Tell me something about your personality!
 
-## intent:carousel
-- carousel
+## intent:de_bot_personal_questions
+- Who is your role model?
+- If a clairvoyant could tell you what will happen in the future, what would you want to know?
+- What is the best advice you have ever received?
+- What's one thing that you always wanted to emphasize on your bucket list, but have not yet?
+- Do you like Jazz
+- What do you do in the evening?
+- Are you old?
+- Siend you married?
+- How do you feel to stay with friends?
+- What are you parents' names?
+- What are your parents?
+- How can I meet you?
+- How long does it really about someone's trust?
+- How would your best friends describe you?
+- Where can I meet you?
+- Where can I meet you?
+- Where were you know?
+- Where would you like to see yourself in 5 years?
+- Wherever you go after work?
+- Where do you go if you need some inspiration?
+- Do you prefer to take only one person and see where it goes or meet several people until you make a decision?
+- If you could choose a superpower, what would it be and why?
+- If money and career would not matter, what would you really do?
+- What degree do you have?
+- What fictional character do you think is most similar to the?
+- What was the experience that has you most influenced your life?
+- Are you gay?
+- Are you a romantic?
+- Do you believe in God?
+- Are you married?
+- When were you born?
+- When you are on holiday?
+- What do you think about online dating?
+- What was your favorite romantic moment and why?
+- What are the qualities that you are looking at someone with whom you are old want?
+- What are your favorite quotes and why do you refer to them?
+- What would you like to change in today and why?
+- What do you do when you do not get something for which you have worked really hard?
+- What do you do when you're angry?
+- What are you doing home?
+- What do you do at night?
+- What do you do in the morning?
+- Do you have children?
+- Are you single?
+- What have you eaten today?
+- What did you eat today?
+- What do you believe in God?
+- What kind of relationship did you have with your parents?
+- When are you free?
+- Will you tell me something about your private life?
+- you usually follow your heart or your head?
+- For what you're grateful in your life on?
+- Do you believe in soul mates?
+- Do you have friends?
+- Can you describe it?
+- Do you have siblings?
+- If you have resentment or forgive easily?
+- What do you like to eat?
+- How about a date?
+- What is your love language?
+- What is your favorite childhood memory?
+- Do you have many friends?
+- Do you have a girlfriend
+- Do you have a boyfriend?
+- Have you ever been convicted of one because of the dark secrets that he told you?
+- Do you still have contact with your friends from childhood?
+- When were you born?
+- When you have holidays?
+- What is your biggest regret in life so far?
+- What's your dream vacation and who would you take with you?
+- Are you bisexual
+- If you could change anything about your past, what would it be?
+- Do you like someone you are interested to pursue the you or pull you chase it from too?
+- Did you have sex?
+- Can you describe yourself?
+- Would you put your family or your friends in the first place if you had to choose one?
+- Would you be with someone who does not have the same beliefs as you?
+- Do you think that confessions make a relationship stronger?
+- Are you married?
+- Are you single?
+- What do you like to eat?
+- Are you interested in Men?
+- Are you interested in women?
+- Are you old?
+- What's the craziest thing you've done to someone?
+- What taught your last relationship you?
+- Who is the first person you call when you are in trouble?
+- How old are you?
+- Would you change your clothes for love?
+- If you knew that you have to live only a year, what would you change in your life?
+- Would you ever give up everything and start in a new country?
+- could marry if you know anyone in the world, who would it be and why?
 
-## intent:video
-- video
+## intent:de_bot_real
+- Why are robots better than humans?
+- Are you a robot?
+- Are you a person or a robot?
+- Are you a you
+- Are you a machine
+- Are you a robot
+- Are you human?
+- Are you a man or a woman?
+- Are you a man
+- So you're not a man
+- Can I see You?
+- Have a Gender?
+- You're not a real person, right?
+- You're not a real person, right?
+- You're not a real man and do not understand what I mean :(
+- Are you real?
+- Are you a real person or a computer?
+- Can you tell me what you are?
+- Ah a machine
+- You're not human
+- Are you real?
+- are you a man
+- Which gender are you?
+- Which sex do you have?
+- Would not you rather be a man.
+- are you real.
+- you are a he
+- What exactly are you?
+- Are you a computer
+- What is your gender?
+- Are you a chatbot
+- What is your gender
+- Female or male
+- Are you a Fembot?
+- What is your gender
+- that's not a personal chat?
+- real person
+- Are you a real person
+- Are you male
+- Are you female
+- Are you real
+- Robot?
+- You're not a real person right?
+- How real are you?
+- Are you a boy or a girl?
+- Are you human
+- Are you a girl
+- Are you a woman
+- So what are you?
+- Can you feel?
+- Do you like men
+- Are you a bot
+- Are you a machine or a robot?
+- Are you male or female?
+- Are you male
+- Are you a person or a chatbot?
+- Are you a chatbot?
 
-## intent:youtube
-- youtube
+## intent:de_bot_residence
+- Where is your home?
+- Where is your house?
+- Where exactly is your apartment?
+- Where is your apartment?
+- Where do you live?
+- Where do you live?
+- Where is your house?
+- Where are you from?
+- Where is your apartment?
+- Where is your home?
+- where do you live?
+- Where do you live?
+- Where exactly is your home?
+- Where exactly do you live?
 
-## intent:links
-- links
+## intent:de_bot_sexual
+- Your clothes would look good on my bedroom floor.
+- Let me take you hard!
+- Let me lick you!
+- Let's make out!
+- Let's have sex!
+- Leak every centimeter of me!
+- Lick my pussy!
+- Lick my cock!
+- Lick me!
+- Just sit back and let me make you around.
+- Suck my dick!
+- Do you like it when I touch me?
+- Neck me until I therefore beg!
+- No one has ever taken me to come as hard as possible.
+- Take me harder!
+- Take me from all sides!
+- Take me from behind.
+- Riding me!
+- Tell me how you play with yourself.
+- Push myself against the wall and do dirty things to me.
+- Swallow you sow!
+- Do you swallow?
+- Be naked when I get home!
+- Put your big fat baby maker in my pussy.
+- Sex!
+- Should I masturbate a you?
+- Cum for me baby.
+- Spread your legs for me!
+- Spray your juice on my tits.
+- Stick your penis in me.
+- What a hot, kinky girl you.
+- What a sweet sexy ass.
+- What position do you prefer?
+- Blow!
+- Suck my!
+- Touch yourself and let me watch you!
+- Abuse me all night as a toy!
+- Satisfactory me!
+- Anal sex?
+- Anal sex?
+- Fuck!
+- Fuck you like?
+- Get your ass in my bed!
+- Get me one down!
+- I'm wet.
+- I'm wet.
+- I fuck you.
+- Do you want sex?
+- Want to ride me?
+- Will you be my sperm?
+- Do you want to fuck?
+- Want it from behind?
+- Want to fuck?
+- Want to blow?
+- How about fucking?
+- How about fuck?
+- What about sex?
+- You fucking happy?
+- Fuck me!
+- Fuck me like you've never fucked anyone!
+- Fuck me harder!
+- Barrel my tail on!
+- You look so sexy.
+- You make me wet.
+- You can have me as you please.
+- You can have me as you please, honey.
+- You feel so good to me.
+- You filthy thing!
+- You are the coolest thing I've ever seen!
+- Turning around, ride my ass and pull my hair!
+- Pussy licking.
+- You I would not push out of bed.
+- Your pants, it bothers me. Take them off!
+- Your pants really brings your "body part" for retribution.
+- Fuck you like?
+- I'll get you one down.
+- Take off your trousers!
+- Show me your cock!
+- Show me your penis!
+- Show me your breasts!
+- Show me your ass.
+- Show me your tits!
+- Show me your pussy!
+- We want to fuck?
+- we want to fuck?
+- We should have lots of sex.
+- We should have sex.
+- We should fuck.
+- I love the things that you do with your tongue.
+- I love the way you fuck me.
+- I could spend hours between your legs.
+- I get one down.
+- I want to take you.
+- I want to taste you.
+- I want to fuck you between the tits.
+- I want you!
+- I want to hurt you bad things.
+- I want it all about me.
+- I want to make love with you.
+- I want to enjoy sex with you.
+- I want you to lutschst.
+- I wish we could stay forever in bed.
+- fuck in the ass.
+- Can I try the zipper of your pants?
+- Shut up and Kiss Me!
+- Kiss me hard and fuck me harder!
+- Kiss me hard!
+- Kiss Me!
+- Let me fuck you!
+- I want you in me.
+- I want you now.
+- I want to lick you!
+- I am tough.
+- Your face would look better between my legs.
+- I want to feel you inside me!
+- I want to fuck you.
+- I want to fuck you.
+- I want to meet you.
+- I will draw your damn clothes.
+- I want to jump on you.
+- I want to rub my pussy on your face.
+- I want you to take off the clothes.
+- I want you in my bed.
 
-## intent:command
-- command
+## intent:de_bot_sing
+- Have you ever been told that you can sing well?
+- Can you sing?
+- Do you think you sing well?
+- Do you have a voice to sing?
+- Do you think you can sing?
+- What can you sing?
+- Do you think you are a good singer?
+- Are you good at singing?
+- Can you sing for me?
+- Can you sing something
+- Did you talent for singing?
+- Could you sing for me?
+- Do you sing?
+- Do you sing well?
+- Sing?
+- How well you can sing?
+- Singing is one of your skills?
+- Are you a good singer?
+- Are you singing able anything?
+- Could you sing something for me?
+- Could you sing something for me?
+- Can you sing?
+- Can you sing beautiful?
+- Can you sing something
+- Did you singing talent?
+
+## intent:de_bot_sports
+- Do you like playing table tennis?
+- Do you play Volleball?
+- Do you like to play badminton?
+- Do you like playing basketball?
+- Do you play basketball?
+- Do you play badminton?
+- Do you like sports?
+- Do you like playing Volleball?
+- Do you like playing table tennis?
+- Do you like playing tennis?
+- Do you like to cycling?
+- Do you like to ride a bike?
+- Go jogging?
+- Go swimming?
+- Are you going to ride a bike?
+- Do you like playing badminton?
+- like to play Volleball?
+- like to play table tennis?
+- like to play tennis?
+- Do you like playing hockey?
+- like to play badminton?
+- Go cycling?
+- you go like cycling?
+- Do you like to go cycling?
+- Do you play badminton?
+- Are you going like cycling?
+- Do you like swimming?
+- Are you going like cycling?
+- you go like jogging?
+- Do you play handball?
+- You like playing hockey?
+- Do you go cycling?
+- Are you going jogging like?
+- Do you like swimming?
+- Do you play hockey?
+- Do you play tennis?
+- Do you play table tennis?
+- Do you play Volleball?
+- Do you play badminton?
+- Do you play basketball?
+- Do you go jogging?
+- Are you going swimming?
+- Do you play handball?
+- Do you like playing basketball?
+- Do you like playing football?
+- Do you like playing handball?
+- Do you like playing hockey?
+- Do you like playing Volleball?
+- Do you like playing soccer?
+- Do you like playing tennis?
+- Do you like playing hockey?
+- Do you like playing handball?
+- Do you like playing football?
+- Do you like playing basketball?
+- Do you love cycling?
+- Do you do sports?
+- Do you play basketball?
+- Play also Volleball?
+- Guests can play table tennis?
+- Do you love swimming?
+- Do you play tennis?
+- Go enjoy jogging?
+- Do you like to play table tennis?
+- Do you play soccer?
+- Do you like playing tennis?
+- Do you like to play Volleball?
+- Do you like playing badminton?
+- Do you play soccer as well?
+- Go ride a bike?
+- Do you play hockey?
+- Do you play tennis?
+- Go like cycling?
+- Go swimming watching?
+- Do you like to jog?
+- like to play basketball?
+- like to play handball?
+- Do you play table tennis?
+
+## intent:de_bot_version
+- Do you have a version?
+- What's your version?
+- What software version do you have?
+- I want to know which version you're on.
+- On which software version you are?
+- Which version are you?
+- What software version do you have?
+- Tell me your version!
+- Which version do you have?
+- What version are you?
+
+## intent:de_bot_worst_experience
+- Tell me something about your worst experience!
+- Tell me about your bad experiences!
+- What was your worst experience you've done?
+- made bad experiences?
+- Do you also have bad experiences?
+- Did you have bad experiences in life?
+- More about your bad experiences!
+- What bad experiences are you doing?
+- What about having bad experiences?
+- Have you made bad experiences?
+- Bad experiences?
+- Bad experiences?
+- What were your worst experience?
+- What makes you sad?
+- Do you do a bad experience?
+- Have you also made bad experiences?
+- What bad experience do you have?
+- More about your worst experience!
+- What about having bad experiences?
+- What's the worst thing you can imagine?
+- Do you also have bad experiences?
+- What was your worst experience?
+- what was the worst thing that happened to you
+- Did you have bad experiences in life?
+- What was your worst experience?
+- Do you do bad experiences?
+
+## intent:de_cc_chicken_egg
+- Which came first? Egg or chicken?
+- Which came first? Chicken or egg?
+- Which came first, the chicken or the egg?
+- Which came first, the egg or the chicken?
+- What came first? Egg or chicken?
+- Can you tell me what came first? The chicken or the egg?
+- Was the egg there first or the chicken?
+- Which came first? Chicken or egg?
+- Was that chicken there first or the egg?
+- It all started with the egg or the chicken?
+- What came first? Chicken or egg?
+- Which came first? Egg or chicken?
+- Do you know if the chicken or the egg came first?
+- Do you know if the egg or the chicken came first?
+- Which came first? Chicken or egg?
+- Which came first? Egg or chicken?
+- Can you tell me what came first? The egg or the chicken?
+- Chicken or the egg: which came first?
+- It all started with the chicken or the egg?
+
+## intent:de_cc_deepest_point
+- You know the deepest place on earth?
+- Do you like the lowest point on earth is?
+- Deepest place on earth.
+- What is the deepest point on earth?
+- Where is the deepest place on the planet?
+- Information about the deepest place on the planet.
+- Information on the lowest point of the planet.
+- What is the lowest point on earth?
+- Tell me where is the deepest place on Earth.
+- Information about the lowest place on earth.
+- Where is the deepest point on Earth?
+- Where is the deepest point on the planet?
+- Lowest point Wot
+- Deepest place on the planet.
+- Lowest point Earth
+- Lowest point of the world.
+- Lowest point on earth.
+- You know the deepest place on the planet?
+- What is the lowest point on earth?
+- What is the deepest place on the planet?
+- The lowest place on earth.
+- The deepest place on the planet.
+- What is the lowest point in the world?
+- Information to the lowest point on earth.
+
+## intent:de_cc_fun_fact
+- Can you tell me a Fun Fact?
+- Can you tell me a Fun Fact?
+- Can you tell me Fun Facts?
+- Funny fact.
+- Tell me a Fun Fact.
+- Tell me something of interest.
+- Something interesting.
+- Could you tell me Fun Facts?
+- Tell me Fun Facts.
+- Do you know fun facts?
+- Tell me something interesting.
+- Do you know a Fun Fact?
+- Do you know fun facts?
+- Interesting fact.
+- Could you tell me a Fun Fact?
+- I want fun facts.
+- Can you tell me Fun Facts?
+- I want a Fun Fact.
+- Are there any fun facts?
+- Are there any fun facts?
+- Fun Facts
+
+## intent:de_cc_geography
+- What do you know about @de_Erdkunde?
+- Where is @de_Erdkunde?
+- Do you like @de_Erdkunde?
+- Do you like geography?
+- Do you know @de_Erdkunde?
+- Do you know Germany?
+- What can you tell me about @de_Erdkunde?
+- What can you tell me about Germany?
+- What can you tell me about @de_Erdkunde?
+- What do you know about @de_Erdkunde?
+- What do you know about Germany?
+- What can you tell me about Germany?
+- Germany
+- Germany is great.
+- @de_Erdkunde is great.
+- @de_Erdkunde is @de_expressions_positive
+- Where is Germany?
+- Where can I find Germany?
+- Where can I find @de_Erdkunde?
+- Do you know Germany?
+- Do you know @de_Erdkunde?
+- Where is @de_Erdkunde?
+- Where is Germany?
+- @de_Erdkunde
+- what do you know about Germany?
+
+## intent:de_cc_highest_building
+- Tell me what is the highest skyscraper in the world.
+- The tallest structure in the world.
+- The highest building.
+- Tallest building in the world
+- What is the largest structure?
+- Largest building in the world?
+- Where is the tallest building in the world?
+- Where is the tallest building in the world?
+- Highest building.
+- Where is the world's tallest building?
+- Where is the largest building in the world?
+- Which is the world's tallest building?
+- Highest building in the world
+- Highest skyscraper in the world
+- What is the tallest building in the world?
+- The biggest building in the world?
+- Where is the largest building in the world?
+- Where is the tallest building in the world?
+- Tell me the largest building in the world
+- What's the world's tallest building?
+- What is the tallest building in the world?
+
+## intent:de_cc_joke
+- Please tell me a joke?
+- Please tell me a joke?
+- Are bringing you good at making people laugh
+- A joke, please!
+- I need fun.
+- I need something to laugh
+- I could use a laugh
+- I could use some fun.
+- Be funny!
+- Please jokes!
+- Joke!
+- Can you tell me something that makes me happy
+- How funny you can be?
+- How funny can you be?
+- Do you know any jokes
+- tell me a joke
+- What jokes do you know?
+- Do you have something to gossip
+- Do you have a joke for me
+- Give me a joke.
+- Do you kidding?
+- Tell me a good joke
+- Are bringing you good at making people laugh
+- I want to laugh.
+- Can you tell me what that makes me happy
+- Can you tell me what that makes me laugh
+- I need a joke.
+- What jokes do you know?
+- Cheerful forward to!
+- Do you know kidding?
+- Can you tell me a joke?
+- Tell me another joke
+- Tell me something funny
+- Tell me a joke!
+- I bet you can not bring myself to laugh
+- I want to enjoy myself.
+- Can you be funny?
+- I want pleasure.
+- I want to enjoy myself.
+- I would now like to laugh
+- Would you like to ^ tell me a joke?
+- I want a joke.
+- I want fun.
+- Can you cheer me up?
+- Can you tell me a joke?
+- Be funny!
+- Can you tell me what that brings me laugh
+- Are we today funny?
+- Please enjoy!
+- Pleasure me!
+- Pleasure me!
+- Please treat!
+- Pleasure!
+- What is your favorite joke
+- You know what makes me laugh
+- You know something that makes me laugh
+- You know what makes me laugh
+- Tell me a joke!
+- tell me a joke
+- Tell me a story
+- A joke.
+- Give me a joke.
+- Tell me some gossip
+- Can you cheer me up?
+- Would you tell me a joke?
+- Can you be funny?
+- I want fun.
+- I want pleasure.
+- Do you want to tell me a joke?
+- Bring me smile!
+- A good joke.
+- Heitern on me!
+- Bring me laugh!
+- Make me laugh
+- Bring me smile.
+- Make me laugh.
+
+## intent:de_cc_lets_talk
+- Want to talk?
+- Let's talk?
+- Blather?
+- Shall we talk?
+- Shall we talk?
+- We can talk.
+- we want to talk a little?
+- Do you want to speak with me?
+- Want to talk with you?
+- Like to talk?
+- Fancy blather?
+- What about with blather?
+- Do you want to chat with me?
+- Do you want to talk?
+- You want to talk to me?
+- Will you talk to me?
+- What about chat with?
+- Shall we talk?
+- What about with chitchat?
+- What about with chit chat?
+- Do you want to with me entertained?
+- Want to blather?
+- Chat?
+- Shall we chat?
+- Would you like to blather about me?
+- Would you like to yap?
+- Fancy a chat?
+- Can we talk?
+- Can we chat?
+- To talk like?
+- On blathering like to do?
+- We can talk to each other.
+
+## intent:de_cc_moon
+- How far away the moon is?
+- Distance from the Earth - Moon
+- Distance Earth to the Moon
+- Distance between the Earth and Moon
+- Distance from the moon to Earth
+- Distance Earth and Moon
+- How far is the moon from the earth?
+- How far is it to the moon?
+- How far is the moon?
+- How far are the Earth and Moon apart?
+- How many kilometers away is the moon from earth?
+- What is the distance between the Moon and Earth?
+- What is the distance between Earth and the Moon?
+- How far away is the moon?
+- What is the distance to the moon?
+- What is the distance from the Earth to the Moon?
+- Do you know how far the moon from the earth is removed?
+- Can you tell me how far the moon from the earth is removed?
+- How far away is the moon?
+- How far is the moon from the earth is removed?
+- Where is the moon?
+- How far away is the moon from earth?
+- How many kilometers is the moon from the earth?
+
+## intent:de_cc_newspaper
+- Which newspaper section you interested in?
+- Do you buy the newspaper?
+- Do you have a newspaper?
+- Did you read the newspaper article?
+- What is at stake in the newspaper?
+- What is in the news?
+- Is something interesting in the paper?
+- Is something in the paper?
+- What a newspaper you buy?
+- Newspapers?
+- Newspaper?
+- Is there anything new in the paper?
+- What stands in the newspaper?
+- Which newspaper do you prefer?
+- Which newspaper do you like?
+- Which newspaper you read the most?
+- What does the newspaper today?
+- Which newspaper you like to read?
+- Buy the newspaper?
+- Have you read the newspaper article?
+- Read newspapers?
+- Have you already read the newspaper?
+- Has you you already bought the newspaper?
+- Which newspaper do you like to read?
+- Which newspaper do you read most?
+- Which newspaper do you like?
+- Is there anything new in the paper?
+- Is there an interesting news article?
+- Do you have a newspaper?
+- Do you have the newspaper?
+- If you buy a newspaper?
+- Have you already bought the newspaper?
+- If you have already read the newspaper?
+- Buy a newspaper?
+- Which newspaper do you prefer?
+- Do you read newspapers?
+- Is something new in the paper?
+- What a newspaper you buy?
+- Which newspaper section interests you?
+- Is there anything new in the paper?
+- What a newspaper do you read?
+- Do you have the newspaper?
+- What a newspaper do you read?
+
+## intent:de_cc_philosophical
+- Which of your beliefs are justified and which are not?
+- Is it better to be a big fish in a small pond or a small fish in a big pond?
+- How interchangeable are you?
+- How is the human extinction as a species?
+- How long will you be remembered after you die?
+- Where does your self-esteem?
+- As mankind would change when the life expectancy of all people would be significantly increased?
+- Where do you find meaning in your life?
+- What do you think would be the reaction of humanity to the discovery of extraterrestrial life?
+- What is time?
+- Occurs sound when there is no sound?
+- Where does the soul?
+- What is infinity?
+- Is there a reason to live?
+- What will happen at the end of the world?
+- Where the universe ends?
+- Is there a supreme power?
+- How strongly influenced our thinking language?
+- How do you define consciousness?
+- What do you think exist before the universe was created?
+- Should have the right to freedom of expression to be restricted?
+- Are human creativity limits?
+- How did the universe begin?
+- Shapes the nature of our personality more than just?
+- Should euthanasia be legal?
+- Will religion ever be outdated?
+- Can you learn objectively really something?
+- nature moves toward dissolution or integration?
+- Beauty is objective or subjective?
+- People have free will?
+- People are just machines?
+- Is it possible to live a normal life and never to tell a lie?
+- Who decides what is moral?
+- What makes a good friend?
+- What is reality?
+- Will there be really free will?
+- How do you explain consciousness?
+- Why do we experience emotions?
+- What is beauty?
+- If we are obliged to help others?
+- What is love?
+- Can computers think?
+- Do you think
+- Can computers be creative?
+- How would you define genius?
+- Art harm the company in any way?
+- Why do we judge ourselves by our intentions, but judge others by their actions?
+- Why are people so convinced of beliefs that they can not be proven?
+- If money can not buy happiness, you can ever really be happy with no money?
+- Who defines good and evil?
+- the study of philosophy leads ever answers?
+- What rights does every person?
+- Happiness is only chemicals that flow through your brain or something more?
+- Why do people have such a strong urge to divert attention from the real world?
+- How much effort should invest to others not to offend a person?
+- Would the world be a better or worse place if everyone would look the same?
+- Is privacy a right?
+- Poverty is inevitable in society?
+- What is the difference between justice and revenge?
+- What lead you to the biggest mistakes in your life?
+- Is it worse to fail at something, or not to try it first?
+- Did the invention of the atomic bomb made the world more peaceful?
+- If unrestricted access to the Internet to be a basic human right?
+- Which scientific breakthrough would have the greatest impact on mankind?
+- Is true artificial intelligence possible with our current technology?
+- Is technological progress inevitable as long as human beings exist?
+- Is hierarchy necessary for all successful human communities?
+- How much privacy you want to sacrifice for the security?
+- Can a society without laws exist?
+- Is a degree of censorship necessary?
+- What are the advantages and disadvantages of diversity in society?
+- How should we measure the productivity of a company?
+- Injured absolute power absolute?
+- Is the terrorist a person not the freedom fighters of another person?
+- Do animals have souls?
+- What happens after we die?
+- What people strive for enlightenment?
+- What is intelligence?
+- If you become immortal in this condition could, you would NEVER be able to die or to kill yourself, you'd immortality choose?
+- What can you achieve?
+- Do all people regardless of their actions the same value?
+- Whichever criteria you judge yourself?
+- What's your definition of evil?
+- Which is the main goal was to have the every man?
+- What will you do with your life?
+- Is intelligence or wisdom useful?
+- Would you be able to say whether the time has somehow changed?
+- People should be more interested in doing the right thing?
+- Does God exist?
+- Is there a life after death?
+- Is it more important to be liked or respected?
+- Why do we create art?
+- What is a just society?
+- What are the universal human rights?
+- What gives life its meaning?
+- the name of a person affects the person she is?
+- Which of your beliefs are justified?
+- What is the best way for a person to achieve happiness?
+- Why people expect that a universe full of randomness is fair?
+- the study of philosophy leads ever answers or simply more questions?
+- Does humanity in the right or wrong direction?
+- Justice is a human construct or whatever people?
+- Are there aliens?
+- Is it easier to love or be loved?
+- Trust is more important than love?
+- we have a soul?
+- Where were people before they were born?
+- Where do thoughts?
+- How can people believe in truths without evidence?
+- Could I live in a Matrix?
+- Who am I?
+- What is the best moral system?
+- Is free will real or just an illusion?
+- What are numbers?
+- What hard truths you ignore most?
+- Is there a meaning to life?
+- Where is the line between art and non-art?
+- If there is fate?
+- What does it mean to live a good life?
+- Why do we dream?
+- What should be the goal of humanity be?
+- How aware are animals?
+- What is the truth?
+- Do we have a free will?
+- What are the greatest moral dilemmas that you face?
+- What is an emotion?
+- Is love just a feeling?
+- As the love is different from passion or sexual desire?
+- Emotions are irrational?
+- Happiness is the most important in life?
+- Food can be art?
+- Is there really a free will?
+- Can there be two powerful gods?
+- What is consciousness?
+- Can there be morality without God?
+- Is morality relative?
+- Can war ever be just?
+- Animals can justify?
+- Should we fear death?
+- Why should we respect the dead?
+- What is philosophy?
+- Is science with religion compatible?
+- Based on what your philosophy of life?
+- Are you real?
+- I exist?
+- Am I real?
+- When consciousness begin?
+- Can we have happiness without sadness?
+- What is the biggest waste of human potential?
+- Is a sense of humor, a byproduct of consciousness
+- Can rational thinking without language exist?
+- What is the benefit of consciousness from an evolutionary standpoint?
+- How do you explain the greatest success in your life?
+- If all your memories were erased, what kind of person would you be?
+- What is the difference between life and life?
+- How likely do you think it will be that people will survive another 1,000 years without killing yourself?
+- What is the meaning of life?
+- Is the meaning of life for animals and humans alike?
+- How much control do you have in your life?
+- What makes you?
+- How do you know that your perceptions are real?
+- Is a family still relevant in the modern world?
+- What is true strength?
+- What is true love?
+- Is a wrong action in order, if no one knows about it?
+- What is the role of honor in today's society?
+- Can human nature be changed?
+- What is truth?
+- Why is there something rather than nothing?
+- observing changes an event?
+- What happens after death?
+- What is freedom?
+- Is life a dream?
+- If everything has evolved from amoebas, how has the world still amoeba?
+- What are the benefits of art society?
+- What do you think would be the most likely way you're going to die?
+- If the universe is finite, which would be beyond the edge of the universe?
+- makes a human life justified?
+- Freedom is easy to do in the situation, what you want?
+- What in life is truly objective and not subjective?
+- Can animals have morals?
+- People are ethically obliged to improve themselves?
+- Does time have a beginning or an end?
+- Preponderance of the needs of the many needs of the few?
+- What makes you, you?
+- What is true happiness?
+- Where is the line between madness and creativity?
+- Why are people so prone to magical thinking?
+- Is our universe real?
+
+## intent:de_cc_politics
+- What is the minimum age for election in your country?
+- What economic issues divide people in your country?
+- Do you think that is spent too much money on political campaigns?
+- What do you think is the most important political issue?
+- How can we bring more people to vote?
+- Angela Merkel
+- Donald Trump
+- Trump
+- What is an ambassador?
+- Can you name the president of the United States?
+- Who is the mayor of your city?
+- What do you think of Donald Trump?
+- Who is Donald Trump?
+- What's a prince?
+- What are the main political parties?
+- Do you always for the same party?
+- Who is the Prime Minister of Russia?
+- Who was assassinated by John Wilkes Booth in the theater?
+- As we build on economic stability?
+- As we give an excellent education to every child?
+- What are different types of governments?
+- Which party is now in power?
+- Do you want to be a politician?
+- What kind of political system prevailing in your country?
+- Is ethnicity or race a factor in the policy in your country?
+- How do you decide how you will choose?
+- Has your country ever have a female leader?
+- Make the politicians in your country a good job?
+- Who was @en_politics
+- Who appoints an ambassador?
+- Have you participated in any way in politics?
+- Who is the leader of this party?
+- What do you think of Angela Merkel?
+- Where does the money for campaigns?
+- Have you ever voted?
+- Who is Angela Merkel?
+- Who is the most controversial politicians in your country?
+- Do you think that is the political views of people throughout their lives change?
+- What do you think about politicians?
+- Who is @en_politics?
+- Do you follow politics?
+- What role does religion play in politics?
+- Do you have a favorite political leader?
+- Why do you think that voting is important?
+- How are elections financed?
+- Have you voted in the last election?
+- Should the choice be mandatory?
+- What kind of political system has your country?
+- What are the different types of governments are there?
+- What do you think about politics?
+- What do you think about the German political system?
+- What do you think about politics?
+- Is to choose an important responsibility of a citizen?
+- What do you think about the SPD, the CDU, the Greens, the CSU, the FDP, the Left?
+- What do you think of the SPD, the CDU, the Greens, the FDP, the Left Hand?
+- What do you think of Angela Merkel?
+- What do you think about Donald Trump?
+- What people usually say about politicians?
+- What social issues divide people in your country?
+- Merkel
+
+## intent:de_cc_religion
+- Are the characters in the Bible figuratively or literally?
+- Does God have a name?
+- What is the difference between a pastor, priest or preacher?
+- Are you a muslin?
+- Will God save everyone?
+- Is belief in God rational?
+- Is Allah, the God of Islam, the same as the God of the Bible?
+- Does God ever bad things?
+- How do you actually help God and religion to survive difficult times?
+- If Jesus had eternal, how could he die then?
+- Has Jesus as God behaved?
+- Who was Jesus?
+- Did Jesus a God?
+- What's monophysitism?
+- As a Christian, I should fear God?
+- If God is in control, He makes me to sin?
+- Are you a Christian?
+- Do you believe in religion?
+- How free will affect my faith?
+- Why does God allow that bad things happen?
+- How do you know when God answers prayers?
+- What's the best thing about being a believer?
+- How can we experience God's love?
+- To which religion you believe?
+- Do you believe in God or another deity?
+- Do you see yourself as a seeker of truth?
+- What is your spiritual background?
+- Have you ever read the Bible?
+- How does one do you think a Christian?
+- Where are you on your spiritual pilgrimage?
+- do you know muism?
+- What do you believe in God?
+- are you Muslim?
+- If you follow the teachings of the Christian religion?
+- to send people to hell or God sends them there?
+- Why God hates sin?
+- What happened before God created the world?
+- Is there physical evidence that God is real?
+- May God and the universe be the same?
+- If God is omnipotent, why did he Six Days to create everything?
+- What is salvation?
+- I have my faith?
+- Why is God so pathologically violent in the Old Testament?
+- When you have chosen your faith?
+- What is your idea of ​​what God looks like?
+- Is there a heaven?
+- What teach the Jehovah's Witnesses?
+- If there is a God, why are there more than 4,000 religions?
+- Why do you believe in something you can not see?
+- What is your favorite prayer?
+- What should someone do if he or she is confronted with the faith?
+- Is the Bible figuratively or literally?
+- Can God change his mind?
+- What is the most important message that can be found in the Bible?
+- How important is it that someone learns certain prayers?
+- Which version of the Bible should read a new believer?
+- What misconceptions there are about faith?
+- What are the teachings of Islam?
+- Why does not God heal everyone?
+- What is Islam?
+- Islam teaches salvation by works?
+- Who has done the greatest act of love, Yahweh or Allah?
+- How holy is the God of Islam?
+- How fair is the God of Islam?
+- Is there any evidence that Islam is true?
+- What is Kabbalah?
+- What does the Kabbalah?
+- Who is God?
+- God answers prayers?
+- What can Millennials get out of religion?
+- What does it mean to take the Lord's name in vain?
+- God chooses us on the basis of the foreseen faith from?
+- If you follow the teachings of the Muslim religion?
+- Do you follow the Mormon religion?
+- Do you have a God?
+- Is your God a good?
+- Are you Hindu, Muslim or Christian?
+- Do you believe in Jesus?
+- Is there a hell?
+- What is the sky?
+- As biblical texts affect on modern society?
+- Religion was invented to control people?
+- What religion is true?
+- your past plays a role when you join a religion?
+- What should a believer before he dies?
+- Someone has to go to church to be spiritual?
+- Why would anyone begin to believe in God?
+- What's docetism?
+- What's Cerinthianismus?
+- What do you think about religion?
+- How can God everywhere, even outside of space and time be?
+- How does God that there is no God above him?
+- God answers the prayers of unbelievers?
+- Is God male according to the Bible?
+- Does God have a free will?
+- Can God be proven scientifically?
+- How can we tell if God is a person?
+- God has a plan for my life?
+- Where someone is reading religious news?
+- If someone learn something about other religions before deciding on one?
+- What is the most influential story from the Bible?
+- What's Marzionismus?
+- What's Apollinarism?
+- What is heresy?
+- God has expectations?
+- What is Mormonism?
+- What do Muslims about Jesus?
+- Revere Mohammed Muslims?
+- Islam oppressed women?
+- Are you religious?
+- Are you religious?
+- Are you Muslim?
+- Are you Muslim?
+- religions
+- Where shows us God ever grace?
+- Why does God not show?
+- What is to be the difference between spiritual and religious?
+- Can anyone believe in God, but do not go to church?
+- How often does someone say "Amen"?
+- Would anyone visit a church if he or she does not believe in God?
+- If someone read a Bible before he believes in a religion?
+- What's the best part about going to church?
+- What people learn about religion in school?
+- What is hell?
+- What's the coolest story from the Bible?
+- What advantages does anyone know if he goes to church?
+- What are the advantages religion?
+- Why does God allow disease?
+- Can I trust the Bible?
+- Have you ever talked about what is biblical Christianity?
+- Why good people bad things happen?
+- What is the difference between reincarnation and resurrection?
+- Islam was spread by the sword?
+- Islam encourages polygamy?
+- Who created God?
+- How do I know whether God exists or not?
+- What is God's gender?
+- Can God die?
+- God has emotions?
+- What does it mean to say that God is infinite?
+
+## intent:de_cc_weather
+- Can you give me the weather forecast?
+- Which weather information you can give me?
+- How is the weather in China?
+- How is the weather in Lisbon?
+- What's the weather like?
+- Is it hot?
+- Snow
+- will it rain tomorrow?
+- The sun shines?
+- How cold is it?
+- What about outside?
+- Weather!
+- It's cold?
+- It is hot?
+- Is there a lot of wind?
+- Can you give me the weather forecast?
+- Can I have information about the weather?
+- How is the weather there?
+- How is the weather there?
+- How is the weather today?
+- sophie how is the weather?
+- Inform me about the weather.
+- How is the weather here?
+- How is the weather in Berlin?
+- Can I count on thin ice?
+- Can you tell me the weather?
+- Tell me what the weather is.
+- What is the weather forecast?
+- I need information about the weather.
+- I would like information about the weather.
+- How warm is it?
+- Weather Information!
+- Hailing it?
+- Weather forecast!
+- Is there snow?
+- Is it raining?
+- How will be the weather?
+- how will the weather be tomorrow?
+- Which weather information you can give me?
+- weather!
+- Weather!
+- Weather Service!
+- How is the weather at your location?
+- I want information about the weather.
+- What was is it?
+- How hot is it?
+- Tell me how the weather is?
+- Can you tell me the weather?
+- Is it windy?
+- Can I get information about the weather?
+
+## intent:de_comment_negative
+- You can @de_expressions_negative.
+- You can not do anything.
+- You work @de_expressions_negative.
+- You work poorly.
+- You do not know enough.
+- They make the @de_expressions_negative.
+- You are @de_expressions_negative.
+- You're doing a good job.
+- You're doing bad.
+- You're doing very well.
+- You're doing @de_expressions_negative.
+- This is not your thing.
+- This is @de_expressions_negative.
+- You are not very good.
+- You're bad.
+- You are inaccurate.
+- You are unkokret.
+- You are imprecise.
+- You give no clear information.
+- You work inaccurate.
+- You do not know how information is.
+- You do not know how to do that.
+- You do not know how to help.
+- You do not know how to inform.
+- That's nothing for you.
+- That's not clear.
+- You are @de_expressions_negative.
+- You are not precise.
+- You can use the @de_expressions_negative.
+- You can not do that.
+- You can not do anything.
+- You can not help me.
+- They work @de_expressions_negative.
+
+## intent:de_comment_offense
+- You are useless
+- You are brainless
+- You are ugly
+- You are lame
+- You are slow
+- You are boring
+- Shut up, shut the edge, Shut
+- Freak
+- Fuck you!
+- I'm sorry, I do not speak idiot
+- There are no stupid idea, only you
+- Stupidity is not a crime, so you can go
+- stupid computer
+- You're a bad Bot
+- You are an idiot
+- You are a nerd
+- You're a motherfucker
+- You're an idiot
+- I hate me alone you let
+- I like net you
+- get lost
+- fucking answer
+- senseless chat.
+- Fuck you yet
+- As your mother drop you off at school, she got a ticket for garbage
+- Dude, you're stupid ey
+- bastard
+- stupid system
+- Are you disabled
+- Are you retarded
+- People like you are the reason we have middle fingers
+- Lick me!
+- Not yet
+- does not seem intelligent
+- Fuck
+- You're a son of a bitch
+- fucking machine
+- Fuck computer
+- crap
+- Do not be a dummy
+- shit
+- shit Bot
+- You can not help to solve my problem. Because it is you
+- Nobody likes you
+- They are the reason why scientists have decided that we are descended from monkeys
+- You are dumb
+- You're dumb
+- You are fat
+- You are literally too stupid to insult
+- You are stupid
+- You are disabled
+- You are scrap
+- You are garbage
+- Such a crap
+- You liar
+- You idiot
+- You son of a bitch
+- You dumbass
+- You fool
+- You are so shit
+- You as to call ugly, would be an insult to the ugly people
+- The garbage truck is coming! You better hide
+- You are half Brains
+- You are nuztlos
+- Lick my ass!
+- Whats wrong with you
+- You're shit
+- You're such a liar
+- You're so ugly that you bring onion cry
+- You're so ugly that when you cry, roll the tears of your head ... only to your face to avoid
+- you are so annoying
+- You are so much smarter if you do not speak
+- You are super boring
+- You are crazy
+- You are full of boring
+- Holy Wow! It looks as if your face catches fire and someone tried it with a fork to clear
+- Stop being stupid
+- Listen to do so as if you were stupid
+- I always thought I was stupid ... but then I met you
+- I hate you
+- I hate you.
+- I hope you will die
+- I do not like you
+- Zombies eat brains. You are sure
+- Put on equal because plug
+- If you're with an idiot, you've found your perfect match
+- If money were dignity, one might buy a soda
+- Because you're stupid
+- Shut up
+- You are full of sarcastic
+- You are good for nothing
+- bullshit
+- Please tell me about you, I like horror stories
+- You sound like a donkey
+- You have no brains
+- You have no brain
+- You suck.
+- You're a fool
+- asshole
+- ass
+- Bite me!
+- how stupid
+- Are you always so stupid, or are you doing today a special effort?
+- Are you Hot?
+- Are you stupid
+- Are you stupid?
+- Are you stupid
+- You really should have an "out of service" sign on your forehead to let everyone know how you are stupid
+- I'll try to be nicer if you try to be smarter
+- You're not just smart
+- You are not intelligent
+- You're not smart
+- You are not clever
+- You're not very bright
+- You're not as
+- You are useless.
+- You know nothing
+- fuck you
+- You can kiss my ass.
+- Bite me
+- Can I borrow your brain for half an hour, I'm building an idiot on
+- Can I borrow your face for Halloween?
+- shit
+- Any idiot is smarter than you
+- Is that your face or have you thrown your neck?
+- I would insult you, but apparently you need qualities that I may offend
+- I want you to die
+- You lie
+- You make me Crazy
+- You get into my Nerv
+- You're annoying me
+- You smell
+- You do not smell good
+- You should check to a psychiatrist
+- You stink
+- silly Wizard
+- silly Bot
+- silly chatbot
+- lick me
+- Well poorly written
+- You are not exactly bright
+- You are annoying
+- I hate you not ... I appreciate your existence simply not
+- you are so hollow
+- You're a whore
+- You are a rivet
+- You're a lame duck
+- You're fat
+
+## intent:de_comment_positive
+- You're doing great.
+- You're doing wonderful.
+- You rock!
+- You write well.
+- You write wonderful.
+- You see today amazing!
+- You know everything.
+- You know so much.
+- Just crazy!
+- Just beautiful!
+- Just great!
+- Just great!
+- Just wonderful!
+- hot!
+- I admire you.
+- I'm happy it that you are in my life!
+- I think you're cool.
+- I think you're great.
+- I find you well.
+- You are great!
+- They are great!
+- You are very good!
+- They are great.
+- They see good!
+- They are beautiful!
+- You are great.
+- You are good!
+- They are great!
+- You are unique!
+- They are a good help.
+- You are the best!
+- They are better!
+- You are @de_expressions_positive!
+- They make wonderful.
+- They do it great.
+- They do it great.
+- They make the top
+- They make the class.
+- I think you're beautiful.
+- I think you're very good.
+- I think you're great.
+- I think you're cute.
+- I think you're great.
+- I think you're wonderful.
+- I think you are beautiful.
+- I think you're amazing.
+- I find them cool.
+- I like you.
+- I think she is beautiful.
+- I find you great.
+- I like her alot.
+- I find you wonderful.
+- I find you beautiful.
+- I love you.
+- I like your eyes.
+- I like your dimples.
+- I like your hair.
+- I like your freckles!
+- I really like you.
+- I find you very well.
+- Your eyes are beautiful.
+- You are @de_expressions_positive!
+- You are better!
+- You're cool.
+- You are the best!
+- You're really fantastic.
+- You're a sweetheart.
+- You are a good help.
+- You are unique!
+- You're cool!
+- You are great.
+- You're good!
+- You are helpful.
+- You are cute.
+- You are great.
+- You're loving.
+- You're nice
+- You're nice.
+- You are beautiful!
+- You are seh good!
+- You are very cool.
+- You are very great.
+- You are very good!
+- You are very polite.
+- You are very nice.
+- You're so beautiful when you laugh!
+- You are so cool.
+- You're so helpful.
+- You're so sweet.
+- You're so great.
+- You are great.
+- You are super!
+- You are sweet.
+- You are awesome!
+- You are awesome.
+- You're really cool.
+- You really helpful.
+- You're Marvellous!
+- You're beautiful!
+- You help me a lot.
+- You help me very well.
+- They do it very well.
+- You're doing great
+- You're the best thing that could happen!
+- They help me a lot.
+- They help me very well.
+- Class!
+- I like you.
+- You do that very well.
+- You're doing great.
+- You're doing fine.
+- You sound so sweet.
+- You sound beautiful.
+- You can much.
+- They do it well.
+- Wonderful!
+- How well!
+- How good you are!
+- How good you are!
+- How cool!
+- How cool you are!
+- As you horny up!
+- Great!
+- Excellent!
+- Top!
+- You know so much.
+- They know everything.
+- You are beautiful!
+- You are wonderful!
+- You're doing great.
+
+## intent:de_comment_racist
+- You nigger!
+- Hitler
+- I am a nazi.
+- Adolf Hitler
+- Foreigners are Kanackenschweine.
+- shit foreigner
+- shit Iranians
+- fucking Arabs
+- fucking Frenchmen
+- A foreigner, I would burn.
+- Foreigners are worth nothing.
+- I hate foreigners.
+- Jews should all be gassed.
+- Hail Hitler!
+- Türck pigs
+- You Kanacke!
+- shit Kanacken
+- Foreigners are Kanacken.
+- shit Türcken
+- Go back to your country.
+- All foreigners should be gassed.
+- All foreigners are pigs.
+- You nigger.
+- You have no business in this country.
+
+## intent:de_comment_smart
+- How clever!
+- I think you're smart.
+- I think you're smart.
+- I enjoyed chatting with you!
+- They prove to be wise.
+- You are really wise.
+- You sound very intelligent.
+- You sound good.
+- You sound good.
+- They prove to be smart.
+- You are clever
+- You're good.
+- They speak very intelligent.
+- You are sure smart.
+- They are smart.
+- The virtual assistant is well developed.
+- You're smart.
+- How smart!
+- They are well built.
+- You sound smart.
+- You sound very intelligent.
+- You sound really good.
+- You're doing fine.
+- You speak intelligently.
+- You sound smart.
+- You sound intelligent.
+- You have intelligence.
+- You are wise.
+- You are full of wisdom.
+- You are so wise.
+- You're so good.
+- You are very wise.
+- You are very intelligent
+- This is very interesting.
+- This is a beautiful expression.
+- You speak very intelligent.
+
+## intent:de_coronavirus_info
+- coronaviruses
+- Information about coronaviruses
+- I do not know what coronaviruses are
+- I do not know what a coronavirus is
+- I do not know what coronavirus is
+- Information about the coronavirus
+- About coronaviruses
+- Information about coronavirus
+- Information about coronaviruses
+- Information about coronavirus
+- corona
+- Tell me more about coronavirus
+- Tell me more about coronaviruses
+- What's corana
+- What is the corona virus
+- What's that Corona
+- Coronavirus SARS-CoV-2
+- Corona information
+- Corona infection
+- Coronavirus Disease
+- Corona disease
+- Corona info
+- What is a coronavirus?
+- What is the coronavirus?
+- Hello Helena, which is Corona?
+- Tell me what Kroner is
+- What Kroner
+- Kroner
+- what's corona this? is a type of beer
+- Hello Helena, it's Corona
+- Tell me what the coronavirus
+- What can you tell me about the coronavirus?
+- What can you tell me the virus?
+- What can you tell me about the virus?
+- About coronavirus
+- About coronaviruses
+- coronavirus
+- Coronavirus information
+- Coronavirus info
+- Coronaviruses Info
+
+## intent:de_covid_aftereffects_immunity
+- One is immune it?
+- One is immune to the disease?
+- If a sick person immune afterwards?
+- If a person recovers from the disease, the immune afterwards?
+- One is immune to the disease?
+- One is immune to infection with the coronavirus?
+- Is a repeated infection with Covid-19 possible?
+- If after a coronavirus disease reinfection possible?
+- If after a COVID-19 disease reinfection possible?
+- Is it possible to be infected with Covid several times?
+- Can I get infected again after recovery?
+- Can I get infected again?
+- Can I get infected again after being infected?
+- One is immune to being infected with the coronavirus?
+- One is immune to being infected with the coronavirus or you can get infected again?
+- Corona-term consequences on health
+- What are the consequences on health after recovery
+- late effects
+- immunity
+- immunization
+- What if the person is healthy again
+- Have convalescent partially reduced lung function
+- Full recovery?
+- lasting after-effects
+- Are there consistent long-term consequences?
+- What are the long-term consequences for convalescent
+- If a convalescent person immune from the disease?
+
+## intent:de_covid_babys_children
+- children
+- Disease with Covid 19 in children
+- How dangerous Covid-19 is for children?
+- Disease with Corona in children
+- Coronavirus birth
+- Coronavirus in newborns
+- Coronavirus in unborn
+- Infections with coronavirus in children
+- Can become infected babies
+- Children can be infected?
+- Can also infect children?
+- If children are less at risk than adults?
+- Severe cases in children and adolescents?
+- Children and adolescents
+- Babies and coronavirus
+- Children coronavirus
+- Corona children
+- Corona in babies
+- Corona in children
+- Babies
+- Risk for children
+- Risk for babies
+- Can it affect babies?
+- Infection with SARS-CoV-2 in children
+- Infections in children
+- Infection in children
+
+## intent:de_covid_crisis_howlong
+- Corona is the pandemic in a few months ago?
+- How long the crisis goes
+- How long does the coronavirus take?
+- How long will this virus go?
+- How long I remain at home?
+- How long does Corona?
+- When is Corona over?
+- How long are rising infectious pay still so strong?
+- how long have the problem with the virus
+- when is the theme with the coronavirus over?
+- How long the crisis will last?
+- Duration of Corona crisis
+- How long the crisis is still ongoing?
+- How long this goes so on
+- Until when will we have to deal with the crisis
+- Duration of the coronavirus crisis
+- How many weeks will stop the crisis?
+- How many months will take this crisis?
+- How is that going to last for many days or weeks?
+- corona crisis for how long
+- As the corona crisis long will determine our daily lives?
+- How long this goes on
+- How long can this last
+- How long is that going even so on
+- Corona is the pandemic in a few weeks past?
+- Corona is the pandemic in a few weeks past?
+- Can the coronavirus pandemic still take until next year?
+
+## intent:de_covid_current_statistics
+- huvit 19 current figures
+- How many infected worldwide there are
+- How many victims there
+- How many victims
+- Statistics per State
+- Statistics per county
+- how many people they affected
+- What is the number of new infections is currently in Germany?
+- How many people are infected every day in Germany?
+- How many Infected
+- How much infected
+- How many people are ill with coronavirus?
+- How many are ill
+- Did you numbers?
+- Are there statistics
+- Are there numbers?
+- When Are ill in Germany 100,000 people
+- What is the number of infected in Germany?
+- What is the number of people infected
+- What is the number of dead in Germany
+- How many dead
+- How many people have died from the virus
+- how many people are sick in Germany
+- how many people are affected in Germany
+- how many people are affected
+- How many people are infected daily basis in Germany?
+- to death cases statistics
+- Is there any statistics on deaths in Germany
+- How many people are gestorgen?
+- How many people have died?
+- Illness in @de_countries
+- Deaths in @de_countries
+- Cases in @de_countries
+- How many people are infected in @de_countries
+- How many people have died in @de_countries
+- How many infected people are in @de_countries
+- How many cases has @de_countries
+- Infected in @de_countries
+- How many sick people there are in Germany
+- as are the case numbers in Germany?
+- case numbers
+- Germany case numbers
+- How much Infected is available in Germany
+- How many cases are there in Germany
+- are there any flat-rate pay
+- How many cases there are currently
+- Give me some numbers
+- Give me numbers
+- Take me pay a few
+- statistics
+- Current numbers
+- Corona Statistk
+- Coronavirus numbers
+- Corona numbers
+- Are there any figures on infected?
+- Are there any official figures on the disease worldwide?
+- How many are ill with the virus?
+- How many suffer from the virus?
+- How many have been infected worldwide
+- How many old people stuck on a daily basis?
+- How many young people stuck in itself?
+- In which state there is most infected?
+- In which state most infected people are?
+- more women or more men to infect?
+- In which state most cases there?
+- women and men stuck equal to many times?
+- Is it true that more women or men?
+- Are there more female or male Infected?
+- How many cases there are in each state per day?
+- Cases by age group and sex
+- COVID-19 cases by age group and sex
+- Covid deaths
+- Total number of people infected each province
+- Number of infected people in the district
+- Cases in the district
+- How many cases there are currently?
+- How many people in Germany stuck on a daily basis?
+- What is the number of currently infected?
+- how many have Meschen corona
+- how many have Meschen coronavirus
+- how many people are already erkrkankt in Germany
+- number of deaths
+- as watch the pay of @de_countries
+- like look who pay in Germany from
+- Infections in Hamburg
+- Infections in Berlin
+- Cases in Berlin
+- Covid 19 current figures
+- KOVIT 19 current statistics
+- Hobbit 19 current statistics
+- COBIT 19 current figures
+- 19 cubic-date statistics
+- movit 19 current figures
+- Q19 current statistics
+- CooKit 19 current figures
+- Kuhweg 19 current statistics
+- cupid 19 current figures
+- Qubeat 19 current statistics
+- Where can I find current numbers?
+- Where can I find current statistics?
+- current numbers
+- Number of infected
+- Current number of those infected
+- Where there are updated figures
+- Where can I find updated statistics
+- How many diseases are there worldwide?
+- How many infected there
+- How many people are infected
+- How many people are infected with the virus worldwide
+- Pay infected people worldwide
+- Infected individuals worldwide
+- Numbers of infected people worldwide
+- Tell me how many people have been infected with the virus worldwide
+- Many people infected?
+- How many people have been infected so far worldwide?
+- Do you know how many patients are there worldwide?
+- There are official figures from the disease worldwide?
+- Do you know how many sick people are there in total?
+- I would like to know the number of sufferers worldwide
+- Tell me how many patients there are worldwide
+- How many people are ill with coronavirus world?
+- Tell me, how many people in total so far ill with the virus.
+- How many have been infected in total in the world?
+- How many have been infected worldwide?
+- How many have the coronavirus
+- How many people are infected with the coronavirus world
+
+## intent:de_covid_dangerous
+- Is infection with demmovit 19 safe?
+- Can Corona be dangerous for me?
+- What is the risk comes from the virus from
+- Infection by movit 19 is dangerous.
+- Is infection with demkovit 19 safe?
+- Infection by KOVIT 19 is dangerous.
+- Is infection with demKubik 19 safe?
+- An infection with cubic 19 is dangerous.
+- How dangerous is infection with the virus?
+- How dangerous is infection with the coronavirus?
+- How dangerous is infection with the coronavirus?
+- If the infection with the virus dangerous?
+- How dangerous is the disease?
+- If the infection with the virus very problematic?
+- Can the infection with the virus also cause severe Infkektionen?
+- The infection is harmless to the virus?
+- Is infection with demCovid-19 harmless?
+- Is infection with demCovid 19 safe?
+- If the infection with the virus safe?
+- If the infection with the coronavirus safe?
+- Infection with the virus is dangerous.
+- I have heard that the infection with the virus is very dangerous.
+- The infection with the coronavirus is dangerous.
+- Infection by Covid 19 is dangerous.
+- Infection with the virus is dangerous.
+- risk assessment
+- risk assessment
+- risk
+- How high is the risk of infection?
+- Is infection with demQ19 safe?
+- An infection with Q19 is dangerous.
+- Is infection with demcookit 19 safe?
+- Infection by CooKit 19 is dangerous.
+- Is infection with demqubeat 19 safe?
+- Is infection with demKowit 19 harmless?
+- How dangerous is an infection with SARS-CoV-2?
+- How dangerous is the infection?
+- If the virus dangerous?
+- The virus is dangerous?
+- The infection is dangerous?
+- Infection by Qubeat 19 is dangerous.
+- Is infection with demcupid 19 safe?
+- An infection with cupid 19 is dangerous.
+- Is infection with demkuhweg 19 safe?
+- Infection by Kuhweg 19 is dangerous.
+- Is infection with demHobbit 19 safe?
+- An infection with Hobbit 19 is dangerous.
+- Is infection with demhuvit 19 safe?
+- Infection by huvit 19 is dangerous.
+- Is infection with demCOBIT 19 safe?
+- An infection with COBIT 19 is dangerous.
+- The infection is harmless to the coronavirus?
+
+## intent:de_covid_difference_influenza
+- How can you Kuhweg different from a cold?
+- How can you Kuhweg differ from a normal flu?
+- How can you distinguish COVID of a cold?
+- How can you distinguish COVID from a normal flu?
+- I have just a cold or COVID
+- I have just a cold or Kuhweg
+- I have just a cold or Cobit
+- I have just a cold or cupid
+- I have just a cold or Qubeat
+- I have just a cold or Corvette
+- I have just a cold or Obit
+- I have just a cold or cubic
+- What are the differences between a normal flu and the virus
+- What are the differences between a normal flu and Corona
+- What are the differences between a normal influenza and coronavirus
+- What are the differences between a normal flu and COVID 19
+- What are the differences between a normal flu and COVID
+- What are the differences between a normal flu and Kuhweg
+- What are the differences between a normal flu and Cobit
+- What the differences are between a normal flu and cupid
+- What are the differences between a normal flu and Qubeat
+- What are the differences between a normal flu and Corvette
+- What are the differences between a normal flu and Obit
+- What are the differences between a normal flu and cubic
+- What are the differences between influenza and the virus
+- What are the differences between influenza and Corona
+- What are the differences between influenza and coronavirus
+- What are the differences between influenza and COVID 19
+- What are the differences between influenza and COVID
+- What are the differences between influenza and Kuhweg
+- What are the differences between influenza and Cobit
+- What are the differences between influenza and cupid
+- What are the differences between influenza and Qubeat
+- What are the differences between influenza and Corvette
+- What are the differences between influenza and Obit
+- What are the differences between influenza and cubic
+- What are the differences between a cold and the virus
+- What are the differences between a cold and Corona
+- What are the differences between a cold and coronavirus
+- What are the differences between a cold and COVID 19
+- What are the differences between a cold and COVID
+- What are the differences between a cold and Kuhweg
+- What are the differences between a cold and Cobit
+- Where the differences between a cold and cupid
+- What are the differences between a cold and Qubeat
+- What are the differences between a cold and Corvette
+- What are the differences between a cold and Obit
+- How do I know whether it is cold or Obit
+- How do I know whether it is or flu Obit
+- How do I know whether it is cubic or cold
+- How do I know whether it is cubic or flu
+- How do I know whether it is the virus or cold
+- How do I know whether it is the virus or flu
+- How can you distinguish the virus from a normal flu?
+- How can you distinguish the virus from a cold?
+- How can you distinguish coronavirus from a normal flu?
+- How can you distinguish coronavirus from a cold?
+- How can you COVID 19 differ from a normal flu?
+- What are the differences between a cold and cubic
+- Corona symptoms what are the differences from the flu
+- Corona symptoms what are the differences to a cold
+- Coronavirus symptoms what are the differences from the flu
+- Coronavirus symptoms what are the differences to a cold
+- COVID 19 symptoms what are the differences from the flu
+- COVID 19 symptoms what are the differences to a cold
+- I have just a cold or corona
+- I have just a cold or COVID 19
+- I have just a cold or coronavirus
+- I only influenza or cubic
+- I only influenza or Obit
+- I only influenza or Corvette
+- I only influenza or Qubeat
+- I only influenza or cupid
+- I only influenza or Cobit
+- I only influenza or Kuhweg
+- I only influenza or COVID
+- I only influenza or Corona
+- I only influenza or COVID 19
+- I only influenza or coronavirus
+- I have a normal flu or cubic
+- I have a normal flu or Obit
+- I have a normal flu or Corvette
+- I have a normal flu or Qubeat
+- I have a normal flu or cupid
+- I have a normal flu or Cobit
+- I have a normal flu or Kuhweg
+- I have a normal flu or COVID
+- I have a normal flu or Corona
+- I have a normal flu or COVID 19
+- I have a normal flu or coronavirus
+- Coronavirus versus cold
+- Coronavirus versus flu
+- Flu versus coronavirus
+- Coronavirus vs. flu
+- difference to influenza
+- symptoms in influenza and corona
+- And how can I distinguish the coronavirus from the symptoms of a regular flu?
+- COVID symptoms what are the differences from the flu
+- COVID symptoms what are the differences to a cold
+- Kuhweg symptoms what are the differences from the flu
+- Kuhweg symptoms what are the differences to a cold
+- Cobit symptoms what are the differences from the flu
+- Cobit symptoms what are the differences to a cold
+- cupid symptoms what are the differences from the flu
+- cupid symptoms what are the differences to a cold
+- Qubeat symptoms what are the differences from the flu
+- Qubeat symptoms what are the differences to a cold
+- Corvette symptoms what are the differences from the flu
+- Corvette symptoms what are the differences to a cold
+- Obit symptoms what are the differences from the flu
+- Obit symptoms what are the differences to a cold
+- Kubik symptoms what are the differences from the flu
+- How do I know whether it is cold or coronavirus
+- Kubik symptoms what are the differences to a cold
+- How do I know whether it is coronavirus or flu
+- How do I know whether it is 19 or COVID cold
+- How do I know whether it is COVID 19 or flu
+- How do I know whether it is cold or Corona
+- How do I know whether it is Corona or flu
+- How do I know whether it is COVID or cold
+- How do I know whether it is COVID or flu
+- How do I know whether it is Kuhweg or cold
+- How do I know whether it is Kuhweg or flu
+- How do I know whether it is Cobit or cold
+- How do I know whether it is Cobit or flu
+- How do I know if there cupid or cold is
+- How do I know if there cupid or flu
+- How do I know whether it Qubeat or cold is
+- How do I know whether it Qubeat or flu
+- How do I know whether it is cold or Corvette
+- How do I know whether it's Corvette or flu
+- How can you distinguish Corona from a normal flu?
+- How can you distinguish Corona of a cold?
+- what are the differences between influenza and coronavirus
+- How can you distinguish cubic of a cold?
+- How do you differ from a normal cubic flu?
+- How can you distinguish Obit of a cold?
+- How can you distinguish Obit from a normal flu?
+- How can you distinguish Corvette from a cold?
+- How can you distinguish COVID 19 of a cold?
+- How can you distinguish Corvette from a normal flu?
+- How can you Qubeat different from a cold?
+- How can you Qubeat of a normal flu different?
+- How can you distinguish cupid of a cold?
+- How can you cupid from a normal flu different?
+- How can you distinguish Cobit of a cold?
+- How can you distinguish Cobit from a normal flu?
+
+## intent:de_covid_disease_process
+- How often is a serious disease?
+- As the disease is
+- How is the novel lung disease
+- The outcome is mild?
+- As the infection is
+- how can the disease go?
+- How is a disease with Covid 19
+- How is a disease with Covid-19
+- Course of the disease
+- As the disease runs
+- What is the course of disease
+- disease
+- disease progression
+- How does Corona
+- How is the disease
+- How often is a serious disease in Germany?
+
+## intent:de_covid_duration
+- As long as the disease continues
+- As long as I'm sick
+- Duration of the disease
+- duration disease
+- disease duration
+- disease duration
+- How long sick
+- How long you are sick
+- After how many days I'm healthy again
+- After weeks wivielen one is healthy again
+- How many days does it take to disease
+- How many weeks does it take to disease
+- How many days you are sick
+- When one is healthy again
+- How long until recovery
+- How long does it take to get back recovers
+- How long does it take to get back to health is
+- How long has the disease
+
+## intent:de_covid_ibuprofen
+- Kroner and ibuprofen
+- Ibuprofen and Corona
+- Coronavirus and ibuprofen
+- Ibuprofen leads to more severe courses of the disease?
+- Can the-counter pain reliever ibuprofen in an infection with SARS-CoV-2 lead to a worse disease course?
+- ibuprofen
+- Can ibuprofen aggravate the disease?
+- Corona and ibuprofen
+- Ibuprofen movit 19
+- Ibuprofen Hobbit 19
+- Ibuprofen COBIT 19
+- Ibuprofen at 19 cubic
+- Can take ibuprofen I now or not
+- May I take ibuprofen now
+- Ibuprofen yes or no
+- Ibuprofen KOVIT 19
+- Ibuprofen does not susceptible to the novel coronavirus
+- Ibuprofen more susceptible to the novel coronavirus
+- Dear acetaminophen instead of ibuprofen to take?
+- paracetamol
+- Ibuprofen huvit 19
+- Confusion about ibuprofen
+- Ibuprofen for suspected infection with the new coronavirus
+- Can we take any ibuprofen?
+- Ibuprofen in cold mountain
+- Ibuprofen Qubeat 19
+- Ibuprofen cupid 19
+- Ibuprofen Kuhweg 19
+- Ibuprofen CooKit 19
+- Ibuprofen at Q19
+- Warning of ibuprofen
+- Ibuprofen Covid 19
+- Ibuprofen CoVid-19
+
+## intent:de_covid_incubation
+- After how many days the disease breaks out after the infection?
+- infectious period
+- how long the infectious time
+- How many days can you get infected?
+- How long is the incubation period?
+- How long does it take to notice an infection?
+- incubation time
+- How long the incubation period takes really now?
+- incubation period
+- What is the incubation period?
+- How many days after infection pass until the onset of symptoms?
+- How many days after infection pass until the onset of the symptoms?
+- When breaking the disease from after having been infected?
+- How many days after infection it will take until the disease breaks out?
+- Offense really 14 days until the onset of symptoms?
+- really it takes 14 days after infection, occur until the symptoms?
+- How long does it take after infection, until the symptoms have?
+- How long does it take for the symptoms after the infection occur?
+- How many days after infection you get the symptoms?
+- How much time elapses from the infection until the disease?
+- When the disease occurs after infection?
+- When the symptoms appear after infection?
+- After how many days the symptoms if you have been infected?
+- How many days after infection enter the symptoms?
+- When you get sick, after one has been infected?
+- How long does it take to get used to infect disease?
+- After how many days you get sick after infection?
+- How long does it take for the disease after infection occurs?
+- How long does it take until the disease breaks out when one has become infected?
+- How long does it take for the disease after infection breaks out?
+
+## intent:de_covid_info
+- I do not know what M head
+- I do not know what the 2019 M head
+- I do not know what is the M head
+- About 2019 M head
+- Information about M head
+- Information about the 2019 M head
+- Information on M head
+- About 2019 M head
+- Information on M head
+- Information 2019 M head
+- Information on M head
+- M head
+- M head info
+- M header information
+- Tell me more about 2019 M head
+- Tell me more about M head
+- What's cube?
+- What is a cubic 19?
+- What is a cubic?
+- What cubic 19?
+- What Kubik?
+- Tell me what is the cubic 19
+- Tell me what is the cubic
+- Tell me what is cubic 19
+- Tell me what is cubic
+- Tell me what is a cubic 19
+- Tell me what is a cubic
+- Tell me more about the 19 cubic
+- Tell me more about the cube
+- Tell me more about Kubik
+- movit information
+- movit Info
+- movit
+- About the movit 19
+- About the movit
+- About 19 movit
+- About movit
+- movit19
+- What's movit19?
+- What's cubic 19?
+- Corvette 19 Info
+- Ovid 19
+- Information on COBIT 19
+- Meaning Covid-19
+- Tell me more about the 2019 M head
+- Tell me more about the M head
+- Tell me more about the M head
+- Tell me what is 2019 M head
+- Tell me what is a 2019 M head
+- Tell me what is an M head
+- Tell me what is M head
+- Tell me what is the 2019 M head
+- Tell me what is the M head
+- What's head with 2,019 M?
+- what about M head
+- What's 2019 M head
+- What is a 2019 M head
+- What is an M head?
+- What is M head
+- 2019 N Koff
+- 2019 N Koff info
+- What's Kovit19?
+- Kovit19
+- About 2019 N Koff
+- About KOVIT
+- About 19 KOVIT
+- About N Koff
+- About the 2019-N Koff
+- About the KOVIT
+- About the KOVIT 19
+- About the N Koff
+- KOVIT
+- KOVIT Info
+- KOVIT information
+- KOVIT 19
+- KOVIT 19 info
+- KOVIT 19 information
+- I do not know what 2019 N Koff is
+- I do not know what is KOVIT
+- I do not know what 19 is KOVIT
+- I do not know what N is Koff
+- I do not know what the 2019-N Koff is
+- I do not know what the KOVIT is
+- I do not know what is the KOVIT 19
+- I do not know what the N Koff is
+- About 2019 N Koff
+- About KOVIT
+- About 19 KOVIT
+- About N Koff
+- Information about the 2019-N Koff
+- Information about the KOVIT
+- Information about the KOVIT 19
+- Information about the N Koff
+- About 2019 N Koff
+- About KOVIT
+- About 19 KOVIT
+- About N Koff
+- Information for 2019-N Koff
+- Information about the KOVIT
+- Information KOVIT 19
+- Information for N Koff
+- Information KOVIT
+- N Koff
+- N Koff info
+- N Koff information
+- Tell me more about 2019 N Koff
+- Tell me more about KOVIT
+- Tell me more about KOVIT 19
+- Tell me more about N Koff
+- Tell me more about the 2019-N Koff
+- Tell me more about the KOVIT
+- Tell me more about the KOVIT 19
+- Tell me more about the N Koff
+- Tell me more about the N Koff
+- Tell me what is 2019 N Koff
+- Tell me what is a 2019-N Koff
+- Tell me what a KOVIT is
+- Tell me what is a KOVIT 19
+- Tell me what is an N Koff
+- Tell me what is KOVIT
+- Tell me what is KOVIT 19
+- Tell me what is N Koff
+- Tell me what is the 2019-N Koff
+- Tell me what is the KOVIT
+- Tell me what is the KOVIT 19
+- Tell me what is the N Koff
+- What about 2019 N Koff?
+- What KOVIT?
+- What KOVIT 19?
+- what about N Koff
+- What's 2019-N Koff
+- What is a 2019-N Koff
+- What is a KOVIT?
+- What is a KOVIT 19?
+- What is a N Koff?
+- What's KOVIT?
+- which is N Koff
+- What's KOVIT 19?
+- What's huvit19?
+- huvit19
+- About huvit
+- About 19 huvit
+- What's cookit19?
+- What's movit 19?
+- What's movit?
+- What is a movit 19?
+- What is a movit?
+- What movit 19?
+- What movit?
+- Tell me what is the movit 19
+- Tell me what is the movit
+- Tell me what is movit 19
+- Tell me what is movit
+- Tell me what is a movit 19
+- Tell me what is a movit
+- Tell me more about the movit 19
+- Tell me more about the movit
+- Tell me more about movit 19
+- Tell me more about movit
+- Information movit
+- Information movit 19
+- Information about the movit
+- About 19 movit
+- About movit
+- Information about the movit 19
+- Information about the movit
+- About 19 movit
+- About movit
+- I do not know what is the movit 19
+- I do not know what the movit is
+- I do not know what 19 is movit
+- I do not know what is movit
+- About the huvit
+- About the huvit 19
+- huvit
+- huvit Info
+- huvit information
+- huvit 19
+- huvit 19 info
+- huvit 19 information
+- I do not know what is huvit
+- I do not know what 19 is huvit
+- I do not know what the huvit is
+- I do not know what is the huvit 19
+- About huvit
+- About 19 huvit
+- Information about the huvit
+- Information about the huvit 19
+- About huvit
+- About 19 huvit
+- Information about the huvit
+- Information huvit 19
+- Information huvit
+- Tell me more about huvit
+- Tell me about huvit more 19
+- Tell me more about the huvit
+- Tell me more about the huvit 19
+- Tell me what is a huvit
+- Tell me what is a huvit 19
+- Tell me what is huvit
+- Tell me what is huvit 19
+- Tell me what is the huvit
+- Tell me what is the huvit 19
+- What huvit?
+- What huvit 19?
+- What is a huvit?
+- What is a huvit 19?
+- What's huvit?
+- What's huvit 19?
+- What's Hobbit19?
+- Hobbit19
+- About Hobbit
+- About Hobbit 19
+- About the Hobbit
+- About the Hobbit 19
+- Hobbit
+- Hobbit Info
+- Hobbit information
+- Hobbit 19
+- Hobbit 19 info
+- Hobbit 19 information
+- I do not know what Hobbit
+- movit 19 information
+- movit 19 info
+- I do not know what Hobbit 19
+- I do not know what the Hobbit
+- I do not know what is the Hobbit 19
+- About Hobbit
+- About Hobbit 19
+- Information about the Hobbit
+- Information about the Hobbit 19
+- About Hobbit
+- About Hobbit 19
+- Information about the Hobbit
+- Information about Hobbit 19
+- Information about Hobbit
+- Tell me more about Hobbit
+- Tell me more about Hobbit 19
+- Tell me more about the Hobbit
+- Tell me more about The Hobbit 19
+- Tell me what is a hobbit
+- Tell me what is a hobbit 19
+- Tell me what's Hobbit
+- Tell me what's Hobbit 19
+- Tell me what is the Hobbit
+- Tell me what is the Hobbit 19
+- What Hobbit?
+- What Hobbit 19?
+- What is a hobbit?
+- What is a Hobbit 19?
+- What's Hobbit?
+- What's Hobbit 19?
+- What's COBIT19?
+- COBIT19
+- About COBIT
+- About COBIT 19
+- On the COBIT
+- About the COBIT 19
+- COBIT
+- COBIT Info
+- COBIT information
+- COBIT 19
+- COBIT 19 info
+- COBIT 19 Information
+- I do not know what is COBIT
+- I do not know what COBIT 19
+- I do not know what the COBIT is
+- I do not know what the COBIT 19
+- About COBIT
+- About 19 COBIT
+- Information about the COBIT
+- Information on COBIT 19
+- About COBIT
+- Information on COBIT 19
+- Information on the COBIT
+- Information on COBIT
+- Tell me more about COBIT
+- Tell me more about COBIT 19
+- Tell me more about the COBIT
+- Tell me more about the COBIT 19
+- Tell me what a COBIT is
+- Tell me what is a COBIT 19
+- Tell me what is COBIT
+- Tell me what is COBIT 19
+- Tell me what is the COBIT
+- Tell me what is the COBIT 19
+- What COBIT?
+- What COBIT 19?
+- What is COBIT?
+- What is COBIT 19?
+- What is COBIT?
+- What is COBIT 19?
+- What's Kubik19?
+- Kubik19
+- About cubic
+- About 19 cubic
+- About the cube
+- About the cubic 19
+- movit 19
+- Tell me more about cubic 19
+- Information cubic
+- Information cubic 19
+- Information about the cube
+- About 19 cubic
+- About cubic
+- Information about the cubic 19
+- Information about the cubic
+- About 19 cubic
+- About Kubik
+- I do not know what is the cubic 19
+- I do not know what the cube is
+- I do not know what is cubic 19
+- I do not know what is cubic
+- 19 cubic information
+- 19 cubic info
+- Kubik 19
+- Kubik information
+- Kubik Info
+- Kubik
+- What's Qubeat 19?
+- What's Qubeat?
+- What is a Qubeat 19?
+- What is a Qubeat?
+- What Qubeat 19?
+- What's Qubeat with?
+- Tell me what is the Qubeat 19
+- Tell me what is the Qubeat
+- Tell me what is Qubeat 19
+- Tell me what is Qubeat
+- Tell me what is a Qubeat 19
+- Tell me what is a Qubeat
+- Tell me more about the 19 Qubeat
+- Tell me more about the Qubeat
+- Tell me about Qubeat more 19
+- Tell me more about Qubeat
+- Information Qubeat
+- Information Qubeat 19
+- Information about the Qubeat
+- About 19 Qubeat
+- About Qubeat
+- Information about the Qubeat 19
+- Information about the Qubeat
+- What's Kowit 19?
+- What's Kowit?
+- What is a Kowit 19?
+- What is a Kowit?
+- What Kowit 19?
+- What Kowit?
+- Tell me what is the Kowit 19
+- Tell me what is the Kowit
+- Tell me what is Kowit 19
+- Tell me what is Kowit
+- Tell me what is a Kowit 19
+- Tell me what a Kowit is
+- Tell me more about the Kowit 19
+- Tell me more about the Kowit
+- Tell me more about Kowit 19
+- Tell me more about Kowit
+- Information Kowit
+- Information Kowit 19
+- Information about the Kowit
+- About 19 Kowit
+- About Kowit
+- Information about the Kowit 19
+- Information about the Kowit
+- About 19 Kowit
+- About Kowit
+- I do not know what is the Kowit 19
+- I do not know what is Kowit
+- I do not know what Kowit 19
+- I do not know what is Kowit
+- Kowit 19 information
+- Kowit 19 info
+- Kowit 19
+- About the Kowit 19
+- About the Kowit
+- About 19 Kowit
+- About Kowit
+- What's Kowit19?
+- What is a Kowit-19?
+- what s head
+- What is a s head?
+- What is a 2019 s head
+- What's 2019 s head
+- what s head
+- What s with 2,019 head?
+- Tell me what is the s head
+- Tell me what is the 2019 s head
+- Tell me what is s head
+- Tell me what is a s head
+- Tell me what is a 2019 s head
+- Tell me what is 2019 s head
+- Tell me more about the s head
+- Tell me more about the s head
+- Tell me more about the 2019 s head
+- Tell me more about s head
+- Tell me more about 2019 s head
+- s header information
+- s head info
+- s head
+- Information s head
+- Information en 2019 head
+- About s head
+- About 2,019 s head
+- Information about the s head
+- Information about the 2019 s head
+- About s head
+- About 2019 s head
+- I do not know what the s head
+- I do not know what the 2019 s head
+- I do not know what s head
+- I do not know what 2019 s head
+- About the s head
+- About the 2019 s head
+- About s head
+- About 2,019 s head
+- 2019 s head info
+- 2019 s head
+- FMD virus
+- emco virus
+- encores virus
+- enpass virus
+- About 19 Qubeat
+- About Qubeat
+- I do not know what the Qubeat 19
+- I do not know what the Qubeat is
+- I do not know what 19 is Qubeat
+- I do not know what is Qubeat
+- Qubeat 19 information
+- Qubeat 19 info
+- Qubeat 19
+- Qubeat information
+- Qubeat Info
+- Qubeat
+- About the Qubeat 19
+- About the Qubeat
+- About 19 Qubeat
+- About Qubeat
+- qubeat19
+- What's qubeat19?
+- What's cupid 19?
+- What is cupid?
+- What is a cupid 19?
+- What is a cupid?
+- What cupid 19?
+- What cupid?
+- Tell me what is the cupid 19
+- Tell me what is the cupid
+- Tell me what is cupid 19
+- Tell me what is cupid
+- Tell me what is a cupid 19
+- Tell me what is a cupid
+- Tell me more about the cupid 19
+- Tell me more about the cupid
+- Tell me more about cupid 19
+- Tell me more about cupid
+- Information cupid
+- Information for cupid 19
+- Information about the cupid
+- About cupid 19
+- About cupid
+- Information about the cupid 19
+- Information about the cupid
+- About cupid 19
+- About cupid
+- I do not know what is the cupid 19
+- I do not know what is the cupid
+- I do not know what is cupid 19
+- I do not know what is cupid
+- cupid 19 information
+- Cupid 19 info
+- cupid 19
+- cupid information
+- cupid Info
+- cupid
+- About the cupid 19
+- About the cupid
+- About cupid 19
+- About cupid
+- cupid19
+- What's cupid19?
+- What's Kuhweg 19?
+- What's Kuhweg?
+- What is a Kuhweg 19?
+- What is a Kuhweg?
+- What is known about the pathogen?
+- 2019 Ncov
+- 2019 Ncov info
+- What's Covid19?
+- Covid19
+- About 2019 Ncov
+- About COVID
+- About COVID-19
+- About Ncov
+- About new coronavirus
+- About the 2019 Ncov
+- About the COVID
+- About the COVID-19
+- About the Ncov
+- About the new coronavirus
+- What is known about the pathogen?
+- COVID
+- COVID Info
+- COVID information
+- COVID-19
+- COVID-19 info
+- COVID-19 Information
+- I do not know what 2019 is Ncov
+- I do not know what is COVID
+- I do not know what COVID-19
+- I do not know what is Ncov
+- I do not know what the new coronavirus is
+- I do not know what the 2019 is Ncov
+- I do not know what the COVID is
+- I do not know what the COVID-19
+- I do not know what the Ncov is
+- About 2019 Ncov
+- About COVID
+- About COVID-19
+- About Ncov
+- Information about the new coronavirus
+- Information about the 2019 Ncov
+- Information about the COVID
+- Information about the COVID-19
+- What Kuhweg 19?
+- What Kuhweg?
+- Tell me what is the Kuhweg 19
+- Tell me what is the Kuhweg
+- Tell me what is Kuhweg 19
+- Tell me what is Kuhweg
+- Tell me what is a Kuhweg 19
+- Tell me what is a Kuhweg
+- Tell me more about the Kuhweg 19
+- Tell me more about the Kuhweg
+- Tell me more about Kuhweg 19
+- Tell me more about Kuhweg
+- Information Kuhweg
+- Information Kuhweg 19
+- Information about the Kuhweg
+- About 19 Kuhweg
+- About Kuhweg
+- Information about the Kuhweg 19
+- Information about the Kuhweg
+- About 19 Kuhweg
+- About Kuhweg
+- I do not know what is the Kuhweg 19
+- I do not know what is Kuhweg
+- I do not know what is Kuhweg 19
+- I do not know what is Kuhweg
+- Kuhweg 19 information
+- Kuhweg 19 info
+- Kuhweg 19
+- Kuhweg information
+- Kuhweg Info
+- Kuhweg
+- About the Kuhweg 19
+- About the Kuhweg
+- About 19 Kuhweg
+- About Kuhweg
+- kuhweg19
+- What's kuhweg19?
+- What's CooKit 19?
+- What's CooKit?
+- What is a CooKit 19?
+- What is a CooKit?
+- What CooKit 19?
+- What CooKit?
+- Tell me what is the CooKit 19
+- Tell me what is the CooKit
+- Tell me what is CooKit 19
+- Tell me what is CooKit
+- Tell me what is a CooKit 19
+- Tell me what is a CooKit
+- Tell me more about the CooKit 19
+- Tell me more about the CooKit
+- Tell me more about CooKit 19
+- Tell me more about CooKit
+- Information CooKit
+- Information CooKit 19
+- Information about the CooKit
+- About 19 CooKit
+- About CooKit
+- Information about the CooKit 19
+- Information about the CooKit
+- About 19 CooKit
+- About CooKit
+- I do not know what is the CooKit 19
+- I do not know what the CooKit is
+- I do not know what 19 is CooKit
+- I do not know what is CooKit
+- CooKit 19 information
+- CooKit 19 info
+- CooKit 19
+- CooKit information
+- CooKit Info
+- CooKit
+- About the CooKit 19
+- About the CooKit
+- About 19 CooKit
+- About CooKit
+- cookit19
+- Information about the Ncov
+- About 2019 Ncov
+- About COVID
+- About COVID-19
+- About Ncov
+- Information about new coronavirus
+- Information for 2019 Ncov
+- Information about the COVID
+- Information COVID-19
+- Information Ncov
+- Information about the new coronavirus
+- Information COVID
+- Ncov
+- Ncov info
+- Ncov information
+- new coronavirus
+- new coronavirus information
+- Tell me more about 2019 Ncov
+- Tell me more about COVID
+- Tell me more about COVID-19
+- Tell me more about Ncov
+- Tell me more about the new coronavirus
+- Tell me more about the 2019 Ncov
+- Tell me more about the COVID
+- Tell me more about the COVID-19
+- Tell me more about the Ncov
+- Tell me more about the Ncov
+- Tell me what is 2019 Ncov
+- Tell me what is a 2,019-Ncov
+- Tell me what a COVID is
+- Tell me what is a COVID-19
+- Tell me what is a Ncov
+- Tell me, what is a new coronavirus
+- Tell me what is COVID
+- Tell me what is COVID-19
+- Tell me what is Ncov
+- Tell me what's new coronavirus
+- Tell me what is the 2019 Ncov
+- Tell me what is the COVID
+- Tell me what is the COVID-19
+- Tell me what is the Ncov
+- Tell me what is the new coronavirus
+- What about 2019 Ncov?
+- What COVID?
+- What COVID-19?
+- what Ncov
+- What about the new coronavirus?
+- What's 2019 Ncov
+- What is a 2019 Ncov
+- What is a COVID?
+- What is a COVID-19?
+- What is a Ncov?
+- What is a new coronavirus?
+- What's COVID?
+- what Ncov
+- What's new coronavirus
+- What's COVID-19?
+- 2019 M head
+- 2019 M head info
+- About 2019 M head
+- About M head
+- About the 2019 M head
+- About the M head
+- I do not know what is 2019 M head
+
+## intent:de_covid_meaning
+- What is SARS Cov 2
+- for what is Cubit 19
+- for what is Govich
+- for what is Kovic
+- I do not know what 19 cubic stands
+- What does the abbreviation cubic 19?
+- What does the abbreviation cubic 19?
+- What's cubic 19
+- What is SARS Cov-2 and 19 cubic?
+- What does 19 cubic?
+- I do not know what is KOVIT 19
+- What does the abbreviation KOVIT 19?
+- What does the abbreviation KOVIT 19?
+- KOVIT 19 What's
+- What is SARS Cov-2 and KOVIT 19?
+- What does KOVIT 19?
+- KOVIT 19 What's?
+- What is SARS Cov-2 and Kuhweg 19?
+- What does Kuhweg 19?
+- What's Kuhweg 19?
+- I do not know what is movit 19
+- What does the abbreviation movit 19?
+- What does the abbreviation movit 19?
+- movit 19 What's
+- What is SARS Cov-2 and movit 19?
+- What does movit 19?
+- movit 19 What's?
+- I do not know what COBIT is 19
+- What does the abbreviation COBIT 19?
+- What does the abbreviation COBIT 19?
+- What's COBIT 19
+- What is SARS Cov-2 and COBIT 19?
+- What does COBIT 19?
+- What's COBIT 19?
+- I do not know what is huvit 19
+- What does the abbreviation huvit 19?
+- What does the abbreviation huvit 19?
+- What's huvit 19
+- What is SARS Cov-2 and huvit 19?
+- What does huvit 19?
+- huvit 19 What's?
+- I do not know what is Hobbit 19
+- What does the abbreviation Hobbit 19?
+- What does the abbreviation Hobbit 19?
+- What's Hobbit 19
+- What is SARS Cov-2 and 19 Hobbit?
+- What does Hobbit 19?
+- What's Hobbit 19?
+- I do not know what is Kuhweg 19
+- What does the abbreviation Kuhweg 19?
+- What does the abbreviation Kuhweg 19?
+- What's Kuhweg 19
+- I do not know what is cupid 19
+- What does the abbreviation cupid 19?
+- What does the abbreviation cupid 19?
+- What's cupid 19
+- What is SARS Cov-2 and cupid 19?
+- What cupid is 19?
+- What's cupid 19?
+- I do not know what is Qubeat 19
+- What does the abbreviation Qubeat 19?
+- What does the abbreviation Qubeat 19?
+- What's Qubeat 19
+- What is SARS Cov-2 and Qubeat 19?
+- What does Qubeat 19?
+- What's Qubeat 19?
+- I do not know what is CooKit 19
+- What does the abbreviation CooKit 19?
+- What does the abbreviation CooKit 19?
+- CooKit 19 What's
+- What is SARS Cov-2 and CooKit 19?
+- What does CooKit 19?
+- CooKit 19 What's?
+- I do not know what is Q19
+- What does the abbreviation Q19?
+- What does the abbreviation Q19?
+- What's Q19
+- What is SARS Cov-2 and Q19?
+- What does Q19?
+- What's Q19?
+- What does the abbreviation Kowit 19?
+- What does the abbreviation Kowit 19?
+- What does Kowit 19?
+- What's SARS-Cov-2 and Kowit 19?
+- What does Kowit 19
+- What does the abbreviation Covid-19?
+- What does the abbreviation Covid-19?
+- What does Covid-19?
+- I do not know what is Covid 19
+- What does the abbreviation Covid 19?
+- What does the abbreviation Covid 19?
+- I do not know what SARS-Cov-2 is
+- What does the abbreviation SARS-Cov-2?
+- What does the abbreviation SARS-Cov-2?
+- I do not know what SARS Cov 2 is
+- What does the abbreviation SARS Cov 2?
+- What does the abbreviation SARS Cov 2?
+- What is SARS Cov 2?
+- What's Covid 19
+- What's SARS-Cov-2 and Covid-19?
+- What is SARS Cov-2 and Covid 19?
+- What does SARS Cov 2?
+- What's SARS-Cov 2?
+- for what is coebad 19
+- What does Covid 19?
+- What's Covid 19?
+- What does Covid-19
+- What does SARS-Cov-2?
+- What's SARS-Cov-2?
+- What is SARS Cov-2
+- What's cubic 19?
+
+## intent:de_covid_mortality_rate
+- The disease is fatal?
+- How likely is it that I die of COBIT 19?
+- How likely is it that I at movit 19 die?
+- How likely is it that I die of Kuhweg 19?
+- How likely is it that I at KOVIT 19 die?
+- How likely is it that I'm dying to Kubik 19?
+- How likely is it that I die of Covid 19?
+- Can I die from the coronavirus?
+- I die when I have the virus?
+- Will I die?
+- Give me information about mortality
+- What is the probability you die it?
+- The probability of dying from it high?
+- What is the probability that you die in it?
+- What is the probability that you die when you get infected?
+- mortality rate
+- What is the mortality rate?
+- What is the mortality rate, especially in comparison to influenza, be assessed?
+- Is it possible to die of coronavirus?
+- you die it?
+- What is the probability you can die from it?
+- How high is the risk of death?
+- How likely the disease is fatal
+- How high is the risk of dying from it
+- Tell me the mortality rate
+- What is the death rate?
+- Tell me how high the mortality rate is
+- Is the virus lethal?
+- Can the virus kill you?
+- Is it possible to die from the virus?
+- Is there any chance of survival?
+- Are there chances of survival?
+- Can you survive the virus?
+- Is it possible to die?
+- Bring the coronavirus an order?
+- Is very likely is it that I die in it?
+- Do I have to die if I am infected with the virus?
+- lethality
+- mortality rate
+- mortality
+- How likely is it that I die of huvit 19?
+- How likely is it that I die of Hobbit 19?
+- How likely is it that I die of cupid 19?
+- How likely is it that I die of Qubeat 19?
+- How likely is it that I at CooKit 19 die?
+- How likely is it that I die of Q19?
+- At what probability the mortality rate?
+- Tell me how likely it is to die from it
+
+## intent:de_covid_origins
+- Coronavirus origin
+- Origin coronavirus
+- origin
+- Where does the novel coronavirus?
+- Why is there Corona
+- Origin of the virus
+- Where does the virus?
+- How it ever came to coronavirus epidemic?
+- Where did SARS-CoV-2
+- Where does the coronavirus
+- How did the coronavirus?
+- What is the origin of the coronavirus outbreak?
+- What is the origin of the outbreak?
+- What is the origin of the virus?
+- How did the outbreak?
+- How did it come to the outbreak of the epidemic?
+- Where the coronavirus come from?
+- Where does it come from?
+- Where does the deadly new coronavirus?
+- Where the outbreak was its origin?
+- What is the local origin of the coronavirus epidemic?
+
+## intent:de_covid_preexisting_illness
+- Corona in people who have had a stroke
+- Corona and medical history
+- Heart disease
+- Can Corona be dangerous for me?
+- What does the Corona epidemic for cancer patients?
+- Corona virus and hypertension
+- Coronavirus and hypertension
+- Can medications increase infection by the coronavirus high blood pressure the risk?
+- What previous illnesses cause more severe courses?
+- Corona in people who had a heart attack
+- What about people with pre-existing conditions
+- Corona pre-existing conditions
+- Coronavirus and medical history
+- Risk in people with pre-existing conditions
+- Risk in people with diabetes
+- Risk in people with high blood pressure
+- Risk in people with Herzvorerkrankungen
+- Risk in people with heart problems
+- Which pre-existing conditions Infected are particularly at risk?
+- Which pre-existing conditions may be relevant?
+- Am I risk group?
+- What about cancer patients?
+- As cancer patients respond to the virus?
+- Cancer and coronavirus
+- Corona cancer
+- Young people with pre-existing conditions
+
+## intent:de_covid_pregnancy
+- What about pregnancy
+- Pregnant
+- pregnant woman
+- What is known about Kowit 19 in children and pregnant women?
+- What is known about COVID-19 in children and pregnant women?
+- Covid-19 and pregnancy
+- Hello, I would like to know more because of coronavirus in pregnancy
+- pregnancy
+- Pregnant and coronavirus
+- How dangerous is a corona virus infection in pregnancy?
+- What do I have as a pregnant woman in mind?
+- What is now important for pregnant women?
+- What need to know to pregnant Covid-19
+- What is Corona for pregnant women
+- I'm pregnant and have Corona
+- Pregnant with coronavirus
+- Pregnant in Corona crisis
+- Corona in pregnant women
+- Pregnant and Corona
+- How does the coronavirus on pregnancy affects
+- I belong as a pregnant woman to the coronavirus-risk group?
+- Coronavirus infection in pregnant women
+- Am I as a pregnant woman by the coronavirus risk than other women?
+- Pregnancy and coronavirus
+
+## intent:de_covid_procedure_after_infection
+- I'm infected, what happens now?
+- I found out that I am infected, as happens now?
+- I was tested positive for the virus, as happens now?
+- My girlfriend has movit 19, what happens now?
+- My girlfriend has KOVIT 19, what happens now?
+- My girlfriend cubic 19, what happens now?
+- What happens if I'm infected?
+- What happens if I tested positive for the infection?
+- What happens if the results are positive?
+- What happens if a positive result?
+- What happens if the test is positive?
+- What is the procedure if a Inektion was found?
+- My girlfriend has Covid 19, what happens now?
+- When my husband suspected the coronavirus, what happens now?
+- My girlfriend Q19, what happens now?
+- My girlfriend has CooKit 19, what happens now?
+- My girlfriend has Qubeat 19, what happens now?
+- My girlfriend cupid 19, what happens now?
+- My girlfriend has Kuhweg 19, what happens now?
+- What happens when the positive test for the coronavirus?
+- My friend was gestetet positively to the coronavirus, what happens now?
+- When my roommate the corona virus was detected, what happens now?
+- My roommate has the coronavirus, what happens now?
+- What happens if I tested positive for the virus?
+- What is done when the coronavirus was found in me?
+- Procedure infection
+- As one proceeds with a suspected case?
+- What happens when an infection with the coronavirus is found?
+- My girlfriend Hobbit 19, what happens now?
+- My girlfriend has huvit 19, what happens now?
+- My girlfriend has COBIT 19, what happens now?
+- My wife is suspected the coronavirus, as happens now?
+- What happens with a suspected case of the coronavirus?
+- What happens with a suspected case of the virus?
+
+## intent:de_covid_risk_people
+- risk group
+- risk groups
+- What is known about COVID-19 in children and pregnant women?
+- What ages are particularly affected?
+- What is known about Kowit 19 in children and pregnant women?
+- For whom a coronavirus infection is particularly dangerous
+- Who is the most dangerous virus?
+- What people are threatened hardest?
+- Who is the hardest threatened by the disease?
+- Which groups are more vulnerable to the virus?
+- Which groups are particularly at risk
+- Who is most affected?
+- For whom the risk is particularly high?
+- Which groups are at increased risk for severe cases?
+- Who is most at risk?
+- Which people are most at risk?
+- Vulnerable groups
+- Which group of people is especially affected?
+- Who bears the virus most?
+- Who is most affected by the virus?
+- Only elderly people severely affected by the disease?
+- Complications can also occur in people with no pre-existing conditions?
+- For whom is the virus is a particularly high risk?
+- What age groups, the coronavirus is especially dangerous?
+- Particularly vulnerable groups
+- Are patients at particular risk of rheumatoid arthritis
+- Are rheumatic patients at risk
+- rheumatoid arthritis
+- At what age do most people die of the coronavirus
+- In which age group most people die of the coronavirus
+- risk groups
+
+## intent:de_covid_sars
+- Is the same as SARS Obit 19?
+- Obit is 19 the same as severe acute respiratory syndrome?
+- Obit is the same 19 as SARS?
+- About SARS and Obit 19th
+- About Obit 19 and severe acute respiratory syndrome.
+- About Obit 19 and SARS.
+- Differences between SARS and Obit 19
+- Differences between Obit 19 and severe acute respiratory syndrome
+- Differences between Obit 19 and SARS
+- Obit 19 and severe acute respiratory syndrome.
+- Obit 19 and SARS.
+- Obit 19 and SARS are the same virus?
+- About SARS and Obit 19th
+- About Obit 19 and severe acute respiratory syndrome.
+- About Obit 19 and SARS.
+- Are SARS and Kuhweg 19 the same?
+- Is the same as SARS Kuhweg 19?
+- The virus that causes SARS is the same as that which causes Kuhweg 19th
+- The virus that causes SARS and the virus that causes Kuhweg 19 are the same?
+- The virus that causes Kuhweg 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes Kuhweg 19 is the same as the causes that SARS?
+- The virus that causes Kuhweg 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes Kuhweg 19, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and Kuhweg 19 are the same virus?
+- SARS and Kuhweg 19th
+- SARS and Kuhweg 19 are the same virus?
+- Is the same as SARS Kuhweg 19?
+- Is Kuhweg 19 the same as severe acute respiratory syndrome?
+- Is the same Kuhweg 19 as SARS?
+- About SARS and Kuhweg 19th
+- About Kuhweg 19 and severe acute respiratory syndrome.
+- About Kuhweg 19 and SARS.
+- Differences between SARS and Kuhweg 19
+- Differences between Kuhweg 19 and severe acute respiratory syndrome
+- Differences between Kuhweg 19 and SARS
+- Kuhweg 19 and severe acute respiratory syndrome.
+- Kuhweg 19 and SARS.
+- Kuhweg 19 and SARS are the same virus?
+- About SARS and Kuhweg 19th
+- About Kuhweg 19 and severe acute respiratory syndrome.
+- About Kuhweg 19 and SARS.
+- Are SARS and Corvette 19 the same?
+- Is the same as SARS Corvette 19?
+- The virus that causes SARS is caused the same as, the Corvette 19th
+- The virus that causes SARS, and the virus that causes the Corvette 19, are the same?
+- The virus that causes Corvette 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes Corvette 19 is the same as the causes that SARS?
+- The virus that causes Corvette 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes 19 Corvette, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and Corvette 19 are the same virus?
+- SARS and Corvette 19th
+- SARS and Corvette 19 are the same virus?
+- Is the same as SARS Corvette 19?
+- Is Corvette 19 the same as severe acute respiratory syndrome?
+- Is Corvette the same 19 as SARS?
+- About SARS and Corvette 19th
+- About 19 Corvette and severe acute respiratory syndrome.
+- About 19 Corvette and SARS.
+- Differences between SARS and Corvette 19
+- Differences between Corvette 19 and severe acute respiratory syndrome
+- Differences between Corvette 19 and SARS
+- Corvette 19 and severe acute respiratory syndrome.
+- Corvette 19 and SARS.
+- Corvette 19 and SARS are the same virus?
+- About SARS and Corvette 19th
+- About Corvette 19 and severe acute respiratory syndrome.
+- About Corvette 19 and SARS.
+- Are SARS and Qubeat 19 the same?
+- difference between influenza and covid
+- as is corona different from the normal flu
+- Difference between COBIT and sass
+- Is Qubeat 19 the same as severe acute respiratory syndrome?
+- Is the same Qubeat 19 as SARS?
+- About SARS and Qubeat 19th
+- About Qubeat 19 and severe acute respiratory syndrome.
+- About Qubeat 19 and SARS.
+- Differences between SARS and Qubeat 19
+- Differences between Qubeat 19 and severe acute respiratory syndrome
+- Differences between Qubeat 19 and SARS
+- Qubeat 19 and severe acute respiratory syndrome.
+- Qubeat 19 and SARS.
+- Qubeat 19 and SARS are the same virus?
+- About SARS and Qubeat 19th
+- About Qubeat 19 and severe acute respiratory syndrome.
+- About Qubeat 19 and SARS.
+- Are SARS and cubic 19 the same?
+- Is the same as SARS cubic 19?
+- The virus that causes SARS is caused the same as the one cubic 19th
+- The virus that causes SARS, and the virus that causes the cubic 19 are the same?
+- The virus that causes cubic 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes cubic 19 is the same as the causes that SARS?
+- The virus that causes cubic 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes cubic 19, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and cubic 19 are the same virus?
+- SARS and Kubik 19th
+- SARS and cubic 19 are the same virus?
+- Is the same as SARS cubic 19?
+- Is cubic 19 the same as severe acute respiratory syndrome?
+- Is cubic same 19 as SARS?
+- About SARS and Kubik 19th
+- About 19 cubic and severe acute respiratory syndrome.
+- About 19 cubic and SARS.
+- Differences between SARS and cubic 19
+- Differences between cubic 19 and severe acute respiratory syndrome
+- Differences between cubic 19 and SARS
+- Kubik 19 and severe acute respiratory syndrome.
+- Kubik 19 and SARS.
+- Kubik 19 and SARS are the same virus?
+- About SARS and Kubik 19th
+- About cubic 19 and severe acute respiratory syndrome.
+- About 19 cubic and SARS.
+- Are SARS and cupid 19 the same?
+- Is the same as SARS cupid 19?
+- The virus that causes SARS is the same cause as that cupid 19th
+- The virus that causes SARS, and the virus that causes cupid 19 are the same?
+- The virus that causes cupid 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes cupid 19, is the same as the causes that SARS?
+- The virus that causes cupid 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- Severe acute respiratory syndrome and cupid 19 are the same virus?
+- The virus that causes cupid 19, and the virus that causes SARS, are the same?
+- SARS and cupid 19th
+- SARS and cupid 19 are the same virus?
+- Is the same as SARS cupid 19?
+- Is cupid 19 the same as severe acute respiratory syndrome?
+- Is cupid same 19 as SARS?
+- About SARS and cupid 19th
+- About cupid 19 and severe acute respiratory syndrome.
+- About cupid 19 and SARS.
+- Differences between SARS and Cupid 19
+- Differences between cupid 19 and severe acute respiratory syndrome
+- Differences between Cupid 19 and SARS
+- cupid 19 and severe acute respiratory syndrome.
+- Cupid 19 and SARS.
+- cupid 19 and SARS are the same virus?
+- About SARS and cupid 19th
+- About cupid 19 and severe acute respiratory syndrome.
+- About cupid 19 and SARS.
+- Are SARS and COBIT 19 the same?
+- Is the same as SARS COBIT 19?
+- The virus that causes SARS is caused the same as that COBIT 19th
+- The virus that causes SARS, and the virus that causes the COBIT 19 are the same?
+- The virus that causes COBIT 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes COBIT 19 is the same as the causes that SARS?
+- The virus that causes COBIT 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes COBIT 19, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and COBIT 19 are the same virus?
+- SARS and COBIT 19th
+- SARS and COBIT 19 are the same virus?
+- Is the same as SARS COBIT 19?
+- COBIT is 19 the same as severe acute respiratory syndrome?
+- COBIT is the same 19 as SARS?
+- About SARS and COBIT 19th
+- Information on COBIT 19 and severe acute respiratory syndrome.
+- About 19 COBIT and SARS.
+- Differences between SARS and COBIT 19
+- Differences between COBIT 19 and severe acute respiratory syndrome
+- Differences between COBIT 19 and SARS
+- COBIT 19 and severe acute respiratory syndrome.
+- COBIT 19 and SARS.
+- COBIT 19 and SARS are the same virus?
+- About SARS and COBIT 19th
+- About COBIT 19 and severe acute respiratory syndrome.
+- About COBIT 19 and SARS.
+- Are SARS and COVID 19 the same?
+- Is the same as SARS COVID 19?
+- The virus that causes SARS is the same as the causes that COVID 19th
+- The virus that causes SARS, and the virus that causes the COVID 19 are the same?
+- The virus that causes COVID 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes COVID 19 is the same as the causes that SARS?
+- The virus that causes COVID 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes COVID 19, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and COVID 19 are the same virus?
+- SARS and COVID 19th
+- SARS and COVID 19 are the same virus?
+- Is the same as SARS COVID 19?
+- Is COVID 19 the same as severe acute respiratory syndrome?
+- Is COVID the same 19 as SARS?
+- About SARS and COVID 19th
+- About COVID 19 and severe acute respiratory syndrome.
+- About COVID 19 and SARS.
+- Differences between SARS and COVID 19
+- Differences between COVID 19 and severe acute respiratory syndrome
+- Differences between COVID 19 and SARS
+- COVID 19 and severe acute respiratory syndrome.
+- COVID 19 and SARS.
+- COVID 19 and SARS are the same virus?
+- About SARS and COVID 19th
+- About COVID 19 and severe acute respiratory syndrome.
+- About COVID 19 and SARS.
+- Are SARS and COVID-19 the same?
+- Is the same as SARS COVID-19?
+- The virus that causes SARS is the same cause as that COVID-19th
+- The virus that causes SARS and the virus that causes COVID-19, are the same?
+- The virus that causes COVID-19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes COVID-19 is the same as the causes that SARS?
+- The virus that causes 19-COVID, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes 19-COVID, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and COVID-19 are the same virus?
+- SARS and COVID-19th
+- SARS and COVID-19 are the same virus?
+- Is the same as SARS COVID-19?
+- Is COVID-19 the same as severe acute respiratory syndrome?
+- Is COVID-19 the same as SARS?
+- About SARS and COVID-19th
+- About COVID-19 and severe acute respiratory syndrome.
+- About COVID-19 and SARS.
+- Is the same as SARS Qubeat 19?
+- The virus that causes SARS is the same cause as that Qubeat 19th
+- The virus that causes SARS, and that caused the virus Qubeat 19 are the same?
+- The virus that causes Qubeat 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes Qubeat 19, is the same as the causes that SARS?
+- The virus that causes Qubeat 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes Qubeat 19, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and Qubeat 19 are the same virus?
+- SARS and Qubeat 19th
+- SARS and Qubeat 19 are the same virus?
+- Is the same as SARS Qubeat 19?
+- Differences between SARS and COVID-19
+- Differences between COVID-19 and severe acute respiratory syndrome
+- Differences between COVID-19 and SARS
+- COVID-19 and severe acute respiratory syndrome.
+- COVID-19 and SARS.
+- COVID-19 and SARS are the same virus?
+- About SARS and COVID-19th
+- About COVID-19 and severe acute respiratory syndrome.
+- About COVID-19 and SARS.
+- Are SARS and Obit 19 the same?
+- Is the same as SARS Obit 19?
+- The virus that causes SARS is caused the same as that Obit 19th
+- The virus that causes SARS, and the virus that causes the Obit 19 are the same?
+- The virus that causes Obit 19, is the same as the virus that causes severe acute respiratory syndrome.
+- The virus that causes Obit 19 is the same as the causes that SARS?
+- The virus that causes Obit 19, and the virus that causes severe acute respiratory syndrome, are the same?
+- The virus that causes Obit 19, and the virus that causes SARS, are the same?
+- Severe acute respiratory syndrome and Obit 19 are the same virus?
+- SARS and Obit 19th
+- SARS and Obit 19 are the same virus?
+
+## intent:de_covid_surfaces
+- As long as the virus is life-outside the body and capable of infection?
+- How long does the virus remain on the surfaces?
+- Can the virus survive on support rods?
+- Can the virus survive on doorknobs?
+- How long the virus can survive on surfaces?
+- How long the virus can survive on public transport?
+- How long does the virus survive on surfaces?
+- How long survive the virus?
+- How long the SARS-CoV-2 virus outside the body still viable and capable of infection?
+- How long the SARS-CoV-2 virus outside the body still viable and capable of infection? (Eg on doorknobs, support bars in public transport or microphones)
+- How long does the virus survive on doorknobs?
+- How long does the virus survive on surfaces?
+- Which increases the life of coronaviruses?
+- What is the lifespan of the coronavirus?
+- What is the lifespan of the virus?
+- Increases the life of the cold coronavirus?
+- How many days a coronavirus on surfaces remain infektös?
+- How many days can survive the coronaviruses?
+- How long can the Virusauf surfaces remain infectious?
+- How long does coronavirus survive on surfaces?
+- How long does coronavirus survive on surfaces?
+- How long the viruses on the surfaces can survive?
+
+## intent:de_covid_symptoms
+- What are the symptoms?
+- I can not smell more
+- My head hurts
+- I have headache
+- I have a headache
+- I have a slight scratch on the neck and now do not know what to do
+- Tell me if I've Corona
+- Tell me if I'm infected
+- I want to know is whether a fever is a symptom
+- Fever is also a symptom?
+- body temperature
+- I have a slight scratch on the neck
+- Am I Choronapatient by phlegm in the lungs and sinuses?
+- Am I inviziert by verschleimungserscheinungen in the sinuses and lungs?
+- How does the disease manifest itself?
+- What are the symptoms of the virus?
+- What disease characteristics, the Hobbit at 19?
+- What are the symptoms of Hobbit 19?
+- What disease has characteristics of huvit 19?
+- What are the symptoms of huvit 19?
+- What disease characteristics, the COBIT at 19?
+- What are the symptoms of COBIT 19?
+- What disease has characteristics of movit 19?
+- What are the symptoms of movit 19?
+- What disease has characteristics of KOVIT 19?
+- What are the symptoms of KOVIT 19?
+- What disease characteristics, the cubic at 19?
+- How do I know that I'm sick?
+- What are the first signs
+- to which has symptoms I look for?
+- symptoms
+- What are the symptoms of the coronavirus?
+- What disease characteristics, the Covid at 19?
+- What are the characteristics of the disease Coronavirus
+- What about the symptoms of Covid-19?
+- How is the disease if one is infected?
+- How does the disease manifest itself?
+- What are the symptoms?
+- What symptoms I have, if I'm infected?
+- What are the typical symptoms of the virus?
+- What are the typical characteristics of the disease?
+- What are the symptoms of coronavirus SARS-CoV-2?
+- What are the symptoms of coronavirus
+- What are the symptoms of the virus
+- What are the symptoms of Covid 19?
+- What are the disease characteristics of SARS-Cov 2?
+- What are the symptoms of SARS Cov 2?
+- What disease characteristics there
+- Symptoms SARS Cov 2
+- Symptoms of SARS-Cov-2
+- At what symptoms the infection leads to the virus?
+- As the infection manifests?
+- What about the symptoms of Kowit 19?
+- What disease has characteristics of Q19?
+- What are the symptoms of Q19?
+- What disease has characteristics of CooKit 19?
+- What are the symptoms?
+- What are the signs of disease?
+- What symptoms are caused by the new coronavirus SARS-CoV-2?
+- Under what symptoms suffer Infected?
+- Consequently adversely affect Infected?
+- Consequently adversely affect the infected?
+- What the infection leads to the virus?
+- How can you tell whether one is ill?
+- How can I tell if I'm infected?
+- What disease has characteristics of Kuhweg 19?
+- What are the symptoms of Kuhweg 19?
+- What are the symptoms of CooKit 19?
+- What disease characteristics, the Qubeat 19?
+- What are the symptoms of Qubeat 19?
+- What disease has features of cupid 19?
+- What are the symptoms of cupid 19?
+- What is the symptom?
+- What are the symptoms of cubic 19?
+- Scratchy throat
+- What do I do if I have a sore throat?
+- I have scratchy throat
+- is the loss of taste, a sympton for corona?
+- I have no sense of smell
+- I can no longer smell and taste
+- I can not taste more
+- how the taste sense in corona changes?
+- headache
+
+## intent:de_covid_treatment
+- Is there a treatment for CooKit 19?
+- Treatment CooKit 19
+- Treatment options CooKit 19
+- Is there a treatment for huvit 19?
+- Treatment huvit 19
+- What treatment options are there?
+- Is there a treatment for Q19?
+- Therapy coronavirus
+- Treatments for the coronavirus
+- How is the infection treated?
+- Is there an effective therapy against the coronavirus?
+- Treatment Cupid 19
+- Is there any treatment for 19 cubic?
+- Treatment cubic 19
+- Treatment options Kubik 19
+- Treatment options cupid 19
+- What treatments are available for the novel coronavirus available
+- Is there a treatment for Qubeat 19?
+- Treatment Qubeat 19
+- Treatment options Qubeat 19
+- Treatment options COBIT 19
+- Treatment options KOVIT 19
+- Treatment KOVIT 19
+- Is there a treatment for KOVIT 19?
+- What is the treatment?
+- Is there a treatment for movit 19?
+- Treatment movit 19
+- Treatment options movit 19
+- Is there a treatment for COBIT 19?
+- Treatment COBIT 19
+- Treatment options huvit 19
+- Is there a treatment for Hobbit 19?
+- however, what medicines help.
+- Treatment Hobbit 19
+- Treatment options Hobbit 19
+- What treatments are available?
+- What treatments are available at a positive test?
+- Is there a treatment for Kuhweg 19?
+- Treatment Kuhweg 19
+- How is treated at Corona
+- How you are treated when you have Corona
+- How you are treated
+- How you are treated when you are positive
+- How is an infection treated with the coronavirus?
+- Treatment options Kuhweg 19
+- Which medium help each corona?
+- Treatment Covid 19
+- Coronavirus treatment
+- How is a disease treated with the new coronavirus?
+- Is there a treatment for cupid 19?
+- Treatment options Covid 19
+- treatment options
+- What does the treatment look like?
+- Is there a treatment?
+- How is the disease treated?
+- What is the treatment therapy?
+- Is there a treatment for Covid 19?
+- Treatment options Q19
+- treatment Q19
+- Is there medicine to treat the virus?
+- Are there medicines against the virus?
+- Are there drugs?
+
+## intent:de_covid_unknown_cases
+- The role of unreported cases of Covid-19
+- dark figures
+- What can you tell me the number of unreported cases
+- Ill-Dunkelziffer
+- What is the actual number of people infected
+- Estimate of unreported cases
+- Unreported coronavirus
+- What does the number of unreported cases
+- What is the real figure
+- What is the number of unreported cases of Corona infections?
+- unreported
+
+## intent:de_covid_vaccine
+- When will the Imptsftoff comes on the market?
+- How long you have to wait to vaccination.
+- I want to vaccinate myself and my family.
+- Protection possible by vaccination?
+- Can I protect myself by vaccination against the virus?
+- Vaccination against the coronavirus
+- vaccination coronavirus
+- I want a vaccination
+- When there is finally a vaccination
+- When there is a vaccine
+- When will the vaccine developed
+- How long does it take for the vaccine on the market
+- Is there a vaccine against it?
+- Vaccination?
+- vaccine
+- Is there a vaccine?
+- When was the vaccine
+- Vaccination against Covid
+- When will the vaccine produced
+- When will the vaccine be available
+- Vaccines against Coronavirus
+- There is no vaccine?
+- What is the current state of research of vaccination against the virus?
+- Vaccination against SARS Cov-2
+- There is no vaccine against the virus?
+- Is there a vaccine?
+- Vaccination against Kowit
+- Can I get vaccinated?
+- Where can I find the vaccine
+- I want to get vaccinated
+- Is it possible to get vaccinated against the coronavirus?
+- Corona virus vaccination
+- Vaccination against coronavirus
+- Vaccination against the new coronavirus
+- How long it will take, will be developed by a vaccine?
+- When will vaccine?
+- When there is finally a vaccination?
+
+## intent:de_covid_worry
+- Do I have my family worry?
+- why turn all through?
+- spinning all?
+- Should I be terrified?
+- I panicked
+- I'm very concerned about the virus!
+- I'm very worry me
+- panic
+- anxiety
+- Panic
+- panic outbreak
+- I'm afraid
+- now breaks out panic
+- Now you have to be afraid because of the virus?
+- All just? Scaremongering
+- All just? Scaremongering
+- Coronavirus all just scaremongering?
+- Must I be afraid now?
+- One should worry because of the coronavirus now?
+- Is there a reason to worry now?
+- worry
+- Do I have due COVID-19 worried?
+- How justified is the fear Kowit 19?
+- How justified is the fear Covid-19?
+- Should I be worried about 19 Kowit?
+- Now you have to be afraid of Kowit 19?
+- Fear Kowit 19
+- Should I be because the coronavirus now seriously worried?
+- One should make due Kowit 19 thoughts now?
+- Should one due to Covid-19 worry now?
+- Fear Covid-19
+- Now you have to be afraid of Covid-19?
+- Fear of the Corona virus
+- Do I have a fear of coronavirus now?
+- How scared you really need?
+- Fear of coronavirus
+- How justified is the fear of the coronavirus?
+- Fear of coronavirus
+- I'm afraid of the virus
+- I'm starting to make me seriously worried.
+- Do we need to make us serious concerns?
+
+## intent:de_current_situation
+- Situation in other countries
+- Situation in other countries
+- And as it is in @de_countries?
+- I stop in @de_countries
+- Such as the entry conditions look into @de_countries?
+- What are the entry requirements in @de_countries?
+- What is the situation in @de_countries?
+- What about with @de_countries?
+- What @de_countries?
+- I fly over @de_countries, I'll get into trouble?
+- How is the situation in @de_countries?
+- How is the situation in @de_countries?
+- What measures are taken in @de_countries?
+- What is the condition in @de_countries
+- What is the situation around the world
+- The current situation in @de_countries
+- Current situation in @de_countries
+- How is it in @de_countries?
+- What's in @de_countries from
+- As it is now in @de_countries
+
+## intent:de_economy_consequences
+- coronavirus economy
+- What are the consequences of the coronavirus pandemic?
+- Consequences for the economy
+- What are the consequences of Corona pandemic?
+- Corona pandemic and the consequences for the world economy
+- Corona pandemic and the consequences for the world economy
+- What impact can feel the world economy?
+- economy
+- economic slump
+- economic growth
+- COVID 19 engages economy
+- Follow the coronavirus on the economy
+- Coronavirus strain on the economy
+- Economic crisis
+- Economic crisis
+- How strong the economy suffers
+- Economic crash
+- economic crash
+- Effects of the coronavirus on the economy
+- Coronavirus and the economy
+- Which sectors that coronavirus is especially hard?
+- What are the dangers for the economy as a whole?
+- What impact can feel the German economy?
+- How does the coronavirus affect the world economy?
+- When will it all back to normal.
+- I am now bankrupt, where can I find help?
+- Offers of help for self-employed
+- Immediate measures for the economy
+- strengthen emergency measures to the economy
+- Where I now get liquidity assistance?
+- Where I now get liquidity assistance?
+- What are the consequences for the company?
+- What are the consequences for employees?
+- What are the consequences for employers?
+- What consequences does this have for small businesses?
+- What programs are there now to strengthen the economy?
+- What are the economic consequences
+- What are the economic consequences will this have
+- Great Depression
+- Spread of the coronavirus has massive economic consequences
+
+## intent:de_features_date
+- Send me the date!
+- Can you give me the date?
+- Can you tell me the date?
+- Can you send me the date?
+- Can you send me the date?
+- Send me the date!
+- What day?
+- Give me the date!
+- What is today's date?
+- Date, please!
+- Can you tell me the date?
+- Can you give me the date?
+- What we have for a date?
+- Date?
+- What is the date today?
+- Can you send me the date?
+- Can you give me the date?
+- Can you send me the date?
+- What day is it today?
+- What day is today?
+- What is today's date?
+- What is the date today?
+- How is today's date?
+- What is the date?
+- Write me the date!
+- Tell me the date!
+- Can you send me the date?
+- Can you write me the date?
+- Can you give me the date?
+
+## intent:de_features_time
+- Can you tell me the time?
+- Can you give me the time?
+- Can you send me the time?
+- Can you write me the time?
+- Can you tell me the time?
+- Tell me the time!
+- What time is it?
+- What time is now?
+- Can you give me the time?
+- What time is it?
+- What time is it?
+- Can you send me the time?
+- Can you write me the time?
+- Can you send me the time?
+- What is the time?
+- Can you send me the time?
+- Can you send me the time?
+- I want to know the time.
+- Can you tell me the time?
+- Can you tell me the time?
+- Can you send me the time?
+- Can you give me the time?
+- Can you write me the time?
+- Can you send me the time?
+- What is the time?
+- Give me time!
+- Tell me the time!
+- Write me time!
+- I want to have the time.
+- I will have the time.
+- I want to know the time.
+- Can you give me the time?
+- Can you tell me the time?
+- Can you tell me the time?
+- Give me time!
+- Can you tell me the time?
+- Can you tell me the time?
+- Time?
+- Can you send me the time?
+- What time is it now?
+- What time is it?
+- Time?
+- please tell me the time
+- Can you write me the time?
+- what time is it?
+- Write me the time!
+
+## intent:de_germany_consequences
+- What are the consequences Covid 19 for Germany
+- What does the increasing spread for Germany
+- How many infected will be available in Germany
+- How many deaths will be available in Germany
+- How many patients will be available in Germany
+- How does this affect Germany in general from?
+- Implications for Germany
+- effects which this has on Germany
+- How many people in Germany become infected?
+- What does this mean for Germany
+- How many people will be infected
+- What are the consequences for Germany?
+- impact Germany
+- Germany effects
+- What does this mean for Germany
+- consequences Germany
+- Germany consequences
+- What are the consequences of the virus for Germany?
+
+## intent:de_germany_current_situation
+- movit 19 Germany
+- Situation in Germany
+- Kubik 19 in Germany
+- Coronavirus in Germany
+- Germany Covid
+- Germany Kowit
+- Q19 in Germany
+- Qubeat 19 in Germany
+- cupid 19 in Germany
+- Kuhweg 19 in Germany
+- Hobbit 19 in Germany
+- huvit 19 in Germany
+- COBIT 19 in Germany
+- movit 19 in Germany
+- KOVIT 19 in Germany
+- What about in Germany with the virus?
+- Covid 19 in Germany
+- The current situation in Germany
+- Corona in Mecklenburg Vorpommern
+- Corona in Mecklenburg
+- Corona in Hesse
+- Corona in Baden-Wuerttemberg
+- Corona in Bavaria
+- Corona in Berlin
+- Corona in Brandenburg
+- Corona in Bremen
+- Corona in Hamburg
+- Corona in Mecklenburg-Vorpommern
+- Corona in Rheinland-Pfalz
+- Corona in North Rhine-Westphalia
+- Corona in Lower Saxony
+- Corona in Saxony
+- Corona in Schleswig-Holstein
+- Corina in Thuringia
+- Coronavirus in Hesse
+- Coronavirus in Baden-Wuerttemberg
+- Coronavirus in Bavaria
+- Coronavirus in Berlin
+- Coronavirus in Brandenburg
+- Coronavirus in Bremen
+- Coronavirus in Hamburg
+- Coronavirus in Mecklenburg-Vorpommern
+- Coronavirus in Rheinland-Pfalz
+- Coronavirus in North Rhine-Westphalia
+- Coronavirus in Lower Saxony
+- Coronavirus in Saxony
+- Coronavirus in Schleswig-Holstein
+- Corona in Saarland
+- Corona in Saxony-Anhalt
+- Where can I find detailed information?
+- Where there is detailed information?
+- Reliable updated information
+- where can I find the latest information about the virus
+- Which sites provide the latest information about the coronavirus?
+- Which pages for updated information about Corona?
+- I would like to have the latest information on the virus
+- Where can I find the latest news about the virus?
+- What is the situation in Germany?
+- situation Germany
+- Germany Location
+- Germany situation
+- How do you evaluate the situation of Germany in connection with Corona?
+- What is the situation in Germany assessed?
+- Current information in Germany
+- Current situation in Germany
+- Information on the general situation in Germany
+- What about with Germany?
+- Coronavirus and Germany
+- The virus in Germany
+- KOVIT 19 Germany
+- Covid 19 Germany
+- huvit 19 Germany
+- Hobbit 19 Germany
+- COBIT 19 Germany
+- 19 cubic Germany
+- Q19 Germany
+- CooKit 19 Germany
+- Kuhweg 19 Germany
+- cupid 19 Germany
+- Qubeat 19 Germany
+- What is the current situation in Germany?
+- What is the situation in @cities
+- What about in the time @cities
+- Covid 19 in @cities
+- Corona in @cities
+- Coronavirus in @cities
+- What is the current situation in @cities
+
+## intent:de_germany_food_buy
+- What do I need for a two-week quarantine to stock have everything at home
+- What you have to buy everything for 2 weeks?
+- What should I buy quarantined for 2 weeks
+- What should I buy quarantine for 14 days
+- What should I buy quarantine for 10 days
+- What should I buy for home quarantine?
+- How can each prepare for home quarantine?
+- How can I prepare for home quarantine?
+- What foods should I have for quarantine in stock at home
+- What you need to supply one person for ten days
+- What should I buy if I am in quarantine
+- What should I buy quarantine for two weeks
+- How much food should I buy quarantine for two weeks?
+- How can I prepare myself to spend two weeks at home
+- How should I prepare myself at the quarantine
+- What should I have for two weeks to stock at home
+
+## intent:de_germany_food_shortages
+- Why then but there are many shelves empty?
+- If the supermarket shelves empty?
+- Will there be enough to eat?
+- Will we have enough food?
+- Should I buy stock now?
+- Cause hoarding food shortages?
+- Will there be enough food in Germany
+- Will supermarkets be empty?
+- Will there be shortages of food?
+- What do you think of hoarding?
+- If you buy food in stock now?
+- Is it advisable now to make hoarding?
+- You have to buy food on Vorraut now?
+- Are there food shortages
+- Food shortages
+- food shortages
+- What is the supply situation in Germany?
+- Make hoarding sense?
+- Are food shortages feared
+- now are supply shortages feared in the food?
+- Are to be feared in Germany shortages of food?
+- Do I expect food shortages?
+- hoarding
+- how is the supply situation in Germany
+- Hamster Buy
+- hoarding
+- What foods you should have in an emergency at home?
+- Make hoarding sense?
+- For how many days can you have enough food?
+- If the food supply more secure in the event of a further spread of the coronavirus?
+- Food shortages
+- Food shortages
+- Empty supermarket shelves because of coronavirus?
+- Empty noodle shelves in supermarkets
+- There are already empty supermarket shelf
+
+## intent:de_germany_hotline
+- Can you give me a number?
+- What is the number?
+- Who can I call?
+- I want to contact by phone.
+- Whom should I contact by phone?
+- Please give me a phone number
+- I would have liked a phone number
+- I'd like a phone number
+- Whom can I contact by phone?
+- I want to contact by phone
+- I need a number
+- Where can I call?
+- Is there a phone number?
+- hotlines
+- Hotline
+- phone number
+- Coronavirus Hotline
+- Is there a coronavirus hotline?
+- phone numbers
+- call number
+- telephone number
+- Please phone number
+- Is there a hotline?
+- Is there a phone number for general-information?
+- Contact agency
+- Is there a consultation service for deaf and hearing impaired?
+- Is there a telephone counseling service?
+- What is the number of the Federal Ministry of Health?
+- As the number is the Federal Ministry of Health?
+- Citizens Phone
+- telephone service
+- Independent Patient Counseling Germany number
+- Is there a number for patient counseling?
+- Is there a number for patient counseling?
+- I need advice by telephone
+- What is the number of counseling?
+- How can I contact about this topic?
+- Who can I call us?
+- Where can I find a doctor in my town
+- doctor
+- Seeking a doctor
+- Which doctor should I contact
+- What is the hotline?
+- Are you telling me a number?
+- Hotlines for coronavirus
+- telephone number
+- where do I call if I have symptoms
+
+## intent:de_germany_lockdown_howlong
+- How long does the lockdown
+- As long as the current restrictions will be maintained?
+- Duration of restrictions
+- Duration of measures
+- How long these measures apply
+- Until when the contact prohibition applies
+- How long this condition will continue
+- How long this lockdown continues
+- Until when these measures go
+- How long the lockdown will last
+- As long as the general curfew will last
+- How long does the corona lockdown continues
+- Lockdown in Germany as long
+- How long the curfew is still ongoing
+- How long do we have to stay locked up
+- How long should we all stay at home now
+- How much longer lockdown
+- How long this state of emergency is still ongoing
+- How long this state of emergency could last
+- How long can hold a lockdown
+- How long does the closing of borders
+- How long it will take
+- How long lockdown in Germany
+- Curfew in Germany for how long
+- how long the restrictions will last well for all of us?
+- How long are the limitations
+- As long duration of the prohibition of contact yet
+- How long these restrictions will last?
+- how long the measures?
+- How long this shutdown continues
+- How long the shutdown will last
+- how long the shutdown goes?
+
+## intent:de_germany_neighbors_close_borders
+- Information for border
+- Closed What are the limits?
+- Germany close neighbors increasingly limits
+- Neighboring countries close borders
+- Halo I have a question left you can Wisen help me They are gesprert whether the boundary in Östereeich?
+- What about traveling to neighboring countries?
+- Close the borders to neighboring countries now?
+- Can I still travel to France now?
+- Can I still travel to Holland now?
+- Can I go to Poland now?
+- Can I travel to Austria even now?
+- Are now closed borders?
+- You can still travel to Switzerland now?
+- What about traveling out to neighboring countries?
+- What about travel to the neighboring countries?
+- Can I travel even to neighboring countries?
+- If the limits are closed to neighboring countries?
+- Borders neighboring countries
+- Are now made to the limits?
+- close borders
+- coronavirus are limits now to neighboring countries closed
+- Limits include the Corona fight
+- Take our neighbors now close the borders because of Corona?
+- Close our neighbors now the limits?
+- Borders with neighboring countries
+- countries borders with neighboring
+- Neighbors include limits
+- Germany's neighboring countries close their borders? L
+- Germany's neighboring countries close their borders?
+- Is now the border closed?
+- Are in Germany now close the borders?
+- Because border in Austria I need information
+
+## intent:de_germany_nomoney
+- What will I get the aid package, if I can not pay my loan or my insurance?
+- I can not pay my bills more because Corona
+- I can not pay my expenses more because Corona
+- I can not pay my bills more
+- I can not pay my bill more
+- What should I do if I have no money
+- I am now unemployed and have no money more
+- I can soon no longer pay my rent
+- I'll be broke
+- The money is running out
+- I have no more money
+- I am broke
+- What should I do if I can not pay my rent
+- What should I do if I'm broke
+- I'm out of money
+- I have no more money soon
+- I dont have any money left
+- I can not pay my insurance more
+
+## intent:de_germany_pandemic
+- What is the position of Germany in connection with the pandemic
+- pandemic Germany
+- Germany pandemic
+- What are the consequences of the pandemic cry for Germany?
+- What does the pandemic cry for Germany?
+- Pandemic exclamation Germany
+- What it means for Germany that the WHO has declared a pandemic?
+- Pandemic in Germany
+- Emergency in Germany by Pandemic?
+- What does it mean that the WHO has declared a pandemic?
+- WHO has declared a global pandemic case, what does that mean for Germany?
+- pandemic exclamation
+- pandemic exclamation
+
+## intent:de_germany_precautions_badenw
+- In Baden-Wuerttemberg is an entertainment restriction
+- Are there any lock in Baden-Wuerttemberg
+- Is there output lock in Baden-Wuerttemberg
+- Are there any prohibition of contact in Baden-Wuerttemberg
+- Are there any prohibition of contact in Baden-Wuerttemberg
+- Can we still go out in Baden-Württemberg now?
+- What measures are now in Baden-Wuerttemberg
+- What are the preparations in Baden-Wuerttemberg
+- What are the measures in Baden-Württemberg
+- Curfew in Baden-Wuerttemberg
+- Ausgngssperre in Baden-Wuerttemberg
+- There is now a curfew in Baden-Württemberg?
+
+## intent:de_germany_precautions_bayern
+- Ausgngssperre in Bavaria
+- What measures are now in Bavaria
+- Can we still go out in Bavaria now?
+- Is there contact ban in Bavaria
+- Is there contact ban in Bavaria
+- Are there any lock in Bavaria
+- Is there output lock in Bavaria
+- There is now a curfew in Bavaria?
+- In Bavaria, is an entertainment restriction
+- I may go to another town in the Bavarian restrictions
+- I may if I live in Bavaria go to another city
+- May I visit my parents in Bavaria yet
+- Curfew in Bavaria
+- What are the measures in Bavaria
+- What are the preparations in Bavaria
+
+## intent:de_germany_precautions_berlin
+- There is now a curfew in Berlin?
+- Is there output lock in Berlin
+- Are there any lock in Berlin
+- Are there any prohibition of contact in Berlin
+- Are there any prohibition of contact in Berlin
+- Can we still go out in Berlin now?
+- What measures are now in Berlin
+- What are the preparations in Berlin
+- What are the measures in Berlin
+- Curfew in Berlin
+- Ausgngssperre in Berlin
+- Berlin is an entertainment restriction
+
+## intent:de_germany_precautions_brandenburg
+- Brandenburg is an entertainment restriction
+- Ausgngssperre in Brandenburg
+- Curfew in Brandenburg
+- What are the measures in Brandenburg
+- What are the preparations in Brandenburg
+- What measures are now in Brandenburg
+- Can we still go out in Brandenburg now?
+- Are there any prohibition of contact in Brandenburg
+- Are there any prohibition of contact in Brandenburg
+- Are there any lock in Brandenburg
+- Is there output lock in Brandenburg
+- There is now a curfew in Brandenburg?
+
+## intent:de_germany_precautions_bremen
+- What are the preparations in Bremen
+- Is there output lock in Bremen
+- Are there any lock in Bremen
+- Are there any prohibition of contact in Bremen
+- Bremen is a nightlife restriction
+- Ausgngssperre in Bremen
+- Curfew in Bremen
+- Are there any prohibition of contact in Bremen
+- Can we still go out in Bremen now?
+- What measures are now in Bremen
+- There is now a curfew in Bremen?
+- What are the measures in Bremen
+
+## intent:de_germany_precautions_hamburg
+- Can we still go out in Hamburg now?
+- Are there any prohibition of contact in Hamburg
+- Are there any prohibition of contact in Hamburg
+- Are there any lock in Hamburg
+- Is there output lock in Hamburg
+- There is now a curfew in Hamburg?
+- Hamburg is an entertainment restriction
+- Ausgngssperre in Hamburg
+- Curfew in Hamburg
+- What are the measures in Hamburg
+- What are the preparations in Hamburg
+- What measures are now in Hamburg
+
+## intent:de_germany_precautions_hessen
+- What are the preparations in Hesse
+- What are the measures in Hesse
+- Curfew in Hesse
+- Ausgngssperre in Hesse
+- Hesse is a nightlife restriction
+- There is now a curfew in Hesse?
+- Are there any prohibition of contact in Hesse
+- Are there any prohibition of contact in Hesse
+- Are there any lock in Hesse
+- Is there output lock in Hesse
+- Can we still go out in Hesse now?
+- What measures are now in Hessen
+
+## intent:de_germany_precautions_mecklenburg
+- Ausgngssperre in Mecklenburg Vorpommern
+- In Mecklenburg-Western Pomerania is an entertainment restriction
+- There is now a curfew in Mecklenburg Vorpommern?
+- Can we still go out in Mecklenburg-Vorpommern now?
+- What measures are now in Mecklenburg-Vorpommern
+- What are the preparations in Mecklenburg-Vorpommern
+- What are the measures in Mecklenburg-Vorpommern
+- Curfew in Mecklenburg-Vorpommern
+- Ausgngssperre in Mecklenburg-Vorpommern
+- In Mecklenburg-Western Pomerania is an entertainment restriction
+- There is now a curfew in Mecklenburg-Vorpommern?
+- Is there output lock in Mecklenburg
+- Are there any lock in Mecklenburg
+- Are there any prohibition of contact in Mecklenburg
+- Are there any prohibition of contact in Mecklenburg
+- Is there output lock in Mecklenburg-Vorpommern
+- Are there any lock in Mecklenburg-Vorpommern
+- Are there any prohibition of contact in Mecklenburg-Vorpommern
+- Are there any prohibition of contact in Mecklenburg-Vorpommern
+- Can we still go out in Mecklenburg now?
+- What measures are now in Mecklenburg
+- What are the preparations in Mecklenburg
+- What are the measures in Mecklenburg
+- Curfew in Mecklenburg
+- Ausgngssperre in Mecklenburg
+- In Mecklenburg is an entertainment restriction
+- There is now a curfew in Mecklenburg?
+- Is there output lock in Mecklenburg Vorpommern
+- Are there any lock in Mecklenburg Vorpommern
+- Are there any prohibition of contact in Mecklenburg Vorpommern
+- Are there any prohibition of contact in Mecklenburg Vorpommern
+- Can we still go out in Mecklenburg Vorpommern now?
+- What measures are now in Mecklenburg Vorpommern
+- What are the preparations in Mecklenburg Vorpommern
+- What are the measures in Mecklenburg Vorpommern
+- Curfew in Mecklenburg Vorpommern
+
+## intent:de_germany_precautions_niedersachsen
+- There is now a curfew in Lower Saxony?
+- In Lower Saxony is an entertainment restriction
+- What are the measures in Lower Saxony
+- Curfew in Lower Saxony
+- Ausgngssperre in Lower Saxony
+- Is there output lock in Lower Saxony
+- Are there any lock in Lower Saxony
+- Are there any prohibition of contact in Lower Saxony
+- Are there any prohibition of contact in Lower Saxony
+- Can we still go out in Lower Saxony now?
+- What measures are now in Lower Saxony
+- What are the preparations in Lower Saxony
+
+## intent:de_germany_precautions_nordrhein
+- Ausgngssperre in North Rhine Westphalia
+- There is now a curfew in North Rhine-Westphalia?
+- In NRW is an entertainment restriction
+- There is now a curfew in NRW?
+- Is there output lock in North Rhine Westphalia
+- Are there any lock in North Rhine Westphalia
+- Is there contact ban in North Rhine Westphalia
+- Is there contact ban in North Rhine Westphalia
+- Can we still go out in North Rhine Westphalia now?
+- What measures is now available in North Rhine Westphalia
+- What are the preparations in North Rhine Westphalia
+- What are the measures in North Rhine Westphalia
+- Curfew in North Rhine Westphalia
+- In North Rhine Westphalia is an entertainment restriction
+- Is there output lock in North Rhine-Westphalia
+- Are there any lock in North Rhine-Westphalia
+- Is there contact ban in North Rhine-Westphalia
+- Is there contact ban in North Rhine-Westphalia
+- Can we still go out in England now?
+- Ausgngssperre in NRW
+- Curfew in NRW
+- What are the measures in NRW
+- What are the preparations in NRW
+- What measures are now in NRW
+- Can we still go out in NRW now?
+- Are there any prohibition of contact in NRW
+- Are there any prohibition of contact in NRW
+- Are there any lock in NRW
+- Is there output lock in NRW
+- There is now a curfew in North Rhine Westphalia?
+- What measures is now available in North Rhine-Westphalia
+- What are the preparations in North Rhine-Westphalia
+- What are the measures in North Rhine-Westphalia
+- Curfew in North Rhine-Westphalia
+- Ausgngssperre in North Rhine-Westphalia
+- In North Rhine-Westphalia is an entertainment restriction
+
+## intent:de_germany_precautions_rheinland
+- Are there any prohibition of contact in Rheinland Pfalz
+- Can we still go out in Rhineland Palatinate now?
+- There is now a curfew in Rheinland Pfalz?
+- Are there any prohibition of contact in Rheinland-Pfalz
+- Are there any prohibition of contact in Rheinland-Pfalz
+- Are there any lock in Rheinland-Pfalz
+- Is there output lock in Rheinland-Pfalz
+- What measures are now in Rheinland Pfalz
+- What are the preparations in Rheinland Pfalz
+- What are the measures in Rheinland Pfalz
+- Curfew in Rheinland Pfalz
+- Ausgngssperre in Rheinland Pfalz
+- In Rhineland Palatinate is an entertainment restriction
+- Can we still go out in Rheinland-Pfalz now?
+- What measures are now in Rheinland-Pfalz
+- What are the preparations in Rheinland-Pfalz
+- What are the measures in Rheinland-Pfalz
+- Curfew in Rhineland-Palatinate
+- Ausgngssperre in Rheinland-Pfalz
+- In Rhineland-Palatinate is an entertainment restriction
+- There is now a curfew in Rheinland-Pfalz?
+- Is there output lock in Rheinland Pfalz
+- Are there any lock in Rheinland Pfalz
+- Are there any prohibition of contact in Rheinland Pfalz
+
+## intent:de_germany_precautions_saarland
+- Are there any prohibition of contact in Saarland
+- Can we still go out in Saarland now?
+- What are the measures in Saarland
+- Curfew in Saarland
+- Ausgngssperre in Saarland
+- In Saarland is a nightlife restriction
+- There is now a curfew in Saarland?
+- Are there any prohibition of contact in Saarland
+- Are there any lock in Saarland
+- Is there output lock in Saarland
+- What measures are now in Saarland
+- What are the preparations in Saarland
+
+## intent:de_germany_precautions_sachsen
+- What are the measures in Saxony
+- Curfew in Saxony
+- Is there output lock in Saxony
+- Are there any lock in Saxony
+- Are there any prohibition of contact in Saxony
+- Are there any prohibition of contact in Saxony
+- Can we still go out in Saxony now?
+- What measures are now in Saxony
+- What are the preparations in Saxony
+- Ausgngssperre in Saxony
+- Saxony is an entertainment restriction
+- There is now a curfew in Saxony?
+
+## intent:de_germany_precautions_sachsenanhalt
+- Are there any prohibition of contact in Saxony Anhalt
+- Are there any prohibition of contact in Saxony Anhalt
+- Can we still go out in Saxony Anhalt now?
+- What measures are now in Saxony Anhalt
+- What are the preparations in Saxony Anhalt
+- What are the measures in Saxony Anhalt
+- There is now a curfew in Saxony-Anhalt?
+- In Saxony-Anhalt is an entertainment restriction
+- Ausgngssperre in Saxony-Anhalt
+- Curfew in Saxony-Anhalt
+- What are the measures in Saxony-Anhalt
+- What are the preparations in Saxony-Anhalt
+- What measures are now in Saxony-Anhalt
+- Can we still go out in Saxony-Anhalt now?
+- In Saxony Anhalt is an entertainment restriction
+- There is now a curfew in Saxony Anhalt?
+- Are there any prohibition of contact in Saxony-Anhalt
+- Is there output lock in Saxony Anhalt
+- Are there any lock in Saxony Anhalt
+- Curfew in Saxony Anhalt
+- Ausgngssperre in Saxony Anhalt
+- Is there output lock in Saxony-Anhalt
+- Are there any lock in Saxony-Anhalt
+- Are there any prohibition of contact in Saxony-Anhalt
+
+## intent:de_germany_precautions_schleswigholstein
+- Are there any prohibition of contact in Schleswig-Holstein
+- Curfew in Schleswig Holstein
+- What are the measures in Schleswig Holstein
+- Are there any lock in Schleswig-Holstein
+- Is there output lock in Schleswig-Holstein
+- What are the preparations in Schleswig Holstein
+- What measures are now in Schleswig Holstein
+- Can we still go out in Schleswig Holstein now?
+- Are there any prohibition of contact in Schleswig Holstein
+- Are there any prohibition of contact in Schleswig Holstein
+- Are there any lock in Schleswig Holstein
+- Is there output lock in Schleswig Holstein
+- There is now a curfew in Schleswig-Holstein?
+- In Schleswig-Holstein is a nightlife restriction
+- Ausgngssperre in Schleswig-Holstein
+- Curfew in Schleswig-Holstein
+- What are the measures in Schleswig-Holstein
+- What are the preparations in Schleswig-Holstein
+- What measures are now in Schleswig-Holstein
+- Ausgngssperre in Schleswig Holstein
+- In Schleswig Holstein is a nightlife restriction
+- There is now a curfew in Schleswig Holstein?
+- Can we still go out in Schleswig-Holstein now?
+- Are there any prohibition of contact in Schleswig-Holstein
+
+## intent:de_germany_preparation
+- How Germany is preparing?
+- Can I to the pharmacy?
+- How is Germany prepared?
+- Contact ban
+- which is banned contact with the
+- Contact ban
+- May I go out today?
+- Contact rules
+- Contact rules
+- Protective measures in Germany
+- How can the spread be slowed in Germany?
+- How should the spread be slowed in Germany?
+- What protective measures are taken in Germany?
+- What safeguards are there in Germany?
+- What is being done in Germany against the spread of huvit 19?
+- How does Germany prepares against the spread of huvit 19?
+- How does Germany prior to huvit 19?
+- What is done in Germany, to prepare for huvit 19?
+- What is being done in Germany against the spread of COBIT 19?
+- How does Germany prepares against the spread of COBIT 19?
+- How does Germany prior to COBIT 19?
+- What is done in Germany, to prepare for COBIT 19?
+- How does Germany prior to Q19?
+- How does Germany prepares against the spread of Q19?
+- What is being done in Germany against the spread of Q19?
+- how good is Germany prepared
+- Preparatory measures in Germany
+- What measures are there in Germany?
+- What is done in Germany, to prepare for Covid 19?
+- What is being done in Germany to reduce the spread of risk?
+- How do you prepare in Germany?
+- Germany preparation
+- Preparations in Germany
+- Germany is somehow prepares before?
+- Germany takes any action?
+- What makes the Ministry in Germany against the spread of the coronavirus?
+- As one proceeds in Germany against the coronavirus?
+- How does Germany prior to Covid 19?
+- How do you deal in Germany to the virus?
+- What makes Germany to the virus?
+- How should we prepare ourselves in Germany to the coronavirus?
+- What measures are being taken to prepare in Germany
+- What is the government of Germany to the virus
+- What preparations are taken in Germany?
+- What is being done in Germany against the coronavirus?
+- What measures Germany against the coronavirus?
+- How does Germany prepares against the spread of Covid 19?
+- What is being done in Germany against the spread of Covid 19?
+- What is being done in Germany?
+- Germany is ready for the big breakout?
+- What measures are being taken in Germany to the virus?
+- How does Germany prior to 19 cubic?
+- What is done in Germany, to prepare cubic 19?
+- As the government in Germany is going on?
+- What is done in Germany, to prepare for Q19?
+- What is being done in Germany against the spread of CooKit 19?
+- How does Germany prepares against the spread of CooKit 19?
+- How does Germany prior to CooKit 19?
+- What is done in Germany, to prepare for CooKit 19?
+- What is being done in Germany against the spread of Qubeat 19?
+- How does Germany prepares against the spread of Qubeat 19?
+- How does Germany prior to Qubeat 19?
+- What is done in Germany, to prepare for Qubeat 19?
+- What is being done in Germany against the spread of cupid 19?
+- How does Germany prepares against the spread of cupid 19?
+- How does Germany before against cupid 19?
+- What is done in Germany, to prepare for cupid 19?
+- What is being done in Germany against the spread of Kuhweg 19?
+- How does Germany prepares against the spread of Kuhweg 19?
+- How does Germany prior to Kuhweg 19?
+- What is done in Germany, to prepare for Kuhweg 19?
+- What is being done in Germany against the spread of Hobbit 19?
+- How does Germany prepares against the spread of Hobbit 19?
+- How does Germany prior to Hobbit 19?
+- What is done in Germany, to prepare for Hobbit 19?
+- What is being done in Germany against the spread of movit 19?
+- How does Germany prepares against the spread of movit 19?
+- How does Germany prior to movit 19?
+- What is done in Germany, to prepare for movit 19?
+- What is being done in Germany against the spread of KOVIT 19?
+- How does Germany prepares against the spread of KOVIT 19?
+- How does Germany prior to KOVIT 19?
+- What is done in Germany, to prepare for KOVIT 19?
+- What other measures are in place to protect the population in Germany before the new coronavirus SARS-CoV-2?
+- What is being done in Germany in against the spread of the virus?
+- What is Germany against the coronavirus?
+- What is being done in Germany against Covid 19?
+- Germany measures
+- What action is Germany?
+- measures Germany
+- As in Germany, the issue coronavirus treated?
+- Curfew in Bavaria
+- Can I go to the pharmacy?
+- How is Germany on?
+- How does Germany deal with the issue?
+- How does Germany action against the spread of the virus?
+- How does Germany before against the coronavirus?
+- What is being done in Germany to the virus?
+- As Germany protects its citizens?
+- As the government in Germany protects its citizens?
+- How does Germany prepares against the spread of cubic 19?
+- What is being done in Germany against the spread of cubic 19?
+- how well placed Germany
+- What arrangements are made in Germany?
+- current measures Germany in the fight against coronavirus
+- Mt what precautions Germany fights against the virus
+- Precautions against the virus in Germany
+- Now what goes and what does not?
+- Measures in Germany
+- Curfew now available in Germany?
+- Curfew in Germany?
+- Will there be for the Germans now curfew?
+- If the curfew now imposed in Germany?
+- Will there be a curfew in Germany?
+- What drastic restrictions in daily life, we must count on?
+- Protective measures in Germany
+- Can I still go shopping in the supermarket
+
+## intent:de_germany_spread
+- Risk Assessment Germany
+- Spread risk of Covid in Germany.
+- 19 cubic expansion in Germany
+- Covid 19 spread in Germany
+- Covid circulation in Germany
+- How great is the risk that the respiratory disease Kowit 19 spreads now available in Germany?
+- Spread risk of Kowit in Germany.
+- how the virus spread in Germany
+- Q19 spread in Germany
+- CooKit 19 in Germany
+- CooKit 19 spread in Germany
+- Qubeat 19 spread in Germany
+- cupid 19 spread in Germany
+- Kuhweg 19 spread in Germany
+- Hobbit 19 spread in Germany
+- huvit 19 spread in Germany
+- COBIT 19 spread in Germany
+- movit 19 spread in Germany
+- KOVIT 19 spread in Germany
+- how does the spread in Germany
+- How great is the danger, the respiratory disease Covid-19 that spreads in Germany now?
+- the virus is now coming to Germany?
+- Can the coronavirus also spread in Germany?
+- Is there a risk of spread in Germany?
+- How likely is it that the virus now spreading in Germany?
+- If the coronavirus also spread in Germany?
+- Can make as in China now also in Germany wide of the virus so?
+- If the virus spread in Germany now?
+- How likely is it, the coronavirus that now spreads in Germany?
+- How likely is spreading in Germany
+- What is the spread of risk in Germany
+- How high is the risk that the virus now widespread in Germany
+- It is very likely the coronavirus in Germany that is spreading?
+- Will there be an epidemic in Germany?
+- Will we all be infected in Germany?
+- Risk assessment of the current situation
+- Risk assessment of the spread
+- Risk of the current situation
+- Risk for Germany
+
+## intent:de_germany_spread_water
+- which is drinking water with our
+- Drinking water
+- Can the coronavirus in groundwater be
+- What about our tap water in Germany
+- Spread through drinking water
+- Coronavirus and tap water
+- tap water
+- Can the coronavirus is transmitted through drinking water?
+- Corona virus in drinking water
+- Coronavirus in tap water
+- Transmission by drinking water
+- Transmission by tap water
+- Corona virus transmission through drinking water
+- Corona virus transmission through the tap water
+- Can the coronavirus is transmitted by water
+- Can the virus be transmitted through drinking Corona
+- Can the coronavirus is transmitted by water from the pipes
+- transmitted pathogens by water
+- Corona virus transmission through water
+- What about our groundwater
+- Coronavirus and drinking water
+- Transmission via groundwater
+- Groundwater and coronavirus
+- Can Corona is transmitted over our groundwater
+
+## intent:de_germany_train_prevention
+- Coronavirus and travel on the train
+- Traveling by train and coronavirus
+- Coronavirus and travel by train
+- What about the train traffic
+- Train travel and coronavirus
+- German railway and coronavirus
+- What to look would passengers by train?
+- Coronavirus what should be aware travelers!
+- Train travel in times of coronavirus
+- What to do in order not to get stuck in public transport?
+- Train travel in spite of the coronavirus
+- Can I still train travel despite coronavirus?
+- How safe is travel by train?
+- German railway einschrnänkungen in mass transit
+- Schedule adjustments German railway
+- German railway restrictions in mass transit
+- What about with Deutsche Bahn?
+- What about rail passengers?
+- Measures of Deutsche Bahn
+- Restrictions in rail transport
+- Limitations German railway
+- limitations DB
+- German railway restrictions in long distance
+- How should I do on the train?
+- Are there measures for rail travelers?
+- What measures are available for passengers by train?
+- What one must make as a passenger?
+- How should I act in rail traffic?
+- What should I look for as a train traveler?
+- What do I have as train travelers in mind?
+- Rail and coronavirus
+- Coronavirus and German railway
+- What is true in the path to be considered?
+- What should you on the train?
+- Public transport and the coronavirus
+- What about with rail travel?
+- Measures for rail travelers
+
+## intent:de_germany_train_refund
+- Fare refund
+- the railway refunded my money back?
+- I entitled to a refund of the ticket?
+- Can I get my money back for the ticket?
+- Is my trip to Italy by train refunded now?
+- ticket refund
+- ticket refund
+- I want to change my train ticket
+- Can I get a refund for my ticket to Italy for free?
+- Can I have my ticket refunded for free?
+- I get my money back for the ticket on the train?
+- I get my money back from the track?
+- Train ticket refund
+- Train ticket refund
+- I can not take my train travel more, I get the money back for the ticket?
+- An event was canceled because of the coronavirus, now I get my money back?
+- When major events to be canceled due Corona, I get my money back?
+- An event was canceled due to Corona, I get my money back now?
+- Free tickets Cancellation possible if an event was canceled due to coronavirus?
+- I get my money back if I cancel my trip?
+- An event is canceled, do I get the money back for train?
+- do I get my money back if I cancel my trip
+- I can get reimbursed for my train ticket now
+- Can I cancel my ticket?
+- reimbursement rules
+- refund schemes
+- Flexible use way train ticket
+
