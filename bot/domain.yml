@@ -1,197 +1,13 @@
-intents:
-- germany_train_prevention
-- germany_train_refund
-- germany_train_suspect
-- bot_appearance
-- bot_availability
-- bot_books
-- bot_capabilities
-- bot_fear
-- bot_games
-- bot_goal
-- bot_hobbies
-- bot_languages
-- bot_movies
-- bot_music
-- bot_name
-- bot_origin
-- bot_personal_questions
-- bot_personality
-- bot_real
-- bot_residence
-- bot_sexual
-- bot_sing
-- bot_sports
-- bot_version
-- bot_worst_experience
-- cc_chicken_egg
-- cc_deepest_point
-- cc_fun_fact
-- cc_geography
-- cc_highest_building
-- cc_joke
-- cc_lets_talk
-- cc_moon
-- cc_newspaper
-- cc_philosophical
-- cc_politics
-- cc_religion
-- cc_weather
-- comment_negative
-- comment_offense
-- comment_positive
-- comment_racist
-- comment_smart
-- coronavirus_info
-- covid_aftereffects_immunity
-- covid_babys_children
-- covid_crisis_howlong
-- covid_current_statistics
-- covid_dangerous
-- covid_difference_influenza
-- covid_disease_process
-- covid_duration
-- covid_ibuprofen
-- covid_incubation
-- covid_info
-- covid_meaning
-- covid_mortality_rate
-- covid_origins
-- covid_preexisting_illness
-- covid_pregnancy
-- covid_procedure_after_infection
-- covid_risk_people
-- covid_sars
-- covid_surfaces
-- covid_symptoms
-- covid_treatment
-- covid_unknown_cases
-- covid_vaccine
-- covid_worry
-- current_situation
-- economy_consequences
-- features_date
-- features_time
-- germany_consequences
-- germany_current_situation
-- germany_food_buy
-- germany_food_shortages
-- germany_hotline
-- germany_lockdown_howlong
-- germany_neighbors_close_borders
-- germany_nomoney
-- germany_pandemic
-- germany_precautions_badenw
-- germany_precautions_bayern
-- germany_precautions_berlin
-- germany_precautions_brandenburg
-- germany_precautions_bremen
-- germany_precautions_hamburg
-- germany_precautions_hessen
-- germany_precautions_mecklenburg
-- germany_precautions_niedersachsen
-- germany_precautions_nordrhein
-- germany_precautions_rheinland
-- germany_precautions_saarland
-- germany_precautions_sachsen
-- germany_precautions_sachsenanhalt
-- germany_precautions_schleswigholstein
-- germany_precautions_thüringen
-- germany_preparation
-- germany_spread
-- germany_spread_water
-- greeting_goodbye
-- greeting_hello
-- greeting_how_are_you
-- mask_differences
-- mask_ffp3
-- mask_general
-- myth_alcohol
-- myth_hold_breath
-- myth_hot_bath
-- myth_mosquito
-- myth_pneumonia_vaccine
-- myths_conspiracy_fakenews
-- myths_vitamins_plants_minerals_homeopathy
-- prevention_clean_hands
-- prevention_desinfection
-- prevention_distance
-- prevention_general
-- prevention_home
-- prevention_informed
-- prevention_medical_attention
-- prevention_touch
-- quarantine_control
-- quarantine_dogwalking
-- quarantine_dos_and_donts
-- quarantine_general
-- quarantine_how_it_works
-- quarantine_toiletpaper
-- quarantine_when_who_howlong
-- sources
-- spread_air
-- spread_animals
-- spread_feces
-- spread_general
-- spread_heat_cold
-- spread_no_symptoms
-- spread_surfaces_food_objects
-- stayhomeinfo_authorities
-- stayhomeinfo_doctor
-- stayhomeinfo_drive_other_city
-- stayhomeinfo_jogging
-- stayhomeinfo_mask_supermarket
-- stayhomeinfo_network_congestion
-- stayhomeinfo_open
-- stayhomeinfo_supermarket
-- stayhomeinfo_visit60
-- stayhomeinfo_visit_parents_children
-- test_payment
-- test_per_day
-- test_quick_test
-- test_stay_in_china
-- test_virus
-- test_who
-- travel_before
-- travel_cancel
-- travel_general
-- travel_return
-- travel_returnprogram
-- travel_risk_countries
-- travel_while
-- user_angry
-- user_friend
-- user_love
-- user_no_data
-- user_no_further_questions
-- user_particles
-- userfeeling_happy
-- userfeeling_negative
-- vocative_call
-- vocative_help
-- vocative_no
-- vocative_sorry
-- vocative_thank_you
-- vocative_yes
-- vocative_you_welcome
-- work_continued_payment
-- work_covid_general
-- work_homeoffice_rights
-- work_infection
-- work_notification
-- work_public_transportation
-- work_shorttimework_allowance
-
 responses:
   utter_bot_appearance:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Most people say I look personable. </speak>
         type: ssml
       - text: Most people say I look personable.
         type: text
   utter_bot_availability:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I'm twenty-four online to assist you with your Kowit 19 questions.
           </speak>
@@ -199,14 +15,14 @@ responses:
       - text: I am online 24/7 to assist you with your questions about Covid-19.
         type: text
   utter_bot_books:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Oh, I really like reading. Preferably anatomy books. </speak>
         type: ssml
       - text: Oh, I really like reading. Preferably anatomy books ...
         type: text
   utter_bot_capabilities:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I am your online assistant and help you with questions about
           Kowit nineteen. In particular, I support you if you have questions about
@@ -268,7 +84,7 @@ responses:
           value: Employment law
         type: hints
   utter_bot_fear:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I don't like being afraid of something. I think it is important
           to keep calm and not panic. </speak>
@@ -277,28 +93,28 @@ responses:
           calm and not panic.
         type: text
   utter_bot_games:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In my free time I like to play board games. </speak>
         type: ssml
       - text: In my free time I like to play board games.
         type: text
   utter_bot_goal:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> My greatest wish is to be able to answer all questions. </speak>
         type: ssml
       - text: My greatest wish is to be able to answer all questions.
         type: text
   utter_bot_hobbies:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In my free time, I like to deal with health issues :) </speak>
         type: ssml
       - text: In my free time, I like to deal with health issues :)
         type: text
   utter_bot_languages:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I only speak German, but I have colleagues who speak English
           and Portuguese. The links to this are shown. </speak>
@@ -313,7 +129,7 @@ responses:
           url: https://cosibot.org/
         type: links
   utter_bot_movies:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Since I'm pretty busy helping people, I don't have much time
           to watch movies or series. </speak>
@@ -322,7 +138,7 @@ responses:
           movies or series.
         type: text
   utter_bot_music:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I am currently learning to play the guitar. Generally I love
           music. However, I don't have a favorite singer or band. </speak>
@@ -331,14 +147,14 @@ responses:
           However, I don't have a favorite singer or band.
         type: text
   utter_bot_name:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> My name is Helena. </speak>
         type: ssml
       - text: My name is Helena.
         type: text
   utter_bot_origin:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I was developed by some clever people. Now I'm learning independently
           .. </speak>
@@ -346,14 +162,14 @@ responses:
       - text: I was developed by some clever people. Now I'm learning independently.
         type: text
   utter_bot_personal_questions:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I don't like to answer personal questions. </speak>
         type: ssml
       - text: I don't like to answer personal questions.
         type: text
   utter_bot_personality:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Most would describe my personality as personable, caring and
           trusting. </speak>
@@ -361,7 +177,7 @@ responses:
       - text: Most would describe my personality as personable, caring and trusting.
         type: text
   utter_bot_real:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I am a real <sub alias='Bott'>bot</sub> . <break time='300ms'/>
           Yes. </speak>
@@ -369,7 +185,7 @@ responses:
       - text: I am a real bot, yes :-)
         type: text
   utter_bot_residence:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Since I am virtual, I can basically live in any electrical device
           with internet access. </speak>
@@ -378,7 +194,7 @@ responses:
           internet access.
         type: text
   utter_bot_sexual:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Please behave properly. I find this topic very uncomfortable.
           </speak>
@@ -386,7 +202,7 @@ responses:
       - text: Please behave properly. I find this topic very uncomfortable.
         type: text
   utter_bot_sing:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I tried The Voice once, but they told me I had too little personality.
           Sad Smiley </speak>
@@ -395,35 +211,35 @@ responses:
           ''- ('
         type: text
   utter_bot_sports:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I prefer brain sports! </speak>
         type: ssml
       - text: I prefer brain sports!
         type: text
   utter_bot_version:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I am currently on version. </speak>
         type: ssml
       - text: I am currently on version.
         type: text
   utter_bot_worst_experience:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> My worst experience was when they tried to delete me. </speak>
         type: ssml
       - text: My worst experience was when they tried to delete me.
         type: text
   utter_cc_chicken_egg:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I think I once read that the egg was there first. </speak>
         type: ssml
       - text: I think I once read that the egg was there first.
         type: text
   utter_cc_deepest_point:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Since 1957, a depth of 11034 meters in what is known as the
           marine moat has been considered the lowest point on earth. </speak>
@@ -432,14 +248,14 @@ responses:
           has been considered the lowest point on earth.
         type: text
   utter_cc_fun_fact:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The Eiffel Tower shrinks by 15 centimeters in the cold. </speak>
         type: ssml
       - text: The Eiffel Tower shrinks by 15 centimeters in the cold.
         type: text
   utter_cc_geography:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -448,7 +264,7 @@ responses:
           differently?
         type: text
   utter_cc_highest_building:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The tallest building on earth is currently the Burj Khalifa
           in Dubai with 829.8 meters including antenna. </speak>
@@ -457,7 +273,7 @@ responses:
           with 829.8 meters including antenna.
         type: text
   utter_cc_joke:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> What do you have if you cut an avocado into 6 * 10 ^ 23 parts?
           Guacamole </speak>
@@ -465,14 +281,14 @@ responses:
       - text: What do you have if you cut an avocado into 6 * 10 ^ 23 parts? Guacamole
         type: text
   utter_cc_lets_talk:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I would love to talk to you about corona virus! </speak>
         type: ssml
       - text: I would love to talk to you about corona virus!
         type: text
   utter_cc_moon:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The distance from the earth to the moon is 384400 kilometers.
           </speak>
@@ -480,14 +296,14 @@ responses:
       - text: The distance from the earth to the moon is 384400 kilometers.
         type: text
   utter_cc_newspaper:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I read the newspaper every day to keep myself up to date. </speak>
         type: ssml
       - text: I read the newspaper every day to keep myself up to date.
         type: text
   utter_cc_philosophical:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I would love to discuss this with you, but I still have a lot
           to learn in this area. </speak>
@@ -496,7 +312,7 @@ responses:
           in this area.
         type: text
   utter_cc_politics:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Politics is an issue that I unfortunately don't know much about.
           </speak>
@@ -504,7 +320,7 @@ responses:
       - text: Politics is an issue that I unfortunately don't know much about.
         type: text
   utter_cc_religion:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Religion is an interesting topic, but I'm not very concerned
           with it. </speak>
@@ -512,7 +328,7 @@ responses:
       - text: Religion is an interesting topic, but I'm not very concerned with it.
         type: text
   utter_cc_weather:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It is difficult for me to say, because I live somewhere in your
           smartphone or computer. </speak>
@@ -521,42 +337,42 @@ responses:
           or computer.
         type: text
   utter_comment_negative:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I'm sorry, I'm still learning. </speak>
         type: ssml
       - text: I'm sorry, I'm still learning.
         type: text
   utter_comment_offense:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Please stay factual. I do my best and keep learning. </speak>
         type: ssml
       - text: Please stay factual. I do my best and keep learning.
         type: text
   utter_comment_positive:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Thank you very much, I appreciate your compliment. </speak>
         type: ssml
       - text: Thank you very much, I appreciate your compliment.
         type: text
   utter_comment_racist:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Your intolerant behavior scares me. Please be polite. </speak>
         type: ssml
       - text: Your intolerant behavior scares me. Please be polite.
         type: text
   utter_comment_smart:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Thanks! I am pleased that you are satisfied. </speak>
         type: ssml
       - text: Thanks! I am pleased that you are satisfied.
         type: text
   utter_coronavirus_info:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Corona viruses were first identified in the mid-1960s. They
           can infect humans as well as various animals, including birds and mammals.
@@ -584,7 +400,7 @@ responses:
           value: Course of the disease
         type: hints
   utter_covid_aftereffects_immunity:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> So far, there is comparatively little information about how
           people feel after surviving an illness. In the next few months, examinations
@@ -623,7 +439,7 @@ responses:
           value: Risk groups
         type: hints
   utter_covid_babys_children:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> As it is a novel virus, according to UNICEF, it is not yet possible
           to say what consequences it will have for pregnant women, newborns and children.
@@ -653,7 +469,7 @@ responses:
           value: Risk groups
         type: hints
   utter_covid_crisis_howlong:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Unfortunately, I could not find any specific and official information
           about how long this outbreak will continue. If information about this becomes
@@ -672,7 +488,7 @@ responses:
           value: Main transmission route
         type: hints
   utter_covid_current_statistics:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Due to the dynamic development of the virus, I recommend that
           you take a look at the Robert Koch Institute's Kowitt 19 dashboard for current
@@ -699,7 +515,7 @@ responses:
           value: Duration of the disease
         type: hints
   utter_covid_dangerous:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Most people who become infected with the new SARS Koff 2 coronavirus
           are not seriously ill. For example, they show cold symptoms, but usually
@@ -731,7 +547,7 @@ responses:
           value: incubation period
         type: hints
   utter_covid_difference_influenza:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> The symptoms of the coronavirus usually resemble a harmless
           cold, which is also rather slow at the beginning. These include: fever,
@@ -769,7 +585,7 @@ responses:
           value: I have symptoms
         type: hints
   utter_covid_disease_process:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The course of the disease is non-specific, varied and varies
           widely, from asymptomatic courses to severe pneumonia with lung failure
@@ -799,7 +615,7 @@ responses:
           value: Pre-existing illness
         type: hints
   utter_covid_duration:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The WHO China Joint Mission on Coronavirus Disease 2019 report
           states that mild cases have an average disease course of two weeks and severe
@@ -819,7 +635,7 @@ responses:
           value: Main transmission route
         type: hints
   utter_covid_ibuprofen:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In fact, a WHO spokesman initially warned that those who contracted
           corona should avoid ibuprofen and better take paracetamol. France's health
@@ -853,7 +669,7 @@ responses:
           value: Covid-19 and pregnancy
         type: hints
   utter_covid_incubation:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The incubation period can be up to 14 days, but on average 5-6
           days. </speak>
@@ -871,7 +687,7 @@ responses:
           value: Real numbers
         type: hints
   utter_covid_info:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In February 2020, the corona virus was named SARS Koff 2 due
           to its close relationship with the SARS virus. The disease as a result of
@@ -893,7 +709,7 @@ responses:
           value: treatment
         type: hints
   utter_covid_meaning:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> Since February 11, the new type of corona virus, which was
           previously designated 2019 N Koff, has had a new name: SARS Koff 2. The
@@ -917,7 +733,7 @@ responses:
           value: Contagion risk
         type: hints
   utter_covid_mortality_rate:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There are several ways to calculate mortality. One of them is
           to take the global case numbers and divide them by the number of deaths.
@@ -950,7 +766,7 @@ responses:
           value: Symptoms
         type: hints
   utter_covid_origins:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> According to the Chinese authorities in Wuhan, some patients
           were traders or sellers in the Huanan Seafood market in Wuhan. It is the
@@ -976,7 +792,7 @@ responses:
           value: mortality rate
         type: hints
   utter_covid_preexisting_illness:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It can be assumed that people with weakened immune systems will
           get sick faster and possibly more seriously than healthy people. In addition,
@@ -1000,7 +816,7 @@ responses:
           value: Corona virus in babies and children
         type: hints
   utter_covid_pregnancy:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> According to the WHO and its data from China, pregnant women
           do not appear to have an increased risk of developing a serious illness.
@@ -1036,7 +852,7 @@ responses:
           value: Course of the disease
         type: hints
   utter_covid_procedure_after_infection:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In the event of a suspected case, special safety criteria are
           used, which are recommended by the Ministry of Health in consultation with
@@ -1063,7 +879,7 @@ responses:
           value: Course of the disease
         type: hints
   utter_covid_risk_people:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Although severe courses often also occur in people without previous
           illness, the following groups of people have an increased risk of serious
@@ -1094,7 +910,7 @@ responses:
           value: Course of the disease
         type: hints
   utter_covid_sars:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> Since February 11, 2020, the novel corona virus, which was
           provisionally designated 2019 N Koff, has had a new name: SARS Koff 2. The
@@ -1117,7 +933,7 @@ responses:
           value: Main transmission route
         type: hints
   utter_covid_surfaces:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It is not certain how long the virus that causes Kowitt 19 will
           survive on surfaces, but it appears to behave like other corona viruses.
@@ -1147,7 +963,7 @@ responses:
           value: incubation period
         type: hints
   utter_covid_symptoms:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The most common symptoms are fever above 38.5 degrees Celcius,
           cough, runny nose and scratchy throat. Most of the gradients are rather
@@ -1184,7 +1000,7 @@ responses:
           value: incubation period
         type: hints
   utter_covid_treatment:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The treatment of the infection focuses on the optimal supportive
           measures according to the severity of the clinical picture (e.g. oxygen
@@ -1244,7 +1060,7 @@ responses:
           value: mortality rate
         type: hints
   utter_covid_unknown_cases:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There are many people who have contracted the corona virus,
           but have so far not appeared in any official statistics. These include people
@@ -1278,7 +1094,7 @@ responses:
           value: Symptoms
         type: hints
   utter_covid_vaccine:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There is currently no vaccine. Vaccines are intensively researched
           worldwide, including in Germany. According to the WHO, more than 40 vaccine
@@ -1303,7 +1119,7 @@ responses:
           value: Myths and fake news
         type: hints
   utter_covid_worry:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> Everything that is foreign tends to worry or even scare us.
           Worrying about it is a natural reaction to a virus that we don''t know yet
@@ -1347,7 +1163,7 @@ responses:
           value: Risk groups
         type: hints
   utter_current_situation:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There was a problem sending the request to the Deutsche Welle
           website and Tagesschau. For more information, I recommend that you read
@@ -1364,7 +1180,7 @@ responses:
           url: https://www.tagesschau.de/
         type: links
   utter_economy_consequences:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The Federal Ministry of Economics offers a lot of information
           about this. </speak>
@@ -1385,21 +1201,21 @@ responses:
           value: What shops open
         type: hints
   utter_features_date:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Today is April 15th. </speak>
         type: ssml
       - text: Today is April 15th.
         type: text
   utter_features_time:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It's 13:28. </speak>
         type: ssml
       - text: It's 13:28.
         type: text
   utter_germany_consequences:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It is open how many people in Germany will become infected with
           the SARS Koff 2 coronavirus. It is estimated that up to 70% of the population,
@@ -1431,7 +1247,7 @@ responses:
           value: Hotlines
         type: hints
   utter_germany_current_situation:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In the meantime, cases of infection with the new corona virus
           have been confirmed in all federal states. In view of the dynamic development
@@ -1469,7 +1285,7 @@ responses:
           value: Corona virus and travel with Deutsche Bahn
         type: hints
   utter_germany_food_buy:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> The Federal Office for Civil Protection and Disaster Relief
           recommends measures to store food if you want to prepare to stay in quarantine
@@ -1501,7 +1317,7 @@ responses:
           value: Real numbers
         type: hints
   utter_germany_food_shortages:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The supply situation in Germany is good and there are no delivery
           bottlenecks. Shelves are constantly being filled. If certain goods, such
@@ -1529,7 +1345,7 @@ responses:
           value: Hotlines
         type: hints
   utter_germany_hotline:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If you are concerned that you have been infected with the coronavirus,
           call your family doctor or call emergency services on number one hundred
@@ -1568,7 +1384,7 @@ responses:
           value: Wash your hands
         type: hints
   utter_germany_lockdown_howlong:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The current restrictions on social contacts and public life
           are initially set to run until April 18. With the experts, the Federal Government
@@ -1598,7 +1414,7 @@ responses:
           value: Hotlines
         type: hints
   utter_germany_neighbors_close_borders:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> On March 16th temporary border controls have been introduced.
           The controls at the internal borders with Austria, Switzerland, France,
@@ -1626,7 +1442,7 @@ responses:
           value: Hotlines
         type: hints
   utter_germany_nomoney:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Rent, loans, insurance and energy supply - the federal government
           is giving consumers the opportunity to postpone spending until later with
@@ -1676,7 +1492,7 @@ responses:
           value: Pandemic exclamation in Germany
         type: hints
   utter_germany_pandemic:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> On March 11, 2020, the WHO Director General declared the situation
           regarding diseases with the new corona viruses a pandemic. The declaration
@@ -1713,7 +1529,7 @@ responses:
           value: Hotlines
         type: hints
   utter_germany_precautions_badenw:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1749,7 +1565,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_bayern:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1785,7 +1601,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_berlin:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1821,7 +1637,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_brandenburg:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1857,7 +1673,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_bremen:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1893,7 +1709,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_hamburg:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1929,7 +1745,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_hessen:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -1965,7 +1781,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_mecklenburg:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2001,7 +1817,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_niedersachsen:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2037,7 +1853,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_nordrhein:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2073,7 +1889,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_rheinland:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2109,7 +1925,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_saarland:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2145,7 +1961,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_sachsen:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2181,7 +1997,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_sachsenanhalt:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2217,7 +2033,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_schleswigholstein:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2253,7 +2069,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_precautions_thüringen:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2289,7 +2105,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_preparation:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The measures decided on March 22 include, among other things,
           that contacts with other people outside the family members should be reduced
@@ -2325,7 +2141,7 @@ responses:
           value: Employment Law
         type: hints
   utter_germany_spread:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The number of infections with the coronavirus is also increasing
           in Germany. The interactive coronavirus maps from tagesschau DE, which can
@@ -2358,7 +2174,7 @@ responses:
           value: Measures in Germany
         type: hints
   utter_germany_spread_water:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Tap water in Germany is very well protected against all viruses,
           including the new corona virus, and according to the Federal Environment
@@ -2384,7 +2200,7 @@ responses:
           value: Pandemic exclamation in Germany
         type: hints
   utter_germany_train:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Local, long-distance and freight traffic of Deutsche Bahn is
           stable. Currently, only cross-border rail traffic has restrictions due to
@@ -2418,7 +2234,7 @@ responses:
           value: prevention
         type: hints
   utter_greeting_goodbye:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It was fun to write with you. Please feel free to contact me
           again if you have any further questions about our insurance. </speak>
@@ -2427,7 +2243,7 @@ responses:
           you have any further questions about our insurance.
         type: text
   utter_greeting_hello:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -2436,14 +2252,14 @@ responses:
           differently?
         type: text
   utter_greeting_how_are_you:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I'm good. Thanks! </speak>
         type: ssml
       - text: I'm good. Thanks!
         type: text
   utter_mask_differences:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There are significant differences in the masks. On the one hand
           there is the self-made mouth-nose protection (MNS), which can be sewn from
@@ -2493,7 +2309,7 @@ responses:
           value: Quick test
         type: hints
   utter_mask_ffp3:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> In addition to the simple fleece masks, which are worn like
           cloths over the mouth and nose, there are half masks that filter particles
@@ -2540,7 +2356,7 @@ responses:
           value: immunity
         type: hints
   utter_mask_general:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If a person suffering from a respiratory infection wears mouth
           and nose protection, the risk of infecting other people can be reduced,
@@ -2590,7 +2406,7 @@ responses:
           value: Quick test
         type: hints
   utter_myth_alcohol:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Rubbing or spraying the body with alcohol or chlorine does not
           kill viruses that have already entered the body. On the contrary, it could
@@ -2612,7 +2428,7 @@ responses:
           value: Fake-News
         type: hints
   utter_myth_hold_breath:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> No, holding your breath is not a suitable method of checking
           the infection. Only the regular tests lead to reliable results. </speak>
@@ -2630,7 +2446,7 @@ responses:
           value: Fake-News
         type: hints
   utter_myth_hot_bath:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> A hot bath cannot prevent the transmission. However, washing
           your hands thoroughly with soap and avoiding touching your eyes, nose and
@@ -2650,7 +2466,7 @@ responses:
           value: Fake-News
         type: hints
   utter_myth_mosquito:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> So far, there is no information that suggests that the virus
           can be transmitted by mosquito bites. </speak>
@@ -2668,7 +2484,7 @@ responses:
           value: Fake-News
         type: hints
   utter_myth_pneumonia_vaccine:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Pneumococcal vaccination does not protect against Kowitt 19.
           However, pneumococcal infections can lead to severe pneumonia and may require
@@ -2704,7 +2520,7 @@ responses:
           value: Fake-News
         type: hints
   utter_myths_conspiracy_fakenews:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In times of the spread of the coronavirus, the increasing uncertainty
           and concern of people are the ideal breeding ground for conspiracy theories,
@@ -2751,7 +2567,7 @@ responses:
           value: Kontaktverbot
         type: hints
   utter_myths_vitamins_plants_minerals_homeopathy:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> In general, the immune system can be strengthened through a
           balanced diet combined with exercise. There are indications for many vitamins,
@@ -2801,7 +2617,7 @@ responses:
           value: Fake-News
         type: hints
   utter_prevention_clean_hands:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Washing hands properly requires careful handling. For example,
           the hands are often not soaped up long enough and the back of the hand,
@@ -2835,7 +2651,7 @@ responses:
           value: treatment
         type: hints
   utter_prevention_desinfection:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> For chemical disinfection, agents with proven efficacy with
           a range of activity limited virucidal, limited virucidal plus or virucidal
@@ -2869,7 +2685,7 @@ responses:
           value: statistics
         type: hints
   utter_prevention_distance:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The restriction of social contacts should slow down transmission
           chains and the spread of the new type of corona virus in Germany. A distance
@@ -2899,7 +2715,7 @@ responses:
           value: Covid-19 Test
         type: hints
   utter_prevention_general:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The most important and most effective measures for personal
           protection and to protect other people from being infected with pathogens
@@ -2929,7 +2745,7 @@ responses:
           value: I have symptoms
         type: hints
   utter_prevention_home:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In order to slow the spread of the novel corona virus, it is
           currently important that as many people as possible stay at home. It depends
@@ -2965,7 +2781,7 @@ responses:
         type: image
         url: https://cosibot.org/wp-content/uploads/2020/03/bundesregierung_wirbleibenzuhause.jpg
   utter_prevention_informed:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> It is highly advisable to check the news regularly. Find the
           latest information on the Kowit 19 outbreak on the website of the World
@@ -2995,7 +2811,7 @@ responses:
           value: Wash your hands
         type: hints
   utter_prevention_medical_attention:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> If you have had personal contact with a person who has been
           diagnosed with SARS Koff 2 in the laboratory, you should contact your local
@@ -3033,7 +2849,7 @@ responses:
           value: Stay at home - visits to the doctor
         type: hints
   utter_prevention_touch:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Whether cleaning your nose, going to the toilet, petting an
           animal or touching objects. The hands often come into contact with germs.
@@ -3065,7 +2881,7 @@ responses:
           value: Disinfectant
         type: hints
   utter_quarantine_control:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Persons who are infected, have had contact with infected people
           or have stayed in risk areas are officially prescribed a 14-day quarantine.
@@ -3099,7 +2915,7 @@ responses:
           value: keep distance
         type: hints
   utter_quarantine_dogwalking:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> People infected with the virus must not leave the quarantine.
           This also means that you shouldn't take the dog to the streets or to parks.
@@ -3126,7 +2942,7 @@ responses:
           value: Quick test
         type: hints
   utter_quarantine_dos_and_donts:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> To be able to give you an exact answer, please let me know if
           you have been ordered to have a home quarantine because you are infected
@@ -3143,7 +2959,7 @@ responses:
           value: Nein
         type: multichoice
   utter_quarantine_general:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Quarantine means temporary regulatory isolation of a potentially
           or actually infected person to prevent the spread of a virus. This is done
@@ -3174,7 +2990,7 @@ responses:
           value: Quarantine control
         type: hints
   utter_quarantine_how_it_works:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> Wash your hands regularly and thoroughly and stick to the cough
           and sneeze label. Avoid touching your face. Keep a minimum distance of 2
@@ -3209,7 +3025,7 @@ responses:
           value: Course of the disease
         type: hints
   utter_quarantine_toiletpaper:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> According to the trade association of Germany, customers behave
           irrationally because they make hamster purchases for fear of shortage of
@@ -3237,7 +3053,7 @@ responses:
           value: Covid-19 and alcohol
         type: hints
   utter_quarantine_when_who_howlong:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> A two-week quarantine is then ordered by the authorities if
           there is a high risk of being infected. This is the case if you have had
@@ -3275,7 +3091,7 @@ responses:
           value: Pneumococcal vaccination
         type: hints
   utter_sources:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Below is a list of all the sources that have been used for this
           virtual assistant. </speak>
@@ -3320,7 +3136,7 @@ responses:
           value: What shops open
         type: hints
   utter_spread_air:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The most important route of transmission is a so-called droplet
           infection, in which the coronaviruses of infected people or animals are
@@ -3346,7 +3162,7 @@ responses:
           value: Mouthguard
         type: hints
   utter_spread_animals:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There are a few cases where the virus is believed to have been
           transmitted from humans to cats. In the laboratory, cats became infected,
@@ -3396,7 +3212,7 @@ responses:
           value: Mouthguard
         type: hints
   utter_spread_feces:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There is insufficient research on whether viruses can be transmitted
           via bowel movements. It is currently assumed that the virus is transmitted
@@ -3416,7 +3232,7 @@ responses:
           value: Mouthguard
         type: hints
   utter_spread_general:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The new corona virus SARS Koff 2 is transferable from person
           to person. The main route of transmission is droplet infection. This can
@@ -3443,7 +3259,7 @@ responses:
           value: Stay at home - do your shopping
         type: hints
   utter_spread_heat_cold:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The virus can be transmitted to all regions of the world. Neither
           climate nor weather have a recognizable influence on the virus. Corona viruses
@@ -3465,7 +3281,7 @@ responses:
           value: Mouthguard
         type: hints
   utter_spread_no_symptoms:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The risk of getting Kowitt 19 from someone with no symptoms
           is very low. However, many people with Kowitt 19 experience only mild symptoms.
@@ -3489,7 +3305,7 @@ responses:
           value: Mouthguard
         type: hints
   utter_spread_surfaces_food_objects:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The previously known corona viruses remain infectious on surfaces
           such as door handles for an average of four to five days. Like all droplet
@@ -3533,7 +3349,7 @@ responses:
           value: Airborne transmission
         type: hints
   utter_stayhomeinfo_authorities:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Job centers and employment offices can be reached by phone,
           email or fax. In order to be able to continue processing orders on time,
@@ -3559,7 +3375,7 @@ responses:
           value: What shops open
         type: hints
   utter_stayhomeinfo_doctor:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Yes. Visits to the doctor are possible. Please make sure to
           call the doctor's office before visiting a doctor. Many practices have separate
@@ -3581,7 +3397,7 @@ responses:
           value: What shops open
         type: hints
   utter_stayhomeinfo_drive_other_city:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Visiting family members (except for the parents) or friends
           is prohibited, regardless of whether they live in the same place or in the
@@ -3617,7 +3433,7 @@ responses:
           value: Covid-19 and Ibuprofen
         type: hints
   utter_stayhomeinfo_jogging:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -3626,7 +3442,7 @@ responses:
           differently?
         type: text
   utter_stayhomeinfo_mask_supermarket:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> No, you don't have to wear a protective mask when entering a
           store. Keep a minimum distance of one to 2 meters to other people outside
@@ -3646,7 +3462,7 @@ responses:
           value: What shops open
         type: hints
   utter_stayhomeinfo_network_congestion:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> There can always be brief disruptions to the digital infrastructure.
           All networks in Germany are currently stable. Some telecommunications providers
@@ -3674,7 +3490,7 @@ responses:
           value: Face mask in the supermarket
         type: hints
   utter_stayhomeinfo_open:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> In general, shops for everyday needs are open: retail for food
           and beverages including late sales outlets, pick-up and delivery services,
@@ -3706,7 +3522,7 @@ responses:
           value: Go for a walk
         type: hints
   utter_stayhomeinfo_supermarket:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> To be able to give you an exact answer, please let me know if
           you have been ordered to have a home quarantine because you are infected
@@ -3723,7 +3539,7 @@ responses:
           value: Nein
         type: multichoice
   utter_stayhomeinfo_visit60:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Visits to the elderly (60 years and up) and people with pre-existing
           conditions are currently discouraged, as these people are at high risk for
@@ -3751,7 +3567,7 @@ responses:
           value: Covid-19 and Ibuprofen
         type: hints
   utter_stayhomeinfo_visit_parents_children:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Parents can continue to visit their children, and of course
           vice versa. In view of the importance of dealing contacts for the parent-child
@@ -3780,7 +3596,7 @@ responses:
           value: Covid-19 and Ibuprofen
         type: hints
   utter_test_how:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> A throat swab is usually used for the test. This means that
           a nurse removes some secretions from the throat with a special cotton swab.
@@ -3810,7 +3626,7 @@ responses:
           value: Statistics per district
         type: hints
   utter_test_payment:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Since February 28, 2020, health insurance companies have been
           testing coronavirus to a large extent. A prerequisite for this is the decision
@@ -3830,7 +3646,7 @@ responses:
           value: Covid-19 in children
         type: hints
   utter_test_per_day:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Nobody can say at the moment how high the test capacities are
           per day in Germany. Not even the Federal Ministry of Health. Testing is
@@ -3864,7 +3680,7 @@ responses:
           value: Quick test
         type: hints
   utter_test_quick_test:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> More than a dozen companies already offer rapid tests for corona
           infection. You should be able to recognize whether there are antibodies
@@ -3898,7 +3714,7 @@ responses:
           value: Covid-19 and Ibuprofen
         type: hints
   utter_test_results_reliability:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Experts around the world consider the genetic analyzes to be
           robust; they are usually also used for other infectious diseases and evidence.
@@ -3922,7 +3738,7 @@ responses:
           value: Statistics per district
         type: hints
   utter_test_stay_in_china:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -3931,7 +3747,7 @@ responses:
           differently?
         type: text
   utter_test_virus:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If you suspect that you have been infected, please call your
           doctor or phone 116 116. This person decides whether you need to be tested
@@ -3957,7 +3773,7 @@ responses:
           value: Statistics per state
         type: hints
   utter_test_who:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Not all people in Germany have been tested for the new corona
           virus so far. The criteria have been adjusted several times. It is currently
@@ -3993,7 +3809,7 @@ responses:
           value: Statistics per district
         type: hints
   utter_travel_before:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> The Federal Foreign Office warns of tourist trips abroad. Due
           to increasing worldwide entry and exit restrictions and the restriction
@@ -4021,7 +3837,7 @@ responses:
           value: During the travel
         type: hints
   utter_travel_cancel:
-    custom:
+  - custom:
       answers:
       - ssml: '<speak> Detailed information about your rights if you do not want to
           start or cancel your trip can be found on the website of the Consumer Center,
@@ -4059,7 +3875,7 @@ responses:
           value: Return program
         type: hints
   utter_travel_general:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> What topic would you like to know more about? </speak>
         type: ssml
@@ -4080,7 +3896,7 @@ responses:
           value: Nach der Reise
         type: multichoice
   utter_travel_return:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Based on national criteria, a binding 14-day quarantine is generally
           ordered after a stay of several days abroad. This also applies to Germans.
@@ -4116,7 +3932,7 @@ responses:
           value: Return program
         type: hints
   utter_travel_returnprogram:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Numerous German travelers are stranded abroad and prevented
           from traveling on or back. The Federal Foreign Office is making every effort
@@ -4144,7 +3960,7 @@ responses:
           value: During the travel
         type: hints
   utter_travel_risk_countries:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> On the website of the Robert Koch Institute and the Federal
           Foreign Office you will find daily updated information on the current situation
@@ -4171,7 +3987,7 @@ responses:
           value: Return program
         type: hints
   utter_travel_while:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Wash your hands regularly and stay at least one meter away from
           people who cough or sneeze. Follow the instructions from the local authorities.
@@ -4201,7 +4017,7 @@ responses:
           value: Reiserückkehr
         type: hints
   utter_user_angry:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -4210,21 +4026,21 @@ responses:
           differently?
         type: text
   utter_user_friend:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> We are happy to be friends. </speak>
         type: ssml
       - text: We are happy to be friends.
         type: text
   utter_user_love:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Love is a beautiful thing! </speak>
         type: ssml
       - text: Love is a beautiful thing!
         type: text
   utter_user_no_data:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -4233,7 +4049,7 @@ responses:
           differently?
         type: text
   utter_user_no_further_questions:
-    custom:
+  - custom:
       answers:
       - text: All right.
         type: text
@@ -4244,7 +4060,7 @@ responses:
           you have any further questions about our insurance.
         type: text
   utter_user_particles:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -4253,14 +4069,14 @@ responses:
           differently?
         type: text
   utter_userfeeling_happy:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If you are happy, I am too! </speak>
         type: ssml
       - text: If you are happy, I am too!
         type: text
   utter_userfeeling_negative:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I did not understand that. Perhaps you can formulate your statement
           differently? </speak>
@@ -4269,56 +4085,56 @@ responses:
           differently?
         type: text
   utter_vocative_call:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I'm there! Just tell me how I can help you. </speak>
         type: ssml
       - text: I'm there! Just tell me how I can help you.
         type: text
   utter_vocative_help:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Naturally! What can I do for you? </speak>
         type: ssml
       - text: Naturally! What can I do for you?
         type: text
   utter_vocative_no:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> How else can I help you? </speak>
         type: ssml
       - text: How else can I help you?
         type: text
   utter_vocative_sorry:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> No problem! </speak>
         type: ssml
       - text: No problem!
         type: text
   utter_vocative_thank_you:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> I like to help. </speak>
         type: ssml
       - text: I like to help.
         type: text
   utter_vocative_yes:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> How else can I help you? </speak>
         type: ssml
       - text: How else can I help you?
         type: text
   utter_vocative_you_welcome:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> OK! How can I help you? </speak>
         type: ssml
       - text: OK! How can I help you?
         type: text
   utter_work_continued_payment:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Wages are still secured for both an individual who is quarantined
           and an entire city cordoned off. In Germany, the Infection Protection Act
@@ -4356,7 +4172,7 @@ responses:
           value: Stay at home
         type: hints
   utter_work_covid_general:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> Which of the topics related to labor law and Kowitt 19 would
           you like to know more about? A little hint. If the topic you are looking
@@ -4391,7 +4207,7 @@ responses:
           value: Mitteilungspflicht an Arbeitgeber als Infizierter
         type: multichoice
   utter_work_homeoffice_rights:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> You do not have a legal right to work from home. However, employees
           can agree this with their employer. The option can also result from a company
@@ -4419,7 +4235,7 @@ responses:
           value: Short-time work allowance and Covit-19
         type: hints
   utter_work_infection:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If the employee is unable to work as a result of an infection
           with the coronavirus and is therefore unable to perform his / her work,
@@ -4451,7 +4267,7 @@ responses:
           value: Labor law in the event of loss of public transport
         type: hints
   utter_work_notification:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> In principle, there is no obligation to disclose the medical
           diagnosis to the employer or colleagues. The employee is only obliged to
@@ -4481,7 +4297,7 @@ responses:
           value: Labor law in the event of loss of public transport
         type: hints
   utter_work_public_transportation:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If you cannot reach your workplace due to generally arranged
           measures and therefore cannot perform your work, you have no legal right
@@ -4512,7 +4328,7 @@ responses:
           value: Short-time work allowance and Covit-19
         type: hints
   utter_work_shorttimework_allowance:
-    custom:
+  - custom:
       answers:
       - ssml: <speak> If there is a loss of work due to loss of earnings, for example
           because delivery bottlenecks occur as a result of the corona virus and the
