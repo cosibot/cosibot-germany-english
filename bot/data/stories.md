@@ -1,3 +1,12 @@
+## No test_how intent and test_results_reliability in questions
+#### test_how path
+##* test_how
+##     - utter_test_how
+
+#### test_results_reliability path
+##* test_results_reliability
+##     - utter_test_results_reliability
+
 ## germany_train path1
 * germany_train_prevention
      - utter_germany_train
@@ -9,6 +18,7 @@
 ## germany_train path3
 * germany_train_suspect
      - utter_germany_train
+
 
 ## travel_while path
 * travel_while
@@ -290,10 +300,6 @@
 * bot_sports
      - utter_bot_sports
 
-## test_how path
-* test_how
-     - utter_test_how
-
 ## test_stay_in_china path
 * test_stay_in_china
      - utter_test_stay_in_china
@@ -485,10 +491,6 @@
 ## cc_religion path
 * cc_religion
      - utter_cc_religion
-
-## test_results_reliability path
-* test_results_reliability
-     - utter_test_results_reliability
 
 ## vocative_call path
 * vocative_call
